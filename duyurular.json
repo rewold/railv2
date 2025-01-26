@@ -1,20 +1,14 @@
-{
-  "title": "Warhammer 40k: Space Marine Türkçe Yama Duyurusu",
-  "date": "2025-01-25",
-  "author": "rewold20",
-  "announcement": {
-    "greeting": "Herkese selamlar!",
-    "body": [
-      "İkinci sponsorlu çevirimiz olan Warhammer 40,000 Space Marine, söz verdiğimiz gibi bugün Launcher'da yayınlandı.",
-      "Çevrilmesini istediğiniz başka oyunlar varsa bizimle iletişime geçebilirsiniz."
-    ],
-    "patch_notes": {
-      "compatibility": [
-        "Çeviri Steam'deki Anniversary Edition sürümü ve Amazon'daki temel sürüm ile uyumludur. Başka sürümlerde denenmemiştir.",
-        "Çeviri 1920x1080 çözünürlüğe uyumludur. Daha düşük veya yüksek çözünürlüklerde yazı tipi bozulmaları yaşanabilir ve bu durum oyun deneyiminizi olumsuz etkileyebilir."
-      ],
-      "installation": "Kurulum ve gerekli ayarlar Launcher'da belirtilmiştir. Lütfen oradaki yönergeleri takip edin.",
-      "multiplayer": "Çoklu oyuncu bölümü çevrilmiş olsa da mod yüklü olduğu için şu anda kapalıdır. Bu nedenle çoklu oyuncu çevirisi test edilememiştir."
-    }
+[
+  {
+    "title": "Warhammer 40k Duyurusu",
+    "message": "Herkese selamlar!\n\n2. Sponsor çevirimiz olan Warhammer 40,000 Space Marine söz verdiğimiz üzere bugün Launcher'da yerini almıştır. Eğer sizin de çevrilmesini istediğiniz bir oyun varsa bizimle iletişime geçebilirsiniz.\n\nYama Notları:\n\n- Çeviri Steam'de Anniversary Edition sürüme; Amazon'daysa temel sürüme uyumludur. Malum sürümde denenmemiştir.\n- Çeviri oyunun 1920*1080 çözünürlüğe uyumludur. Aşağı ya da yukarı çözünürlükte font bozulacağından dolayı oyun deneyiminizi olumsuz yönde etkileyecektir.\n- Çevirinin nasıl kurulacağı ve hangi ayar yapılması gerektiği Launcher'da yazılıdır. Oradaki yönergeleri takip edin.\n- Çoklu oyuncu bölümü çevrilse de mod yüklü olduğu için kapalı olacaktır. (Çoklu oyuncu çeviri yerleri bu nedenle test edilememiştir.)",
+    "date": "2025-01-25",
+    "author": "rewold20"
+  },
+  {
+    "title": "Yeni Özellik: Hızlı Çeviri",
+    "message": "Yeni eklenen 'Hızlı Çeviri' özelliği sayesinde, metinlerinizi anında çevirebilirsiniz.",
+    "date": "2025-01-26",
+    "author": "rewold20"
   }
-}
+]
