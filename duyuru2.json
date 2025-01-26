@@ -4,5 +4,11 @@
     "message": "Herkese selamlar! 2. Sponsor çevirimiz olan Warhammer 40,000 Space Marine söz verdiğimiz üzere bugün Launcher'da yerini almıştır.\nEğer sizin de çevrilmesini istediğiniz bir oyun varsa bizimle iletişime geçebilirsiniz.\nYama Notları:\n- Çeviri Steam'de Anniversary Edition sürüme; Amazon'daysa temel sürüme uyumludur. Malum sürümde denenmemiştir.\n- Çeviri oyunun 1920*1080 çözünürlüğe uyumludur. Aşağı ya da yukarı çözünürlükte font bozulacağından dolayı oyun deneyiminizi olumsuz yönde etkileyecektir.\n- Çevirinin nasıl kurulacağı ve hangi ayar yapılması gerektiği Launcher'da yazılıdır. Oradaki yönergeleri takip edin.\n- Çoklu oyuncu bölümü çevrilse de mod yüklü olduğu için kapalı olacaktır. (Çoklu oyuncu çeviri yerleri bu nedenle test edilememiştir.)",
     "date": "2025-01-25",
     "author": "rewold20"
+  },
+  {
+    "title": "Yeni Özellik: Hızlı Çeviri",
+    "message": "Yeni eklenen 'Hızlı Çeviri' özelliği sayesinde, metinlerinizi anında çevirebilirsiniz.",
+    "date": "2025-01-26",
+    "author": "rewold20"
   }
 ]
