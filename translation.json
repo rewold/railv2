@@ -2,8 +2,17 @@
     "games": [
         {
             "name": "Wasteland 3",
+            "video_url": "http://video.url",
             "category": "Windows",
             "description": "Bu oyun aksiyon dolu bir macera sunuyor...",
+            "images": [
+    "http://image1.url",
+    "http://image2.url"
+  ],
+  "translator": "Çevirmen Adı",
+  "testing": "Test Yapıcı Adı",
+  "compatible_version": "1.0",
+  "notes": "Çeviri notları burada yer alır."
             "poster_url": "https://cdn2.steamgriddb.com/grid/c962169702ef7de610d99ab6fb28c5d5.jpg"
         },
         {
@@ -13,4 +22,17 @@
             "poster_url": "https://cdn2.steamgriddb.com/grid/c962169702ef7de610d99ab6fb28c5d5.jpg"
         }
     ]
+}
+
+{
+  "name": "Oyun Adı",
+  "video_url": "http://video.url",
+  "images": [
+    "http://image1.url",
+    "http://image2.url"
+  ],
+  "translator": "Çevirmen Adı",
+  "testing": "Test Yapıcı Adı",
+  "compatible_version": "1.0",
+  "notes": "Çeviri notları burada yer alır."
 }
