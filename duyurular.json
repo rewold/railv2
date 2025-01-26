@@ -1,7 +1,6 @@
-[
-  {
+{
     "title": "Warhammer 40k Duyurusu",
-    "messages": [
+    "messages":
       "Herkese selamlar!",
       "2. Sponsor çevirimiz olan Warhammer 40,000 Space Marine",
       "söz verdiğimiz üzere bugün Launcher'da yerini almıştır.",
@@ -16,9 +15,7 @@
       "- Çevirinin nasıl kurulacağı ve hangi ayar yapılması gerektiği",
       "Launcher'da yazılıdır. Oradaki yönergeleri takip edin.",
       "- Çoklu oyuncu bölümü çevrilse de mod yüklü olduğu için kapalı",
-      "olacaktır. (Çoklu oyuncu çeviri yerleri bu nedenle test edilememiştir.)"
-    ],
+      "olacaktır. (Çoklu oyuncu çeviri yerleri bu nedenle test edilememiştir.)",
     "date": "2025-01-25",
     "author": "rewold20"
   }
-]
