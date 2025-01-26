@@ -1,19 +1,19 @@
 {
   "games": [
     {
-      "name": "Wasteland 3",
-      "video_url": "http://video.url",
+      "name": "Katana ZERO",
+      "video_url": "https://youtu.be/M-mhwhye0u4?si=WkRqGZpMgskhFY2V",
       "category": "Windows",
-      "description": "Bu oyun aksiyon dolu bir macera sunuyor...",
+      "description": "En çok tutulan çevirimiz...",
       "images": [
         "http://image1.url",
         "http://image2.url"
       ],
-      "translator": "Çevirmen Adı",
-      "testing": "Test Yapıcı Adı",
+      "translator": "rewold20",
+      "testing": "ISKA",
       "compatible_version": "1.0",
       "notes": "Çeviri notları burada yer alır.",
-      "poster_url": "https://cdn2.steamgriddb.com/grid/c962169702ef7de610d99ab6fb28c5d5.jpg"
+      "poster_url": "https://cdn2.steamgriddb.com/grid/057b1cfba313958551a8afa2c3e75429.png"
     },
     {
       "name": "Game 2",
