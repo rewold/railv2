@@ -6,13 +6,13 @@
                 "PC",
                 "Nintendo Switch"
             ],
-            "video_url": "",
+            "video_url": "https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy",
             "description": "",
             "images": [],
-            "translator": "",
-            "testing": "",
-            "compatible_version": "",
-            "notes": "",
+            "translator": "Yunus",
+            "testing": "ISKA - rewold20",
+            "compatible_version": "1",
+            "notes": "1",
             "poster_url": "https://cdn2.steamgriddb.com/grid/6a160291db4923ec7a8f4975286dbc87.jpg"
         },
         {
@@ -23,9 +23,9 @@
             "video_url": "",
             "description": "",
             "images": [],
-            "translator": "",
-            "testing": "",
-            "compatible_version": "",
+            "translator": "rewold20",
+            "testing": "rewold20",
+            "compatible_version": "Son sürüm",
             "notes": "",
             "poster_url": "https://cdn2.steamgriddb.com/grid/f5af5d678f578f894147317f481d8327.png"
         },
@@ -1821,7 +1821,7 @@
             "categories": [
                 "PC"
             ],
-            "video_url": "",
+            "video_url": "https://www.youtube.com/embed/8bEtDyrqsYs?si=vmkXsOR87FEG9-CU",
             "description": "",
             "images": [],
             "translator": "",
