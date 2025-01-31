@@ -3,13 +3,13 @@
         {
             "name": "9 Years of Shadows",
             "categories": [
-                "PC",
+                "Windows",
                 "Nintendo Switch"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "1-2-Switch",
@@ -19,19 +19,19 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Hue",
             "categories": [
                 "PS Vita",
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Batman: Arkham Origins Blackgate",
@@ -41,7 +41,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Rayman Origins",
@@ -49,23 +49,23 @@
                 "Nintendo Wii",
                 "PS Vita",
                 "Nintendo 3DS",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Castle of Illusion",
             "categories": [
                 "Android",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Castlevania: Aria of Sorrow",
@@ -75,7 +75,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Midnight Club: Street Racing",
@@ -85,7 +85,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Ico",
@@ -95,7 +95,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Dragon Warrior",
@@ -105,7 +105,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Super Mario World",
@@ -115,29 +115,29 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Alex Kidd in Miracle World DX",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "I Am The Hero",
             "categories": [
                 "PS Vita",
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Captain Toad: Treasure Tracker",
@@ -148,7 +148,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Link's Crossbow Training",
@@ -158,7 +158,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Legend of Zelda: The Minish Cap",
@@ -168,7 +168,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Rain",
@@ -178,7 +178,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Legend of Zelda",
@@ -188,7 +188,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Legend of Zelda: A Link to the Past",
@@ -198,18 +198,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Ashen",
             "categories": [
-                "PC",
+                "Windows",
                 "Nintendo Switch"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "A Hole New World",
@@ -220,7 +220,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "LoZ: ALBW",
@@ -230,7 +230,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Super Mario Bros. Wii",
@@ -240,7 +240,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid Fusion",
@@ -250,7 +250,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Silent Hill: Downpour",
@@ -260,7 +260,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Zelda II: The Adventure of Link",
@@ -270,18 +270,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Blasphemous",
             "categories": [
-                "PC",
+                "Windows",
                 "Nintendo Switch"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Luigi's Mansion",
@@ -291,7 +291,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid: Zero Mission",
@@ -301,18 +301,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Blasphemous 2",
             "categories": [
-                "PC",
+                "Windows",
                 "Nintendo Switch"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Axiom Verge",
@@ -322,7 +322,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Mario Kart 7",
@@ -332,7 +332,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Pokémon Emerald",
@@ -342,17 +342,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Bloodhound",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid: Samus Returns",
@@ -362,17 +362,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid: SR 3DS",
@@ -382,17 +382,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne 2",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne: ReVamped",
@@ -402,7 +402,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "New Super Mario Bros. 2",
@@ -412,49 +412,49 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne 2: Terminal Cut",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Bloodstained: Ritual of the Night",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne Betrayal",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Bright Memory Infinite",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Resident Evil: Revelations 3DS",
@@ -464,17 +464,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "BloodRayne: Terminal Cut",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Resident Evil: The Mercenaries 3D",
@@ -484,18 +484,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Carrion",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Steamworld Dig",
@@ -505,18 +505,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Coffin Dodgers",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Legend of Zelda: Ocarina of Time 3D",
@@ -526,17 +526,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Brothers: A Tale of Two Sons Remake",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Death's Door",
@@ -546,7 +546,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Legend of Zelda: Tri Force Heroes",
@@ -556,17 +556,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Bully: Scholarship Edition",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Donkey Kong Country: Tropical Freeze",
@@ -576,7 +576,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "ULTIMATE NES REMIX",
@@ -586,18 +586,18 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Doom 64",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Yoshi's New Island",
@@ -607,81 +607,81 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Ender Lilies: Quietus of the Knights",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Eternal Hope",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Dead Rising 4",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Evergate",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Dead Space 3: Awakened",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Fe",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Dolmen",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Fez",
@@ -691,82 +691,82 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Doom",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Final Fantasy VII",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Grapple Dog",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Graveyard Keeper",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "ENDER MAGNOLIA: Bloom in the Mist",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "GRIS",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Haiku, the Robot",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Hotline Miami 2: Wrong Number",
@@ -776,17 +776,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Fallout 3: GOTY",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "It Takes Two",
@@ -796,38 +796,38 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Freedom Fighters",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Journey to the Savage Planet",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Ghosts 'n Goblins Resurrection",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Kirby and the Forgotten Land",
@@ -837,7 +837,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Kirby's Dream Buffet",
@@ -847,7 +847,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Luigi's Mansion 2 HD",
@@ -857,7 +857,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Mario vs. Donkey Kong",
@@ -867,17 +867,17 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "GTA: Liberty City Stories",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid Dread",
@@ -887,7 +887,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Metroid Prime Remastered",
@@ -897,7 +897,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Mortal Shell: Complete Edition",
@@ -907,7 +907,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "New Super Mario Bros. U Deluxe",
@@ -917,70 +917,70 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Olija",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Katana Zero",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Paradise Lost",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Kona",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Police Stories",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Mass Effect L.E",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Princess Peach: Showtime!",
@@ -990,60 +990,60 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Nocturne",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Project Warlock",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Running on Magic",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "PAC-MAN WORLD Re-PAC",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Spyro Reignited Trilogy",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Super Mario 3D World + Bowser’s Fury",
@@ -1053,7 +1053,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Super Mario Bros. Wonder",
@@ -1063,70 +1063,70 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Police Stories: The Academy",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "T.M.N.T: Shredder's Revenge",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Prey",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Tails of Iron",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Prey: Mooncrash",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Last Faith",
             "categories": [
                 "Nintendo Switch",
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Touhou Luna Nights",
@@ -1136,7 +1136,7 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Zelda: Link's Awakening",
@@ -1146,187 +1146,187 @@
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Resident Evil 3",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Roki",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Saints Row 2",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Sniper Ghost Warrior Contracts",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Song of Horror: Complete Edition",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Source of Madness",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Sunwards",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "T.M.N.T: Out of the Shadows",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Evil Within 2",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Godfather II",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "The Godfather The Game",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Those Who Remain",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Thymesia",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Tower Hunter: Erza's Trial",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Trepang2",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Turok",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Warhammer 40,000: Space Marine A.E.",
             "categories": [
-                "PC"
+                "Windows"
             ],
-            "windows": "",
+            "windows": "https://raw.githubusercontent.com/TROguz/Windows/main/SpaceMarine_AE.rar",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         },
         {
             "name": "Zorro The Chronicles",
             "categories": [
-                "PC"
+                "Windows"
             ],
             "windows": "",
             "linux": "",
             "macos": "",
-            "other_download_links": []
+            "farkli_platform_link": []
         }
     ]
 }
