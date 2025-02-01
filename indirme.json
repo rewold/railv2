@@ -1,0 +1,20 @@
+{
+  game_data = {
+    "name": "Warhammer 40,000: Space Marine",
+    "downloads": {
+        "Windows": "https://raw.githubusercontent.com/TROguz/pc/main/SpaceMarine_AE.rar",
+        "Nintendo Switch": "",
+        "Nintendo 3DS": "",
+        "Nintendo Wii": "",
+        "GBA": "",
+        "SNES": "",
+        "NES": "",
+        "GBC": "",
+        "Playstation 3": "",
+        "Playstation 2": "",
+        "Playstation Vita": "",
+        "Android": "",
+        "Linux": "",
+        "MacOS": ""
+    }
+}
