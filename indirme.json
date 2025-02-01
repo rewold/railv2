@@ -1,6 +1,6 @@
 {
   game_data = {
-    "name": "Warhammer 40,000: Space Marine",
+    "name": "Warhammer 40,000: Space Marine A.E.",
     "downloads": {
         "Windows": "https://raw.githubusercontent.com/TROguz/pc/main/SpaceMarine_AE.rar",
         "Nintendo Switch": "",
