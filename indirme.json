@@ -1,20 +1,667 @@
-{
-  game_data = {
-    "name": "Warhammer 40,000: Space Marine A.E.",
-    "downloads": {
-        "Windows": "https://raw.githubusercontent.com/TROguz/pc/main/SpaceMarine_AE.rar",
-        "Nintendo Switch": "",
-        "Nintendo 3DS": "",
-        "Nintendo Wii": "",
-        "GBA": "",
-        "SNES": "",
-        "NES": "",
-        "GBC": "",
-        "Playstation 3": "",
-        "Playstation 2": "",
-        "Playstation Vita": "",
-        "Android": "",
-        "Linux": "",
-        "MacOS": ""
-    }
-}
+games_data = [
+    {
+        "name": "9 Years of Shadows",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "1-2-Switch",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Hue",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Batman: Arkham Origins Blackgate",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Rayman Origins",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Castle of Illusion",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Castlevania: Aria of Sorrow",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Midnight Club: Street Racing",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Ico",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Dragon Warrior",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Super Mario World",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Alex Kidd in Miracle World DX",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "I Am The Hero",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Captain Toad: Treasure Tracker",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Link's Crossbow Training",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "The Legend of Zelda: The Minish Cap",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Rain",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "The Legend of Zelda",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "The Legend of Zelda: A Link to the Past",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Ashen",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "A Hole New World",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "LoZ: ALBW",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Super Mario Bros. Wii",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Metroid Fusion",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Silent Hill: Downpour",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Zelda II: The Adventure of Link",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Blasphemous",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Luigi's Mansion",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Metroid: Zero Mission",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Blasphemous 2",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Axiom Verge",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Mario Kart 7",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Pokémon Emerald",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Bloodhound",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
+        "name": "Metroid: Samus Returns",
+        "downloads": {
+            "Windows": "",
+            "Nintendo Switch": "",
+            "Nintendo 3DS": "",
+            "Nintendo Wii": "",
+            "GBA": "",
+            "SNES": "",
+            "NES": "",
+            "GBC": "",
+            "Playstation 3": "",
+            "Playstation 2": "",
+            "Playstation Vita": "",
+            "Android": "",
+            "Linux": "",
+            "MacOS": ""
+        }
+    },
+    {
