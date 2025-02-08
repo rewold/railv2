@@ -2,7 +2,7 @@
 games:
   - name: 9 Years of Shadows
     categories:
-      - PC
+      - Windows
       - Nintendo Switch
     video_url: https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy
     description: ""
@@ -27,7 +27,7 @@ games:
     categories:
       - PS Vita
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -52,7 +52,7 @@ games:
       - Nintendo Wii
       - PS Vita
       - Nintendo 3DS
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -64,7 +64,7 @@ games:
   - name: Castle of Illusion
     categories:
       - Android
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -130,7 +130,7 @@ games:
     poster_url: ""
   - name: Alex Kidd in Miracle World DX
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -143,7 +143,7 @@ games:
     categories:
       - PS Vita
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -221,7 +221,7 @@ games:
     poster_url: ""
   - name: Ashen
     categories:
-      - PC
+      - Windows
       - Nintendo Switch
     video_url: ""
     description: ""
@@ -300,7 +300,7 @@ games:
     poster_url: ""
   - name: Blasphemous
     categories:
-      - PC
+      - Windows
       - Nintendo Switch
     video_url: ""
     description: ""
@@ -334,7 +334,7 @@ games:
     poster_url: ""
   - name: Blasphemous 2
     categories:
-      - PC
+      - Windows
       - Nintendo Switch
     video_url: ""
     description: ""
@@ -379,7 +379,7 @@ games:
     poster_url: ""
   - name: Bloodhound
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -401,7 +401,7 @@ games:
     poster_url: ""
   - name: BloodRayne
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -423,7 +423,7 @@ games:
     poster_url: ""
   - name: BloodRayne 2
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -456,7 +456,7 @@ games:
     poster_url: ""
   - name: "BloodRayne 2: Terminal Cut"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -468,7 +468,7 @@ games:
   - name: "Bloodstained: Ritual of the Night"
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -479,7 +479,7 @@ games:
     poster_url: ""
   - name: BloodRayne Betrayal
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -491,7 +491,7 @@ games:
   - name: Bright Memory Infinite
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -513,7 +513,7 @@ games:
     poster_url: ""
   - name: "BloodRayne: Terminal Cut"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -536,7 +536,7 @@ games:
   - name: Carrion
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -559,7 +559,7 @@ games:
   - name: Coffin Dodgers
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -581,7 +581,7 @@ games:
     poster_url: ""
   - name: "Brothers: A Tale of Two Sons Remake"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -614,7 +614,7 @@ games:
     poster_url: ""
   - name: "Bully: Scholarship Edition"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -648,7 +648,7 @@ games:
   - name: Doom 64
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -671,7 +671,7 @@ games:
   - name: "Ender Lilies: Quietus of the Knights"
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -683,7 +683,7 @@ games:
   - name: Eternal Hope
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -694,7 +694,7 @@ games:
     poster_url: ""
   - name: Dead Rising 4
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -706,7 +706,7 @@ games:
   - name: Evergate
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -717,7 +717,7 @@ games:
     poster_url: ""
   - name: "Dead Space 3: Awakened"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -729,7 +729,7 @@ games:
   - name: Fe
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -740,7 +740,7 @@ games:
     poster_url: ""
   - name: Dolmen
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -762,7 +762,7 @@ games:
     poster_url: ""
   - name: Doom
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -774,7 +774,7 @@ games:
   - name: Final Fantasy VII
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -786,7 +786,7 @@ games:
   - name: Grapple Dog
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -798,7 +798,7 @@ games:
   - name: Graveyard Keeper
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -809,7 +809,7 @@ games:
     poster_url: ""
   - name: "ENDER MAGNOLIA: Bloom in the Mist"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -821,7 +821,7 @@ games:
   - name: GRIS
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -833,7 +833,7 @@ games:
   - name: Haiku, the Robot
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -855,7 +855,7 @@ games:
     poster_url: ""
   - name: "Fallout 3: GOTY"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -877,7 +877,7 @@ games:
     poster_url: ""
   - name: Freedom Fighters
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -889,7 +889,7 @@ games:
   - name: Journey to the Savage Planet
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -900,7 +900,7 @@ games:
     poster_url: ""
   - name: Ghosts 'n Goblins Resurrection
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -955,7 +955,7 @@ games:
     poster_url: ""
   - name: "GTA: Liberty City Stories"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1011,7 +1011,7 @@ games:
   - name: Olija
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1022,7 +1022,7 @@ games:
     poster_url: ""
   - name: Katana Zero
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1034,7 +1034,7 @@ games:
   - name: Paradise Lost
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1045,7 +1045,7 @@ games:
     poster_url: ""
   - name: Kona
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1057,7 +1057,7 @@ games:
   - name: Police Stories
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1068,7 +1068,7 @@ games:
     poster_url: ""
   - name: Mass Effect L.E
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1090,7 +1090,7 @@ games:
     poster_url: ""
   - name: Nocturne
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1102,7 +1102,7 @@ games:
   - name: Project Warlock
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1114,7 +1114,7 @@ games:
   - name: Running on Magic
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1125,7 +1125,7 @@ games:
     poster_url: ""
   - name: PAC-MAN WORLD Re-PAC
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1137,7 +1137,7 @@ games:
   - name: Spyro Reignited Trilogy
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1170,7 +1170,7 @@ games:
     poster_url: ""
   - name: "Police Stories: The Academy"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1182,7 +1182,7 @@ games:
   - name: "T.M.N.T: Shredder's Revenge"
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1193,7 +1193,7 @@ games:
     poster_url: ""
   - name: Prey
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1205,7 +1205,7 @@ games:
   - name: Tails of Iron
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1216,7 +1216,7 @@ games:
     poster_url: ""
   - name: "Prey: Mooncrash"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1228,7 +1228,7 @@ games:
   - name: The Last Faith
     categories:
       - Nintendo Switch
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1261,7 +1261,7 @@ games:
     poster_url: ""
   - name: Resident Evil 3
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1272,7 +1272,7 @@ games:
     poster_url: ""
   - name: Roki
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1283,7 +1283,7 @@ games:
     poster_url: ""
   - name: Saints Row 2
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1294,7 +1294,7 @@ games:
     poster_url: ""
   - name: Sniper Ghost Warrior Contracts
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1305,7 +1305,7 @@ games:
     poster_url: ""
   - name: "Song of Horror: Complete Edition"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1316,7 +1316,7 @@ games:
     poster_url: ""
   - name: Source of Madness
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1327,7 +1327,7 @@ games:
     poster_url: ""
   - name: Sunwards
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1338,7 +1338,7 @@ games:
     poster_url: ""
   - name: "T.M.N.T: Out of the Shadows"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1349,7 +1349,7 @@ games:
     poster_url: ""
   - name: The Evil Within 2
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1360,7 +1360,7 @@ games:
     poster_url: ""
   - name: The Godfather II
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1371,7 +1371,7 @@ games:
     poster_url: ""
   - name: The Godfather The Game
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1382,7 +1382,7 @@ games:
     poster_url: ""
   - name: Those Who Remain
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1393,7 +1393,7 @@ games:
     poster_url: ""
   - name: Thymesia
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1404,7 +1404,7 @@ games:
     poster_url: ""
   - name: "Tower Hunter: Erza's Trial"
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1415,7 +1415,7 @@ games:
     poster_url: ""
   - name: Trepang2
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1426,7 +1426,7 @@ games:
     poster_url: ""
   - name: Turok
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -1437,7 +1437,7 @@ games:
     poster_url: ""
   - name: "Warhammer 40,000: Space Marine A.E."
     categories:
-      - PC
+      - Windows
     video_url: https://youtu.be/8bEtDyrqsYs
     description: ""
     images: []
@@ -1448,7 +1448,7 @@ games:
     poster_url: https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png
   - name: Zorro The Chronicles
     categories:
-      - PC
+      - Windows
     video_url: ""
     description: ""
     images: []
