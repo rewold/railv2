@@ -421,7 +421,7 @@ games:
       Windows: https://example.com/turok_windows.zip
   - name: "Warhammer 40,000: Space Marine A.E."
     download_urls:
-      Windows: https://raw.githubusercontent.com/TROguz/Windows/main/SpaceMarine_AE.rar
+      Windows: https://raw.githubusercontent.com/TROguz/pc/main/SpaceMarine_AE.rar
   - name: Zorro The Chronicles
     download_urls:
       Windows: https://example.com/zorro_the_chronicles_windows.zip
