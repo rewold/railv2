@@ -376,7 +376,7 @@ games:
       Windows: https://example.com/resident_evil_3_windows.zip
   - name: Röki
     downloads:
-      Windows: https://github.com/rewold/railv2/raw/refs/heads/main/windows/TRRoki.rar
+      Windows: https://github.com/rewold/railv2/raw/refs/heads/main/windows/roki_tr.7z
   - name: Saints Row 2
     downloads:
       Windows: https://example.com/saints_row_2_windows.zip
