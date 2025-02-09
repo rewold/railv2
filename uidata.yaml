@@ -1270,17 +1270,17 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Roki
+  - name: Röki
     categories:
       - Windows
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "Truelegend"
+    testing: "Truelegend"
+    compatible_version: "V3.3 GOG sürüm"
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/8ab053a75808486aae23ad7d67c409bf.png"
   - name: Saints Row 2
     categories:
       - Windows
