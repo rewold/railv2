@@ -1,427 +1,419 @@
----
 games:
-  - name: 9 Years of Shadows
+  - name: "1-2-Switch"
+    downloads:
+      Nintendo Switch: https://example.com/1_2_switch_switch.zip
+  - name: "9 Years of Shadows"
     downloads:
       Windows: https://example.com/9_years_of_shadows_windows.zip
       Nintendo Switch: https://example.com/9_years_of_shadows_switch.zip
-  - name: 1-2-Switch
+  - name: "A Hole New World"
     downloads:
-      Nintendo Switch: https://example.com/1_2_switch_switch.zip
-  - name: Hue
+      Nintendo Switch: https://example.com/a_hole_new_world_switch.zip
+      Playstation Vita: https://example.com/a_hole_new_world_vita.zip
+  - name: "Alex Kidd in Miracle World DX"
     downloads:
-      Windows: https://example.com/hue_windows.zip
-      Nintendo Switch: https://example.com/hue_switch.zip
-      Playstation Vita: https://example.com/hue_vita.zip
+      Windows: https://example.com/alex_kidd_miracle_world_dx_windows.zip
+  - name: "Ashen"
+    downloads:
+      Windows: https://example.com/ashen_windows.zip
+      Nintendo Switch: https://example.com/ashen_switch.zip
+  - name: "Axiom Verge"
+    downloads:
+      Nintendo Switch: https://example.com/axiom_verge_switch.zip
   - name: "Batman: Arkham Origins Blackgate"
     downloads:
       Nintendo 3DS: https://example.com/batman_arkham_origins_blackgate_3ds.zip
-  - name: Rayman Origins
+  - name: "Blasphemous"
     downloads:
-      Windows: https://example.com/rayman_origins_windows.zip
-      Nintendo 3DS: https://example.com/rayman_origins_3ds.zip
-      Nintendo Wii: https://example.com/rayman_origins_wii.zip
-      Playstation Vita: https://example.com/rayman_origins_vita.zip
-  - name: Castle of Illusion
+      Windows: https://example.com/blasphemous_windows.zip
+      Nintendo Switch: https://example.com/blasphemous_switch.zip
+  - name: "Blasphemous 2"
+    downloads:
+      Windows: https://example.com/blasphemous_2_windows.zip
+      Nintendo Switch: https://example.com/blasphemous_2_switch.zip
+  - name: "BloodRayne"
+    downloads:
+      Windows: https://example.com/bloodrayne_windows.zip
+  - name: "BloodRayne 2"
+    downloads:
+      Windows: https://example.com/bloodrayne_2_windows.zip
+  - name: "BloodRayne 2: Terminal Cut"
+    downloads:
+      Windows: https://example.com/bloodrayne_2_terminal_cut_windows.zip
+  - name: "BloodRayne Betrayal"
+    downloads:
+      Windows: https://example.com/bloodrayne_betrayal_windows.zip
+  - name: "BloodRayne: ReVamped"
+    downloads:
+      Nintendo Switch: https://example.com/bloodrayne_revamped_switch.zip
+  - name: "BloodRayne: Terminal Cut"
+    downloads:
+      Windows: https://example.com/bloodrayne_terminal_cut_windows.zip
+  - name: "Bloodhound"
+    downloads:
+      Windows: https://example.com/bloodhound_windows.zip
+  - name: "Bloodstained: Ritual of the Night"
+    downloads:
+      Nintendo Switch: https://example.com/bloodstained_ritual_night_switch.zip
+      Windows: https://example.com/bloodstained_ritual_night_windows.zip
+  - name: "Bright Memory Infinite"
+    downloads:
+      Nintendo Switch: https://example.com/bright_memory_infinite_switch.zip
+      Windows: https://example.com/bright_memory_infinite_windows.zip
+  - name: "Brothers: A Tale of Two Sons Remake"
+    downloads:
+      Windows: https://example.com/brothers_tale_two_sons_remake_windows.zip
+  - name: "Bully: Scholarship Edition"
+    downloads:
+      Windows: https://example.com/bully_scholarship_edition_windows.zip
+  - name: "Carrion"
+    downloads:
+      Nintendo Switch: https://example.com/carrion_switch.zip
+      Windows: https://example.com/carrion_windows.zip
+  - name: "Castle of Illusion"
     downloads:
       Windows: https://example.com/castle_of_illusion_windows.zip
       Android: https://example.com/castle_of_illusion_android.zip
   - name: "Castlevania: Aria of Sorrow"
     downloads:
       GBA: https://example.com/castlevania_aria_of_sorrow_gba.zip
-  - name: "Midnight Club: Street Racing"
-    downloads:
-      Playstation 2: https://example.com/midnight_club_street_racing_ps2.zip
-  - name: Ico
-    downloads:
-      Playstation 3: https://example.com/ico_ps3.zip
-  - name: Dragon Warrior
-    downloads:
-      NES: https://example.com/dragon_warrior_nes.zip
-  - name: Super Mario World
-    downloads:
-      SNES: https://example.com/super_mario_world_snes.zip
-  - name: Alex Kidd in Miracle World DX
-    downloads:
-      Windows: https://example.com/alex_kidd_miracle_world_dx_windows.zip
-  - name: I Am The Hero
-    downloads:
-      Windows: https://example.com/i_am_the_hero_windows.zip
-      Nintendo Switch: https://example.com/i_am_the_hero_switch.zip
-      Playstation Vita: https://example.com/i_am_the_hero_vita.zip
   - name: "Captain Toad: Treasure Tracker"
     downloads:
       Nintendo Switch: https://example.com/captain_toad_treasure_tracker_switch.zip
       Nintendo 3DS: https://example.com/captain_toad_treasure_tracker_3ds.zip
-  - name: Link's Crossbow Training
-    downloads:
-      Nintendo Wii: https://example.com/links_crossbow_training_wii.zip
-  - name: "The Legend of Zelda: The Minish Cap"
-    downloads:
-      GBA: https://example.com/the_legend_of_zelda_minish_cap_gba.zip
-  - name: Rain
-    downloads:
-      Playstation 3: https://example.com/rain_ps3.zip
-  - name: The Legend of Zelda
-    downloads:
-      NES: https://example.com/the_legend_of_zelda_nes.zip
-  - name: "The Legend of Zelda: A Link to the Past"
-    downloads:
-      SNES: https://example.com/the_legend_of_zelda_link_to_the_past_snes.zip
-  - name: Ashen
-    downloads:
-      Windows: https://example.com/ashen_windows.zip
-      Nintendo Switch: https://example.com/ashen_switch.zip
-  - name: A Hole New World
-    downloads:
-      Nintendo Switch: https://example.com/a_hole_new_world_switch.zip
-      Playstation Vita: https://example.com/a_hole_new_world_vita.zip
-  - name: "LoZ: ALBW"
-    downloads:
-      Nintendo 3DS: https://example.com/loz_albw_3ds.zip
-  - name: Super Mario Bros. Wii
-    downloads:
-      Nintendo Wii: https://example.com/super_mario_bros_wii_wii.zip
-  - name: Metroid Fusion
-    downloads:
-      GBA: https://example.com/metroid_fusion_gba.zip
-  - name: "Silent Hill: Downpour"
-    downloads:
-      Playstation 3: https://example.com/silent_hill_downpour_ps3.zip
-  - name: "Zelda II: The Adventure of Link"
-    downloads:
-      NES: https://example.com/zelda_ii_the_adventure_of_link_nes.zip
-  - name: Blasphemous
-    downloads:
-      Windows: https://example.com/blasphemous_windows.zip
-      Nintendo Switch: https://example.com/blasphemous_switch.zip
-  - name: Luigi's Mansion
-    downloads:
-      Nintendo 3DS: https://example.com/luigis_mansion_3ds.zip
-  - name: "Metroid: Zero Mission"
-    downloads:
-      GBA: https://example.com/metroid_zero_mission_gba.zip
-  - name: Blasphemous 2
-    downloads:
-      Windows: https://example.com/blasphemous_2_windows.zip
-      Nintendo Switch: https://example.com/blasphemous_2_switch.zip
-  - name: Axiom Verge
-    downloads:
-      Nintendo Switch: https://example.com/axiom_verge_switch.zip
-  - name: Mario Kart 7
-    downloads:
-      Nintendo 3DS: https://example.com/mario_kart_7_3ds.zip
-  - name: Pokémon Emerald
-    downloads:
-      GBA: https://example.com/pokemon_emerald_gba.zip
-  - name: Bloodhound
-    downloads:
-      Windows: https://example.com/bloodhound_windows.zip
-  - name: "Metroid: Samus Returns"
-    downloads:
-      Nintendo 3DS: https://example.com/metroid_samus_returns_3ds.zip
-  - name: BloodRayne
-    downloads:
-      Windows: https://example.com/bloodrayne_windows.zip
-  - name: "Metroid: SR 3DS"
-    downloads:
-      Nintendo 3DS: https://example.com/metroid_sr_3ds.zip
-  - name: BloodRayne 2
-    downloads:
-      Windows: https://example.com/bloodrayne_2_windows.zip
-  - name: "BloodRayne: ReVamped"
-    downloads:
-      Nintendo Switch: https://example.com/bloodrayne_revamped_switch.zip
-  - name: New Super Mario Bros. 2
-    downloads:
-      Nintendo 3DS: https://example.com/new_super_mario_bros_2_3ds.zip
-  - name: "BloodRayne 2: Terminal Cut"
-    downloads:
-      Windows: https://example.com/bloodrayne_2_terminal_cut_windows.zip
-  - name: "Bloodstained: Ritual of the Night"
-    downloads:
-      Nintendo Switch: https://example.com/bloodstained_ritual_night_switch.zip
-      Windows: https://example.com/bloodstained_ritual_night_windows.zip
-  - name: BloodRayne Betrayal
-    downloads:
-      Windows: https://example.com/bloodrayne_betrayal_windows.zip
-  - name: Bright Memory Infinite
-    downloads:
-      Nintendo Switch: https://example.com/bright_memory_infinite_switch.zip
-      Windows: https://example.com/bright_memory_infinite_windows.zip
-  - name: "Resident Evil: Revelations 3DS"
-    downloads:
-      Nintendo 3DS: https://example.com/resident_evil_revelations_3ds.zip
-  - name: "BloodRayne: Terminal Cut"
-    downloads:
-      Windows: https://example.com/bloodrayne_terminal_cut_windows.zip
-  - name: "Resident Evil: The Mercenaries 3D"
-    downloads:
-      Nintendo 3DS: https://example.com/resident_evil_mercenaries_3d_3ds.zip
-  - name: Carrion
-    downloads:
-      Nintendo Switch: https://example.com/carrion_switch.zip
-      Windows: https://example.com/carrion_windows.zip
-  - name: Steamworld Dig
-    downloads:
-      Nintendo 3DS: https://example.com/steamworld_dig_3ds.zip
-  - name: Coffin Dodgers
+  - name: "Coffin Dodgers"
     downloads:
       Nintendo Switch: https://example.com/coffin_dodgers_switch.zip
       Windows: https://example.com/coffin_dodgers_windows.zip
-  - name: "The Legend of Zelda: Ocarina of Time 3D"
+  - name: "Dead Rising 4"
     downloads:
-      Nintendo 3DS: https://example.com/zelda_ocarina_of_time_3d_3ds.zip
-  - name: "Brothers: A Tale of Two Sons Remake"
+      Windows: https://example.com/dead_rising_4_windows.zip
+  - name: "Dead Space 3: Awakened"
     downloads:
-      Windows: https://example.com/brothers_tale_two_sons_remake_windows.zip
-  - name: Death's Door
+      Windows: https://example.com/dead_space_3_awakened_windows.zip
+  - name: "Death's Door"
     downloads:
       Nintendo Switch: https://example.com/deaths_door_switch.zip
-  - name: "The Legend of Zelda: Tri Force Heroes"
+  - name: "Dolmen"
     downloads:
-      Nintendo 3DS: https://example.com/zelda_tri_force_heroes_3ds.zip
-  - name: "Bully: Scholarship Edition"
-    downloads:
-      Windows: https://example.com/bully_scholarship_edition_windows.zip
+      Windows: https://example.com/dolmen_windows.zip
   - name: "Donkey Kong Country: Tropical Freeze"
     downloads:
       Nintendo Switch: https://example.com/donkey_kong_tropical_freeze_switch.zip
-  - name: ULTIMATE NES REMIX
+  - name: "Doom"
     downloads:
-      Nintendo 3DS: https://example.com/ultimate_nes_remix_3ds.zip
-  - name: Doom 64
+      Windows: https://example.com/doom_windows.zip
+  - name: "Doom 64"
     downloads:
       Nintendo Switch: https://example.com/doom_64_switch.zip
       Windows: https://example.com/doom_64_windows.zip
-  - name: Yoshi's New Island
+  - name: "Dragon Warrior"
     downloads:
-      Nintendo 3DS: https://example.com/yoshis_new_island_3ds.zip
+      NES: https://example.com/dragon_warrior_nes.zip
+  - name: "ENDER MAGNOLIA: Bloom in the Mist"
+    downloads:
+      Windows: https://example.com/ender_magnolia_bloom_windows.zip
   - name: "Ender Lilies: Quietus of the Knights"
     downloads:
       Nintendo Switch: https://example.com/ender_lilies_quietus_switch.zip
       Windows: https://example.com/ender_lilies_quietus_windows.zip
-  - name: Eternal Hope
+  - name: "Eternal Hope"
     downloads:
       Nintendo Switch: https://example.com/eternal_hope_switch.zip
       Windows: https://example.com/eternal_hope_windows.zip
-  - name: Dead Rising 4
-    downloads:
-      Windows: https://example.com/dead_rising_4_windows.zip
-  - name: Evergate
+  - name: "Evergate"
     downloads:
       Nintendo Switch: https://example.com/evergate_switch.zip
       Windows: https://example.com/evergate_windows.zip
-  - name: "Dead Space 3: Awakened"
+  - name: "Fallout 3: GOTY"
     downloads:
-      Windows: https://example.com/dead_space_3_awakened_windows.zip
-  - name: Fe
+      Windows: https://example.com/fallout_3_goty_windows.zip
+  - name: "Fe"
     downloads:
       Nintendo Switch: https://example.com/fe_switch.zip
       Windows: https://example.com/fe_windows.zip
-  - name: Dolmen
-    downloads:
-      Windows: https://example.com/dolmen_windows.zip
-  - name: Fez
+  - name: "Fez"
     downloads:
       Nintendo Switch: https://example.com/fez_switch.zip
-  - name: Doom
-    downloads:
-      Windows: https://example.com/doom_windows.zip
-  - name: Final Fantasy VII
+  - name: "Final Fantasy VII"
     downloads:
       Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
       Windows: https://example.com/final_fantasy_vii_windows.zip
-  - name: Grapple Dog
+  - name: "Freedom Fighters"
+    downloads:
+      Windows: https://example.com/freedom_fighters_windows.zip
+  - name: "Ghosts 'n Goblins Resurrection"
+    downloads:
+      Windows: https://example.com/ghosts_n_goblins_resurrection_windows.zip
+  - name: "Grapple Dog"
     downloads:
       Nintendo Switch: https://example.com/grapple_dog_switch.zip
       Windows: https://example.com/grapple_dog_windows.zip
-  - name: Graveyard Keeper
+  - name: "Graveyard Keeper"
     downloads:
       Nintendo Switch: https://example.com/graveyard_keeper_switch.zip
       Windows: https://example.com/graveyard_keeper_windows.zip
-  - name: "ENDER MAGNOLIA: Bloom in the Mist"
-    downloads:
-      Windows: https://example.com/ender_magnolia_bloom_windows.zip
-  - name: GRIS
+  - name: "GRIS"
     downloads:
       Nintendo Switch: https://example.com/gris_switch.zip
       Windows: https://example.com/gris_windows.zip
-  - name: Haiku, the Robot
+  - name: "GTA: Liberty City Stories"
+    downloads:
+      Windows: https://example.com/gta_liberty_city_stories_windows.zip
+  - name: "Haiku, the Robot"
     downloads:
       Nintendo Switch: https://example.com/haiku_the_robot_switch.zip
       Windows: https://example.com/haiku_the_robot_windows.zip
   - name: "Hotline Miami 2: Wrong Number"
     downloads:
       Nintendo Switch: https://example.com/hotline_miami_2_wrong_number_switch.zip
-  - name: "Fallout 3: GOTY"
+  - name: "Hue"
     downloads:
-      Windows: https://example.com/fallout_3_goty_windows.zip
-  - name: It Takes Two
+      Windows: https://example.com/hue_windows.zip
+      Nintendo Switch: https://example.com/hue_switch.zip
+      Playstation Vita: https://example.com/hue_vita.zip
+  - name: "I Am The Hero"
+    downloads:
+      Windows: https://example.com/i_am_the_hero_windows.zip
+      Nintendo Switch: https://example.com/i_am_the_hero_switch.zip
+      Playstation Vita: https://example.com/i_am_the_hero_vita.zip
+  - name: "Ico"
+    downloads:
+      Playstation 3: https://example.com/ico_ps3.zip
+  - name: "It Takes Two"
     downloads:
       Nintendo Switch: https://example.com/it_takes_two_switch.zip
-  - name: Freedom Fighters
-    downloads:
-      Windows: https://example.com/freedom_fighters_windows.zip
-  - name: Journey to the Savage Planet
+  - name: "Journey to the Savage Planet"
     downloads:
       Nintendo Switch: https://example.com/journey_to_the_savage_planet_switch.zip
       Windows: https://example.com/journey_to_the_savage_planet_windows.zip
-  - name: Ghosts 'n Goblins Resurrection
+  - name: "Katana Zero"
     downloads:
-      Windows: https://example.com/ghosts_n_goblins_resurrection_windows.zip
-  - name: Kirby and the Forgotten Land
+      Windows: https://example.com/katana_zero_windows.zip
+  - name: "Kirby and the Forgotten Land"
     downloads:
       Nintendo Switch: https://example.com/kirby_and_the_forgotten_land_switch.zip
-  - name: Kirby's Dream Buffet
+  - name: "Kirby's Dream Buffet"
     downloads:
       Nintendo Switch: https://example.com/kirby_dream_buffet_switch.zip
-  - name: Luigi's Mansion 2 HD
+  - name: "Kona"
+    downloads:
+      Windows: https://example.com/kona_windows.zip
+  - name: "Link's Crossbow Training"
+    downloads:
+      Nintendo Wii: https://example.com/links_crossbow_training_wii.zip
+  - name: "LoZ: ALBW"
+    downloads:
+      Nintendo 3DS: https://example.com/loz_albw_3ds.zip
+  - name: "Luigi's Mansion"
+    downloads:
+      Nintendo 3DS: https://example.com/luigis_mansion_3ds.zip
+  - name: "Luigi's Mansion 2 HD"
     downloads:
       Nintendo Switch: https://example.com/luigis_mansion_2_hd_switch.zip
-  - name: Mario vs. Donkey Kong
+  - name: "Mario Kart 7"
+    downloads:
+      Nintendo 3DS: https://example.com/mario_kart_7_3ds.zip
+  - name: "Mario vs. Donkey Kong"
     downloads:
       Nintendo Switch: https://example.com/mario_vs_donkey_kong_switch.zip
-  - name: "GTA: Liberty City Stories"
+  - name: "Mass Effect L.E"
     downloads:
-      Windows: https://example.com/gta_liberty_city_stories_windows.zip
-  - name: Metroid Dread
+      Windows: https://example.com/mass_effect_le_windows.zip
+  - name: "Metroid Dread"
     downloads:
       Nintendo Switch: https://example.com/metroid_dread_switch.zip
-  - name: Metroid Prime Remastered
+  - name: "Metroid Fusion"
+    downloads:
+      GBA: https://example.com/metroid_fusion_gba.zip
+  - name: "Metroid Prime Remastered"
     downloads:
       Nintendo Switch: https://example.com/metroid_prime_remastered_switch.zip
+  - name: "Metroid: Samus Returns"
+    downloads:
+      Nintendo 3DS: https://example.com/metroid_samus_returns_3ds.zip
+  - name: "Metroid: SR 3DS"
+    downloads:
+      Nintendo 3DS: https://example.com/metroid_sr_3ds.zip
+  - name: "Metroid: Zero Mission"
+    downloads:
+      GBA: https://example.com/metroid_zero_mission_gba.zip
+  - name: "Midnight Club: Street Racing"
+    downloads:
+      Playstation 2: https://example.com/midnight_club_street_racing_ps2.zip
   - name: "Mortal Shell: Complete Edition"
     downloads:
       Nintendo Switch: https://example.com/mortal_shell_complete_edition_switch.zip
-  - name: New Super Mario Bros. U Deluxe
+  - name: "New Super Mario Bros. 2"
+    downloads:
+      Nintendo 3DS: https://example.com/new_super_mario_bros_2_3ds.zip
+  - name: "New Super Mario Bros. U Deluxe"
     downloads:
       Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
-  - name: Olija
+  - name: "Nocturne"
+    downloads:
+      Windows: https://example.com/nocturne_windows.zip
+  - name: "Olija"
     downloads:
       Nintendo Switch: https://example.com/olija_switch.zip
       Windows: https://example.com/olija_windows.zip
-  - name: Katana Zero
+  - name: "PAC-MAN WORLD Re-PAC"
     downloads:
-      Windows: https://example.com/katana_zero_windows.zip
-  - name: Paradise Lost
+      Windows: https://example.com/pac_man_world_re_pac_windows.zip
+  - name: "Paradise Lost"
     downloads:
       Nintendo Switch: https://example.com/paradise_lost_switch.zip
       Windows: https://example.com/paradise_lost_windows.zip
-  - name: Kona
+  - name: "Pokémon Emerald"
     downloads:
-      Windows: https://example.com/kona_windows.zip
-  - name: Police Stories
+      GBA: https://example.com/pokemon_emerald_gba.zip
+  - name: "Police Stories"
     downloads:
       Nintendo Switch: https://example.com/police_stories_switch.zip
       Windows: https://example.com/police_stories_windows.zip
-  - name: Mass Effect L.E
-    downloads:
-      Windows: https://example.com/mass_effect_le_windows.zip
-  - name: "Princess Peach: Showtime!"
-    downloads:
-      Nintendo Switch: https://example.com/princess_peach_showtime_switch.zip
-  - name: Nocturne
-    downloads:
-      Windows: https://example.com/nocturne_windows.zip
-  - name: Project Warlock
-    downloads:
-      Nintendo Switch: https://example.com/project_warlock_switch.zip
-      Windows: https://example.com/project_warlock_windows.zip
-  - name: Running on Magic
-    downloads:
-      Nintendo Switch: https://example.com/running_on_magic_switch.zip
-      Windows: https://example.com/running_on_magic_windows.zip
-  - name: PAC-MAN WORLD Re-PAC
-    downloads:
-      Windows: https://example.com/pac_man_world_re_pac_windows.zip
-  - name: Spyro Reignited Trilogy
-    downloads:
-      Nintendo Switch: https://example.com/spyro_reignited_trilogy_switch.zip
-      Windows: https://example.com/spyro_reignited_trilogy_windows.zip
-  - name: Super Mario 3D World + Bowser’s Fury
-    downloads:
-      Nintendo Switch: https://example.com/super_mario_3d_world_bowser_fury_switch.zip
-  - name: Super Mario Bros. Wonder
-    downloads:
-      Nintendo Switch: https://example.com/super_mario_bros_wonder_switch.zip
   - name: "Police Stories: The Academy"
     downloads:
       Windows: https://example.com/police_stories_the_academy_windows.zip
-  - name: "T.M.N.T: Shredder's Revenge"
-    downloads:
-      Nintendo Switch: https://example.com/tmnt_shredder_revenge_switch.zip
-      Windows: https://example.com/tmnt_shredder_revenge_windows.zip
-  - name: Prey
+  - name: "Prey"
     downloads:
       Windows: https://example.com/prey_windows.zip
-  - name: Tails of Iron
-    downloads:
-      Nintendo Switch: https://example.com/tails_of_iron_switch.zip
-      Windows: https://example.com/tails_of_iron_windows.zip
   - name: "Prey: Mooncrash"
     downloads:
       Windows: https://example.com/prey_mooncrash_windows.zip
-  - name: The Last Faith
+  - name: "Princess Peach: Showtime!"
     downloads:
-      Nintendo Switch: https://example.com/the_last_faith_switch.zip
-      Windows: https://example.com/the_last_faith_windows.zip
-  - name: Touhou Luna Nights
+      Nintendo Switch: https://example.com/princess_peach_showtime_switch.zip
+  - name: "Project Warlock"
     downloads:
-      Nintendo Switch: https://example.com/touhou_luna_nights_switch.zip
-  - name: "Zelda: Link's Awakening"
+      Nintendo Switch: https://example.com/project_warlock_switch.zip
+      Windows: https://example.com/project_warlock_windows.zip
+  - name: "Rain"
     downloads:
-      Nintendo Switch: https://example.com/zelda_links_awakening_switch.zip
-  - name: Resident Evil 3
+      Playstation 3: https://example.com/rain_ps3.zip
+  - name: "Rayman Origins"
+    downloads:
+      Windows: https://example.com/rayman_origins_windows.zip
+      Nintendo 3DS: https://example.com/rayman_origins_3ds.zip
+      Nintendo Wii: https://example.com/rayman_origins_wii.zip
+      Playstation Vita: https://example.com/rayman_origins_vita.zip
+  - name: "Resident Evil 3"
     downloads:
       Windows: https://example.com/resident_evil_3_windows.zip
-  - name: Röki
+  - name: "Resident Evil: Revelations 3DS"
+    downloads:
+      Nintendo 3DS: https://example.com/resident_evil_revelations_3ds.zip
+  - name: "Resident Evil: The Mercenaries 3D"
+    downloads:
+      Nintendo 3DS: https://example.com/resident_evil_mercenaries_3d_3ds.zip
+  - name: "Röki"
     downloads:
       Windows: https://github.com/rewold/railv2/raw/refs/heads/main/windows/roki_tr.7z
-  - name: Saints Row 2
+  - name: "Running on Magic"
+    downloads:
+      Nintendo Switch: https://example.com/running_on_magic_switch.zip
+      Windows: https://example.com/running_on_magic_windows.zip
+  - name: "Saints Row 2"
     downloads:
       Windows: https://example.com/saints_row_2_windows.zip
-  - name: Sniper Ghost Warrior Contracts
+  - name: "Silent Hill: Downpour"
+    downloads:
+      Playstation 3: https://example.com/silent_hill_downpour_ps3.zip
+  - name: "Sniper Ghost Warrior Contracts"
     downloads:
       Windows: https://example.com/sniper_ghost_warrior_contracts_windows.zip
   - name: "Song of Horror: Complete Edition"
     downloads:
       Windows: https://example.com/song_of_horror_complete_edition_windows.zip
-  - name: Source of Madness
+  - name: "Source of Madness"
     downloads:
       Windows: https://example.com/source_of_madness_windows.zip
-  - name: Sunwards
+  - name: "Steamworld Dig"
+    downloads:
+      Nintendo 3DS: https://example.com/steamworld_dig_3ds.zip
+  - name: "Sunwards"
     downloads:
       Windows: https://example.com/sunwards_windows.zip
+  - name: "Super Mario 3D World + Bowser’s Fury"
+    downloads:
+      Nintendo Switch: https://example.com/super_mario_3d_world_bowser_fury_switch.zip
+  - name: "Super Mario Bros. Wii"
+    downloads:
+      Nintendo Wii: https://example.com/super_mario_bros_wii_wii.zip
+  - name: "Super Mario Bros. Wonder"
+    downloads:
+      Nintendo Switch: https://example.com/super_mario_bros_wonder_switch.zip
+  - name: "Super Mario World"
+    downloads:
+      SNES: https://example.com/super_mario_world_snes.zip
   - name: "T.M.N.T: Out of the Shadows"
     downloads:
       Windows: https://example.com/tmnt_out_of_the_shadows_windows.zip
-  - name: The Evil Within 2
+  - name: "T.M.N.T: Shredder's Revenge"
+    downloads:
+      Nintendo Switch: https://example.com/tmnt_shredder_revenge_switch.zip
+      Windows: https://example.com/tmnt_shredder_revenge_windows.zip
+  - name: "Tails of Iron"
+    downloads:
+      Nintendo Switch: https://example.com/tails_of_iron_switch.zip
+      Windows: https://example.com/tails_of_iron_windows.zip
+  - name: "The Evil Within 2"
     downloads:
       Windows: https://example.com/the_evil_within_2_windows.zip
-  - name: The Godfather II
+  - name: "The Godfather II"
     downloads:
       Windows: https://example.com/the_godfather_ii_windows.zip
-  - name: The Godfather The Game
+  - name: "The Godfather The Game"
     downloads:
       Windows: https://example.com/the_godfather_the_game_windows.zip
-  - name: Those Who Remain
+  - name: "The Last Faith"
+    downloads:
+      Nintendo Switch: https://example.com/the_last_faith_switch.zip
+      Windows: https://example.com/the_last_faith_windows.zip
+  - name: "The Legend of Zelda"
+    downloads:
+      NES: https://example.com/the_legend_of_zelda_nes.zip
+  - name: "The Legend of Zelda: A Link to the Past"
+    downloads:
+      SNES: https://example.com/the_legend_of_zelda_link_to_the_past_snes.zip
+  - name: "The Legend of Zelda: Ocarina of Time 3D"
+    downloads:
+      Nintendo 3DS: https://example.com/zelda_ocarina_of_time_3d_3ds.zip
+  - name: "The Legend of Zelda: The Minish Cap"
+    downloads:
+      GBA: https://example.com/the_legend_of_zelda_minish_cap_gba.zip
+  - name: "The Legend of Zelda: Tri Force Heroes"
+    downloads:
+      Nintendo 3DS: https://example.com/zelda_tri_force_heroes_3ds.zip
+  - name: "Those Who Remain"
     downloads:
       Windows: https://example.com/those_who_remain_windows.zip
-  - name: Thymesia
+  - name: "Thymesia"
     downloads:
       Windows: https://example.com/thymesia_windows.zip
   - name: "Tower Hunter: Erza's Trial"
     downloads:
       Windows: https://example.com/tower_hunter_erzas_trial_windows.zip
-  - name: Trepang2
+  - name: "Trepang2"
     downloads:
       Windows: https://example.com/trepang2_windows.zip
-  - name: Turok
+  - name: "Turok"
     downloads:
       Windows: https://example.com/turok_windows.zip
+  - name: "ULTIMATE NES REMIX"
+    downloads:
+      Nintendo 3DS: https://example.com/ultimate_nes_remix_3ds.zip
   - name: "Warhammer 40,000: Space Marine A.E."
     downloads:
       Windows: https://github.com/rewold/railv2/raw/refs/heads/main/windows/SpaceMarine_AE.rar
-  - name: Zorro The Chronicles
+  - name: "Yoshi's New Island"
+    downloads:
+      Nintendo 3DS: https://example.com/yoshis_new_island_3ds.zip
+  - name: "Zelda II: The Adventure of Link"
+    downloads:
+      NES: https://example.com/zelda_ii_the_adventure_of_link_nes.zip
+  - name: "Zelda: Link's Awakening"
+    downloads:
+      Nintendo Switch: https://example.com/zelda_links_awakening_switch.zip
+  - name: "Zorro The Chronicles"
     downloads:
       Windows: https://example.com/zorro_the_chronicles_windows.zip
