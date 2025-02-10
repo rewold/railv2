@@ -1,32 +1,42 @@
 ---
 games:
-  - name: 9 Years of Shadows
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy
-    description: ""
-    images: []
-    translator: Yunus
-    testing: ISKA - rewold20
-    compatible_version: "1"
-    notes: "1"
-    poster_url: https://cdn2.steamgriddb.com/grid/6a160291db4923ec7a8f4975286dbc87.jpg
-  - name: 1-2-Switch
+  - name: "1-2-Switch"
     categories:
       - Nintendo Switch
     video_url: ""
     description: ""
     images: []
-    translator: rewold20
-    testing: rewold20
-    compatible_version: Son sürüm
+    translator: "rewold20"
+    testing: "rewold20"
+    compatible_version: "Son sürüm"
     notes: ""
-    poster_url: https://cdn2.steamgriddb.com/grid/f5af5d678f578f894147317f481d8327.png
-  - name: Hue
+    poster_url: "https://cdn2.steamgriddb.com/grid/f5af5d678f578f894147317f481d8327.png"
+  - name: "9 Years of Shadows"
     categories:
-      - PS Vita
+      - Windows
       - Nintendo Switch
+    video_url: "https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy"
+    description: ""
+    images: []
+    translator: "Yunus"
+    testing: "ISKA - rewold20"
+    compatible_version: "1"
+    notes: "1"
+    poster_url: "https://cdn2.steamgriddb.com/grid/6a160291db4923ec7a8f4975286dbc87.jpg"
+  - name: "A Hole New World"
+    categories:
+      - Nintendo Switch
+      - PS Vita
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Alex Kidd in Miracle World DX"
+    categories:
       - Windows
     video_url: ""
     description: ""
@@ -35,7 +45,30 @@ games:
     testing: ""
     compatible_version: ""
     notes: ""
-    poster_url: https://cdn2.steamgriddb.com/grid/654c5f18cf116cab7b4f54ffb2b263eb.webp
+    poster_url: ""
+  - name: "Ashen"
+    categories:
+      - Windows
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Axiom Verge"
+    categories:
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
   - name: "Batman: Arkham Origins Blackgate"
     categories:
       - Nintendo 3DS
@@ -46,180 +79,8 @@ games:
     testing: ""
     compatible_version: ""
     notes: ""
-    poster_url: https://cdn2.steamgriddb.com/grid/f7ea6ec0a29aec939a8f7aee8b14ea62.png
-  - name: Rayman Origins
-    categories:
-      - Nintendo Wii
-      - PS Vita
-      - Nintendo 3DS
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: https://cdn2.steamgriddb.com/grid/97340a12cbc7ba7e072907aa669843f4.png
-  - name: Castle of Illusion
-    categories:
-      - Android
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Castlevania: Aria of Sorrow"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Midnight Club: Street Racing"
-    categories:
-      - Playstation 2
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Ico
-    categories:
-      - Playstation 3
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Dragon Warrior
-    categories:
-      - NES
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Super Mario World
-    categories:
-      - SNES
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Alex Kidd in Miracle World DX
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: I Am The Hero
-    categories:
-      - PS Vita
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Captain Toad: Treasure Tracker"
-    categories:
-      - Nintendo 3DS
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Link's Crossbow Training
-    categories:
-      - Nintendo Wii
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "The Legend of Zelda: The Minish Cap"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Rain
-    categories:
-      - Playstation 3
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: The Legend of Zelda
-    categories:
-      - NES
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "The Legend of Zelda: A Link to the Past"
-    categories:
-      - SNES
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Ashen
+    poster_url: "https://cdn2.steamgriddb.com/grid/f7ea6ec0a29aec939a8f7aee8b14ea62.png"
+  - name: "Blasphemous"
     categories:
       - Windows
       - Nintendo Switch
@@ -231,74 +92,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: A Hole New World
-    categories:
-      - Nintendo Switch
-      - PS Vita
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "LoZ: ALBW"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Super Mario Bros. Wii
-    categories:
-      - Nintendo Wii
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Metroid Fusion
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Silent Hill: Downpour"
-    categories:
-      - Playstation 3
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Zelda II: The Adventure of Link"
-    categories:
-      - NES
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Blasphemous
+  - name: "Blasphemous 2"
     categories:
       - Windows
       - Nintendo Switch
@@ -310,74 +104,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Luigi's Mansion
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Metroid: Zero Mission"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Blasphemous 2
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Axiom Verge
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Mario Kart 7
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Pokémon Emerald
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Bloodhound
+  - name: "BloodRayne"
     categories:
       - Windows
     video_url: ""
@@ -388,18 +115,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Metroid: Samus Returns"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: BloodRayne
+  - name: "BloodRayne 2"
     categories:
       - Windows
     video_url: ""
@@ -410,9 +126,9 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Metroid: SR 3DS"
+  - name: "BloodRayne 2: Terminal Cut"
     categories:
-      - Nintendo 3DS
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -421,7 +137,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: BloodRayne 2
+  - name: "BloodRayne Betrayal"
     categories:
       - Windows
     video_url: ""
@@ -443,9 +159,9 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: New Super Mario Bros. 2
+  - name: "BloodRayne: Terminal Cut"
     categories:
-      - Nintendo 3DS
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -454,7 +170,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "BloodRayne 2: Terminal Cut"
+  - name: "Bloodhound"
     categories:
       - Windows
     video_url: ""
@@ -477,100 +193,10 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: BloodRayne Betrayal
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Bright Memory Infinite
+  - name: "Bright Memory Infinite"
     categories:
       - Nintendo Switch
       - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Resident Evil: Revelations 3DS"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "BloodRayne: Terminal Cut"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Resident Evil: The Mercenaries 3D"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Carrion
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Steamworld Dig
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Coffin Dodgers
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "The Legend of Zelda: Ocarina of Time 3D"
-    categories:
-      - Nintendo 3DS
     video_url: ""
     description: ""
     images: []
@@ -590,7 +216,99 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Death's Door
+  - name: "Bully: Scholarship Edition"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Carrion"
+    categories:
+      - Nintendo Switch
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Castle of Illusion"
+    categories:
+      - Android
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Castlevania: Aria of Sorrow"
+    categories:
+      - GBA
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Captain Toad: Treasure Tracker"
+    categories:
+      - Nintendo 3DS
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Coffin Dodgers"
+    categories:
+      - Nintendo Switch
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Dead Rising 4"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Dead Space 3: Awakened"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Death's Door"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -601,18 +319,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "The Legend of Zelda: Tri Force Heroes"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Bully: Scholarship Edition"
+  - name: "Dolmen"
     categories:
       - Windows
     video_url: ""
@@ -634,9 +341,9 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: ULTIMATE NES REMIX
+  - name: "Doom"
     categories:
-      - Nintendo 3DS
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -645,7 +352,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Doom 64
+  - name: "Doom 64"
     categories:
       - Nintendo Switch
       - Windows
@@ -657,9 +364,20 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Yoshi's New Island
+  - name: "Dragon Warrior"
     categories:
-      - Nintendo 3DS
+      - NES
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "ENDER MAGNOLIA: Bloom in the Mist"
+    categories:
+      - Windows
     video_url: ""
     description: ""
     images: []
@@ -680,7 +398,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Eternal Hope
+  - name: "Eternal Hope"
     categories:
       - Nintendo Switch
       - Windows
@@ -692,18 +410,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Dead Rising 4
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Evergate
+  - name: "Evergate"
     categories:
       - Nintendo Switch
       - Windows
@@ -715,7 +422,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Dead Space 3: Awakened"
+  - name: "Fallout 3: GOTY"
     categories:
       - Windows
     video_url: ""
@@ -726,7 +433,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Fe
+  - name: "Fe"
     categories:
       - Nintendo Switch
       - Windows
@@ -738,18 +445,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Dolmen
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Fez
+  - name: "Fez"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -760,18 +456,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Doom
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Final Fantasy VII
+  - name: "Final Fantasy VII"
     categories:
       - Nintendo Switch
       - Windows
@@ -783,7 +468,29 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Grapple Dog
+  - name: "Freedom Fighters"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Ghosts 'n Goblins Resurrection"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Grapple Dog"
     categories:
       - Nintendo Switch
       - Windows
@@ -795,7 +502,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Graveyard Keeper
+  - name: "Graveyard Keeper"
     categories:
       - Nintendo Switch
       - Windows
@@ -807,18 +514,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "ENDER MAGNOLIA: Bloom in the Mist"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: GRIS
+  - name: "GRIS"
     categories:
       - Nintendo Switch
       - Windows
@@ -830,7 +526,18 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Haiku, the Robot
+  - name: "GTA: Liberty City Stories"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Haiku, the Robot"
     categories:
       - Nintendo Switch
       - Windows
@@ -853,30 +560,10 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Fallout 3: GOTY"
+  - name: "Hue"
     categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: It Takes Two
-    categories:
+      - PS Vita
       - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Freedom Fighters
-    categories:
       - Windows
     video_url: ""
     description: ""
@@ -885,9 +572,10 @@ games:
     testing: ""
     compatible_version: ""
     notes: ""
-    poster_url: ""
-  - name: Journey to the Savage Planet
+    poster_url: "https://cdn2.steamgriddb.com/grid/654c5f18cf116cab7b4f54ffb2b263eb.webp"
+  - name: "I Am The Hero"
     categories:
+      - PS Vita
       - Nintendo Switch
       - Windows
     video_url: ""
@@ -898,7 +586,41 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Ghosts 'n Goblins Resurrection
+  - name: "Ico"
+    categories:
+      - Playstation 3
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "It Takes Two"
+    categories:
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Journey to the Savage Planet"
+    categories:
+      - Nintendo Switch
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Katana Zero"
     categories:
       - Windows
     video_url: ""
@@ -909,7 +631,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Kirby and the Forgotten Land
+  - name: "Kirby and the Forgotten Land"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -920,7 +642,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Kirby's Dream Buffet
+  - name: "Kirby's Dream Buffet"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -931,29 +653,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Luigi's Mansion 2 HD
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Mario vs. Donkey Kong
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "GTA: Liberty City Stories"
+  - name: "Kona"
     categories:
       - Windows
     video_url: ""
@@ -964,7 +664,40 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Metroid Dread
+  - name: "Link's Crossbow Training"
+    categories:
+      - Nintendo Wii
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "LoZ: ALBW"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Luigi's Mansion"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Luigi's Mansion 2 HD"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -975,9 +708,108 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Metroid Prime Remastered
+  - name: "Mario Kart 7"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Mario vs. Donkey Kong"
     categories:
       - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Mass Effect L.E"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid Dread"
+    categories:
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid Fusion"
+    categories:
+      - GBA
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid Prime Remastered"
+    categories:
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid: Samus Returns"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid: SR 3DS"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Metroid: Zero Mission"
+    categories:
+      - GBA
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Midnight Club: Street Racing"
+    categories:
+      - Playstation 2
     video_url: ""
     description: ""
     images: []
@@ -997,7 +829,18 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: New Super Mario Bros. U Deluxe
+  - name: "New Super Mario Bros. 2"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "New Super Mario Bros. U Deluxe"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -1008,19 +851,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Olija
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Katana Zero
+  - name: "Nocturne"
     categories:
       - Windows
     video_url: ""
@@ -1031,30 +862,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Paradise Lost
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Kona
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Police Stories
+  - name: "Olija"
     categories:
       - Nintendo Switch
       - Windows
@@ -1066,7 +874,75 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Mass Effect L.E
+  - name: "PAC-MAN WORLD Re-PAC"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Paradise Lost"
+    categories:
+      - Nintendo Switch
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Pokémon Emerald"
+    categories:
+      - GBA
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Police Stories"
+    categories:
+      - Nintendo Switch
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Police Stories: The Academy"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Prey"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Prey: Mooncrash"
     categories:
       - Windows
     video_url: ""
@@ -1088,18 +964,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Nocturne
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Project Warlock
+  - name: "Project Warlock"
     categories:
       - Nintendo Switch
       - Windows
@@ -1111,7 +976,76 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Running on Magic
+  - name: "Rain"
+    categories:
+      - Playstation 3
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Rayman Origins"
+    categories:
+      - Nintendo Wii
+      - PS Vita
+      - Nintendo 3DS
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/97340a12cbc7ba7e072907aa669843f4.png"
+  - name: "Resident Evil 3"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Resident Evil: Revelations 3DS"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Resident Evil: The Mercenaries 3D"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Röki"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: "Truelegend"
+    testing: "Truelegend"
+    compatible_version: "V3.3 GOG sürüm"
+    notes: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/8ab053a75808486aae23ad7d67c409bf.png"
+  - name: "Running on Magic"
     categories:
       - Nintendo Switch
       - Windows
@@ -1123,7 +1057,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: PAC-MAN WORLD Re-PAC
+  - name: "Saints Row 2"
     categories:
       - Windows
     video_url: ""
@@ -1134,9 +1068,19 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Spyro Reignited Trilogy
+  - name: "Silent Hill: Downpour"
     categories:
-      - Nintendo Switch
+      - Playstation 3
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Sniper Ghost Warrior Contracts"
+    categories:
       - Windows
     video_url: ""
     description: ""
@@ -1146,7 +1090,51 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Super Mario 3D World + Bowser’s Fury
+  - name: "Song of Horror: Complete Edition"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Source of Madness"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Steamworld Dig"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Sunwards"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Super Mario 3D World + Bowser’s Fury"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -1157,7 +1145,18 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Super Mario Bros. Wonder
+  - name: "Super Mario Bros. Wii"
+    categories:
+      - Nintendo Wii
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Super Mario Bros. Wonder"
     categories:
       - Nintendo Switch
     video_url: ""
@@ -1168,7 +1167,18 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Police Stories: The Academy"
+  - name: "Super Mario World"
+    categories:
+      - SNES
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "T.M.N.T: Out of the Shadows"
     categories:
       - Windows
     video_url: ""
@@ -1191,18 +1201,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Prey
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Tails of Iron
+  - name: "Tails of Iron"
     categories:
       - Nintendo Switch
       - Windows
@@ -1214,7 +1213,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Prey: Mooncrash"
+  - name: "The Evil Within 2"
     categories:
       - Windows
     video_url: ""
@@ -1225,7 +1224,29 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: The Last Faith
+  - name: "The Godfather II"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "The Godfather The Game"
+    categories:
+      - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "The Last Faith"
     categories:
       - Nintendo Switch
       - Windows
@@ -1237,9 +1258,9 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Touhou Luna Nights
+  - name: "The Legend of Zelda"
     categories:
-      - Nintendo Switch
+      - NES
     video_url: ""
     description: ""
     images: []
@@ -1248,9 +1269,9 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: "Zelda: Link's Awakening"
+  - name: "The Legend of Zelda: A Link to the Past"
     categories:
-      - Nintendo Switch
+      - SNES
     video_url: ""
     description: ""
     images: []
@@ -1259,7 +1280,40 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Resident Evil 3
+  - name: "The Legend of Zelda: Ocarina of Time 3D"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "The Legend of Zelda: The Minish Cap"
+    categories:
+      - GBA
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "The Legend of Zelda: Tri Force Heroes"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Those Who Remain"
     categories:
       - Windows
     video_url: ""
@@ -1270,128 +1324,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Röki
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "Truelegend"
-    compatible_version: "V3.3 GOG sürüm"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/8ab053a75808486aae23ad7d67c409bf.png"
-  - name: Saints Row 2
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Sniper Ghost Warrior Contracts
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "Song of Horror: Complete Edition"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Source of Madness
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Sunwards
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: "T.M.N.T: Out of the Shadows"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: The Evil Within 2
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: The Godfather II
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: The Godfather The Game
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Those Who Remain
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
-    notes: ""
-    poster_url: ""
-  - name: Thymesia
+  - name: "Thymesia"
     categories:
       - Windows
     video_url: ""
@@ -1413,7 +1346,7 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Trepang2
+  - name: "Trepang2"
     categories:
       - Windows
     video_url: ""
@@ -1424,9 +1357,20 @@ games:
     compatible_version: ""
     notes: ""
     poster_url: ""
-  - name: Turok
+  - name: "Turok"
     categories:
       - Windows
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "ULTIMATE NES REMIX"
+    categories:
+      - Nintendo 3DS
     video_url: ""
     description: ""
     images: []
@@ -1438,15 +1382,48 @@ games:
   - name: "Warhammer 40,000: Space Marine A.E."
     categories:
       - Windows
-    video_url: https://youtu.be/8bEtDyrqsYs
+    video_url: "https://youtu.be/8bEtDyrqsYs"
     description: ""
     images: []
-    translator: rewold20
-    testing: rewold20 - ISKA
-    compatible_version: Anneversary Edition
+    translator: "rewold20"
+    testing: "rewold20 - ISKA"
+    compatible_version: "Anneversary Edition"
     notes: ""
-    poster_url: https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png
-  - name: Zorro The Chronicles
+    poster_url: "https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png"
+  - name: "Yoshi's New Island"
+    categories:
+      - Nintendo 3DS
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Zelda II: The Adventure of Link"
+    categories:
+      - NES
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Zelda: Link's Awakening"
+    categories:
+      - Nintendo Switch
+    video_url: ""
+    description: ""
+    images: []
+    translator: ""
+    testing: ""
+    compatible_version: ""
+    notes: ""
+    poster_url: ""
+  - name: "Zorro The Chronicles"
     categories:
       - Windows
     video_url: ""
