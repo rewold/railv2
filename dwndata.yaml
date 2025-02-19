@@ -310,7 +310,7 @@ games:
       Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
       Nintendo Switch: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
       Linux: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
-      MacOS: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
+      MacOS: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr_mac.7z
   - name: "Running on Magic"
     downloads:
       Nintendo Switch: https://example.com/running_on_magic_switch.zip
