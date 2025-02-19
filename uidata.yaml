@@ -282,77 +282,77 @@ games:
     video_url: "https://www.youtube.com/watch?v=OhCJu_5jWR8"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20 - VAsTER"
+    testing: "rewold20 - VAsTER"
+    compatible_version: "v1.2.4 güncellemesiyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/084c141bcb1a60bb9619aafc340241fd.jpg"
   - name: "Dead Rising 4"
     categories:
       - Windows
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "Truelegend"
+    testing: "anil523 - Truelegend - Freeman1930"
+    compatible_version: "31 January 2018 güncellemesiyle uyumludur"
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/69d0353e88f579cded20ed0c14345371.png"
   - name: "Dead Space 3: Awakened"
     categories:
       - Windows
     video_url: "https://www.youtube.com/watch?v=t2301VvweBg"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20"
+    testing: "VAsTER"
+    compatible_version: "25 January 2023 güncellemesiyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/d0d075daa1a85251c2a07a0059f084d5.jpg"
   - name: "Death's Door"
     categories:
       - Nintendo Switch
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "Sixth Sense"
+    testing: "ISKA"
+    compatible_version: "v1.1.6 güncellemesi ile uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/c2408e0b94b3f1352f02388c5f5dd310.png"
   - name: "Dolmen"
     categories:
       - Windows
     video_url: "https://www.youtube.com/watch?v=w4Pqqj9-jXs"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20 - ISKA"
+    testing: "ISKA"
+    compatible_version: "Steam son sürümü ile uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/257b0740d62385d1f0b3b5b28f208a41.jpg"
   - name: "Donkey Kong Country: Tropical Freeze"
     categories:
       - Nintendo Switch
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "Adol125"
+    testing: "ISKA - Adol125"
+    compatible_version: "1.0.0 olan oyunun ilk sürümüyle uyumludur."
     notes: ""
-    poster_url: ""
-  - name: "Doom"
+    poster_url: "https://cdn2.steamgriddb.com/grid/91270e97491a918496e6569c9fcff808.png"
+  - name: "Doom (2016)"
     categories:
       - Windows
     video_url: "https://www.youtube.com/watch?v=4bHn0I_JrE4"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20 - Kederli Lahmacun - Mastertranslator"
+    testing: "rewold20 - Ömer Öz"
+    compatible_version: "Steam sürümüyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/e6b2e5d385c1503fbd55b97ba5dc4b77.png"
   - name: "Doom 64"
     categories:
       - Nintendo Switch
@@ -360,33 +360,33 @@ games:
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20"
+    testing: "ISKA - rewold20"
+    compatible_version: "Steam ve Epic Games'in 12 July 2022 güncellemesiyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/bdf98066565b63288f7c155f921aad7b.png"
   - name: "Dragon Warrior"
     categories:
       - NES
     video_url: "https://www.youtube.com/watch?v=si_aWk_28ss"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20"
+    testing: "rewold20"
+    compatible_version: "USA sürümüyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/2d57916cbae746f3eef47583e0f13cc2.png"
   - name: "ENDER MAGNOLIA: Bloom in the Mist"
     categories:
       - Windows
     video_url: ""
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20"
+    testing: "ISKA - rewold20"
+    compatible_version: "Build 13889266 güncellemesiyle uyumludur"
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/6d9c90af1c12f5a88e4d5f216bbc1979.png"
   - name: "Ender Lilies: Quietus of the Knights"
     categories:
       - Nintendo Switch
@@ -394,11 +394,11 @@ games:
     video_url: "https://www.youtube.com/watch?v=kFWjh8qDyXY"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20 - Adol125 - ISKA"
+    testing: "ISKA - rewold20 - Adol125"
+    compatible_version: "1.1.6-13932 güncellemesiyle uyumludur."
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/71852769eef911dc3ecb396251342962.png"
   - name: "Eternal Hope"
     categories:
       - Nintendo Switch
@@ -406,11 +406,11 @@ games:
     video_url: "https://www.youtube.com/watch?v=_ESvYWz8JoQ"
     description: ""
     images: []
-    translator: ""
-    testing: ""
-    compatible_version: ""
+    translator: "rewold20"
+    testing: "rewold20"
+    compatible_version: "1 April 2021 sürümüne uyumlu"
     notes: ""
-    poster_url: ""
+    poster_url: "https://cdn2.steamgriddb.com/grid/7391de088397c73878f070cf03951368.png"
   - name: "Evergate"
     categories:
       - Nintendo Switch
