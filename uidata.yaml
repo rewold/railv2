@@ -1026,6 +1026,8 @@ games:
   - name: "Röki"
     categories:
       - Windows
+      - MacOS
+      - Nintendo Switch
     video_url: ""
     description: ""
     images: []
