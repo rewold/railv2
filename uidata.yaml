@@ -527,7 +527,7 @@ games:
     compatible_version: "7 March 2019 güncellemesiyle uyumludur."
     notes: ""
     poster_url: "https://cdn2.steamgriddb.com/grid/3bb8b73487500c1c7285480103be68e6.png"
-  - name: "GTA: Liberty City Stories"
+  - name: "GTA Liberty City Stories"
     categories:
       - Windows
     video_url: ""
@@ -535,7 +535,7 @@ games:
     images: []
     translator: "elpdrno_046"
     testing: "ISKA - elpdrno_046"
-    compatible_version: "Beta5Build 16Aug20" sürümüyle uyumludur."
+    compatible_version: "Beta5Build 16Aug20 sürümüyle uyumludur."
     notes: "Oyun ayarlarından Spanish'i seçip Türkçe yapın."
     poster_url: "https://cdn2.steamgriddb.com/grid/6ba32142b6b23ecd32a4c0aff11c2c41.png"
   - name: "Haiku, the Robot"
