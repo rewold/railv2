@@ -1228,6 +1228,8 @@ games:
     compatible_version: "Tüm sürümlere uyumludur"
     notes: ""
     poster_url: "https://cdn2.steamgriddb.com/grid/483bcbd004d3fb038047505aaab20b6d.png"
+    acquisition: "paid"
+    purchase_url: "https://www.shopier.com/10994756" 
   - name: "The Godfather The Game"
     categories:
       - Windows
@@ -1239,6 +1241,8 @@ games:
     compatible_version: "Tüm sürümlere uyumludur"
     notes: ""
     poster_url: "https://cdn2.steamgriddb.com/grid/4117b927c510516edc14da73bb02840a.png"
+    acquisition: "pool"
+    purchase_url: "https://www.shopier.com/s/product/28899360"
   - name: "The Last Faith"
     categories:
       - Nintendo Switch
