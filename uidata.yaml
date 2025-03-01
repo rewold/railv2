@@ -1,1429 +1,1054 @@
----
 games:
-  - name: "1-2-Switch"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/f5af5d678f578f894147317f481d8327.png"
-  - name: "9 Years of Shadows"
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy"
-    description: ""
-    images: []
-    translator: "YunusZ"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.0.1 sürüme uyumludur"
-    notes: "1"
-    poster_url: "https://cdn2.steamgriddb.com/grid/6a160291db4923ec7a8f4975286dbc87.jpg"
-  - name: "A Hole New World"
-    categories:
-      - Nintendo Switch
-      - PS Vita
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/10704fb67d4eda5d105328437b7340a1.png"
-  - name: "Alex Kidd in Miracle World DX"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=8evmFwCEK9E"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/69e7ef5a7459ad95ec38bcea30a5b9de.png"
-  - name: "Ashen"
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "ISKA - Truelegend"
-    compatible_version: "1.0.12.0 sürümüyle uyumludur"
-    notes: "Nightstorm DLC çevirisi dâhildir."
-    poster_url: "https://cdn2.steamgriddb.com/grid/48cab7c773d398a26e65429f667d31c2.png"
-  - name: "Axiom Verge"
-    categories:
-      - Nintendo Switch
-      - PS Vita
-    video_url: "https://www.youtube.com/watch?v=I6SJyFdirHs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "v1.0 sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/a422a18c93db2b5d4277c3ec048cc786.jpg"
-  - name: "Batman: Arkham Origins Blackgate"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=AiJr_QKYlO0"
-    description: ""
-    images: []
-    translator: "T.S."
-    testing: "rewold20"
-    compatible_version: "Son sürüm uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/f7ea6ec0a29aec939a8f7aee8b14ea62.png"
-  - name: "Blasphemous"
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=kkdTBdOkDew"
-    description: ""
-    images: []
-    translator: "Truelegend - jepalion - rewold20"
-    testing: "ISKA - rewold20 - Truelegend"
-    compatible_version: "1.0.7 sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/efb0f96fc2ee386ece83fdacdf9e9c81.png"
-  - name: "Blasphemous 2"
-    categories:
-      - Windows
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=oG5I13y98xY"
-    description: ""
-    images: []
-    translator: "rewold20 - ISKA - Vahar'ai - Adol125 - YunusZ"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.1.0 - cs44446 sürümüne uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/c5fb06178d4d0c95e21f0283015804dd.webp"
-  - name: "BloodRayne"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=H2FpDSolLE8"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Steam ve GOG sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3cbc30ac3e2581b2bf74d28edefb5cc1.png"
-  - name: "BloodRayne 2"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=y2DlKmMZLjw"
-    description: ""
-    images: []
-    translator: "rewold20 - KederliLahmacun"
-    testing: "rewold20"
-    compatible_version: "Steam son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/17223b3b72e1a9c2cfa660dade437d32.png"
-  - name: "BloodRayne 2: Terminal Cut"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=JWTmehpm63c"
-    description: ""
-    images: []
-    translator: "rewold20 - KederliLahmacun"
-    testing: "rewold20"
-    compatible_version: ""
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/47f80ec38768a58181f0a42deb9cdd05.png"
-  - name: "BloodRayne Betrayal"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=E3ljkSZzrEY"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "kahraman523"
-    compatible_version: "1.0 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/9abf5e9f011188033b268661b9daa499.png"
-  - name: "BloodRayne: ReVamped"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=z7bKWtwzeEM"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "1.0.2 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7c789517487dc274755d148911c650e4.jpg"
-  - name: "BloodRayne: Terminal Cut"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=GDHo5s_Sk8o"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: ""
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/8d3f7992bf5694173d7bf9014a2ddf81.jpg"
-  - name: "Bloodhound"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=NW3vn4iaVW0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: ""
-    compatible_version: "17 July 2023 sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3ef09072b3121a804432f6e0b188bd21.png"
-  - name: "Bloodstained: Ritual of the Night"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "KederliLahmacun - Adol125 - ISKA"
-    testing: "ISKA - Adol125"
-    compatible_version: "1.4 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/9012dbd23c4d2e33be5eccb0e5f72517.png"
-  - name: "Bright Memory Infinite"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=wP1Ffl8zqpc"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "15 March 2022 sürümüne uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/29671d8b9671aabac5a440cb95eb059f.png"
-  - name: "Brothers: A Tale of Two Sons Remake"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=8ynkRIbIqQU"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "İlk sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/a20ab2bcc5046331b3e276d990e3b641.png"
-  - name: "Bully: Scholarship Edition"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Suqbs1"
-    testing: "_lexofrr - peglntron - ahmett555 - Uğur Fatih"
-    compatible_version: "Scholarship Edition v1.200 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7ade52071e3d6841a7647a33ad49bf58.png"
-  - name: "Carrion"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=HShAYBnJsk8"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20 - zartzurt456"
-    compatible_version: "1.0.5"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/4b59f87d7a404223de629d8fcfc2e290.png"
-  - name: "Castle of Illusion"
-    categories:
-      - Android
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=d14LXhMOXf0"
-    description: ""
-    images: []
-    translator: "rewold20 - VAsTER"
-    testing: "ISKA - rewold20"
-    compatible_version: "24 July 2014 sürümüne uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/c52f0d9f8fb84ea294975f6b595d5308.png"
-  - name: "Castlevania: Aria of Sorrow"
-    categories:
-      - GBA
-    video_url: "https://www.youtube.com/watch?v=U6miBtUlL2U"
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "Adol125"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/efd71d7b0fd9e79cc8dfbd9f96564f5e.jpg"
-  - name: "Captain Toad: Treasure Tracker"
-    categories:
-      - Nintendo 3DS
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=OvEbWIB6Xis"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Base sürüme uyumludur, çeviri beta aşamasındadır."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/4de4fa124a71aae2b9fc4cef2bd4402a.png"
-  - name: "Coffin Dodgers"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=OhCJu_5jWR8"
-    description: ""
-    images: []
-    translator: "rewold20 - VAsTER"
-    testing: "rewold20 - VAsTER"
-    compatible_version: "v1.2.4 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/084c141bcb1a60bb9619aafc340241fd.jpg"
-  - name: "Dead Rising 4"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "anil523 - Truelegend - Freeman1930"
-    compatible_version: "31 January 2018 güncellemesiyle uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/69d0353e88f579cded20ed0c14345371.png"
-  - name: "Dead Space 3: Awakened"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=t2301VvweBg"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "VAsTER"
-    compatible_version: "25 January 2023 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/d0d075daa1a85251c2a07a0059f084d5.jpg"
-  - name: "Death's Door"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Sixth Sense"
-    testing: "ISKA"
-    compatible_version: "v1.1.6 güncellemesi ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/c2408e0b94b3f1352f02388c5f5dd310.png"
-  - name: "Dolmen"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=w4Pqqj9-jXs"
-    description: ""
-    images: []
-    translator: "rewold20 - ISKA"
-    testing: "ISKA"
-    compatible_version: "Steam son sürümü ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/257b0740d62385d1f0b3b5b28f208a41.jpg"
-  - name: "Donkey Kong Country: Tropical Freeze"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA - Adol125"
-    compatible_version: "1.0.0 olan oyunun ilk sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/91270e97491a918496e6569c9fcff808.png"
-  - name: "Doom (2016)"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=4bHn0I_JrE4"
-    description: ""
-    images: []
-    translator: "rewold20 - Kederli Lahmacun - Mastertranslator"
-    testing: "rewold20 - Ömer Öz"
-    compatible_version: "Steam sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/e6b2e5d385c1503fbd55b97ba5dc4b77.png"
-  - name: "Doom 64"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "Steam ve Epic Games'in 12 July 2022 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/bdf98066565b63288f7c155f921aad7b.png"
-  - name: "Dragon Warrior"
-    categories:
-      - NES
-    video_url: "https://www.youtube.com/watch?v=si_aWk_28ss"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/2d57916cbae746f3eef47583e0f13cc2.png"
-  - name: "ENDER MAGNOLIA: Bloom in the Mist"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "Build 13889266 güncellemesiyle uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/6d9c90af1c12f5a88e4d5f216bbc1979.png"
-  - name: "Ender Lilies: Quietus of the Knights"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=kFWjh8qDyXY"
-    description: ""
-    images: []
-    translator: "rewold20 - Adol125 - ISKA"
-    testing: "ISKA - rewold20 - Adol125"
-    compatible_version: "1.1.6-13932 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/71852769eef911dc3ecb396251342962.png"
-  - name: "Eternal Hope"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=_ESvYWz8JoQ"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "1 April 2021 sürümüne uyumlu"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7391de088397c73878f070cf03951368.png"
-  - name: "Evergate"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=belLH95Xrt4"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "v08.08.2021 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/b8788fed626fe78be482b2823045fda3.png"
-  - name: "Fallout 3: GOTY"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=R6Y4RjfA-Yg"
-    description: ""
-    images: []
-    translator: "Doom4627 - Afşin Bey - Rewold20 - Findukman"
-    testing: "Doom4627 - Rewold20"
-    compatible_version: "Epic ve Game Pass sürümüyle uyumludur."
-    notes: "Oyun ayarlarından alt yazıyı açmayı unutmayın. DLC çevirileri, çeviriye dâhil değildir."
-    poster_url: "https://cdn2.steamgriddb.com/grid/838b5a042f1761ef0b5981585a0a7f38.png"
-  - name: "Fe"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=2BFIzINIoW0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "7 January 2021 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/bbafe3f11233ebe5cc35a50d4f65ff7b.png"
-  - name: "Fez"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=bfmGPwsEcLU"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/45aea7db0f03fecc77f969bd296cdc62.png"
-  - name: "Final Fantasy VII"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125 - Aybakh21 -Kaan Gedikli - Erol Utku Kara - *E4EN"
-    testing: " Adol125 - Vkopuzoglu - Pakrad Demir - byflash"
-    compatible_version: "Steam son sürümü ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/fb038c3ed829a992d6d4cc3ce6654290.png"
-  - name: "Freedom Fighters"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Ömer Öz"
-    testing: "Ömer Öz"
-    compatible_version: "Steam son sürümü ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/35eab188657a81304e2ea8ca8c8c5ad8.png"
-  - name: "Ghosts 'n Goblins Resurrection"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=bU33VXo7iZs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "1 June 2021 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/ef7acbc80cdf9125a69edeeeb21b9f03.png"
-  - name: "Grapple Dog"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=7u_prTx9XTA"
-    description: ""
-    images: []
-    translator: "rewold20 "
-    testing: "rewold20 "
-    compatible_version: "v2.0.1 sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/e8152ebebf0451cf8169155ae34e743d.png"
-  - name: "Graveyard Keeper"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "NewFortuna - Sabri Devran - Truelegend"
-    testing: "Jesust Christ - Truelegend"
-    compatible_version: "v1.407 güncellemesiyle uyumludur."
-    notes: "Tüm DLC çevirileri dahildir."
-    poster_url: "https://cdn2.steamgriddb.com/grid/ffd068b53b93e3072487b75b7b7d4ca8.png"
-  - name: "GRIS"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=9FPhxUTQ6BY"
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "rewold20 - ISKA"
-    compatible_version: "7 March 2019 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3bb8b73487500c1c7285480103be68e6.png"
-  - name: "GTA Liberty City Stories"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "elpdrno_046"
-    testing: "ISKA - elpdrno_046"
-    compatible_version: "Beta5Build 16Aug20 sürümüyle uyumludur."
-    notes: "Oyun ayarlarından Spanish'i seçip Türkçe yapın."
-    poster_url: "https://cdn2.steamgriddb.com/grid/6ba32142b6b23ecd32a4c0aff11c2c41.png"
-  - name: "Haiku, the Robot"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=7baPj_T7qPE"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "v.1.1.5.2 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/053c7d566a83a7b24644f18ea2cc6f68.jpg"
-  - name: "Hotline Miami 2: Wrong Number"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Mastertranslator - rewold20"
-    testing: "Mastertranslator"
-    compatible_version: "Steam son sürüm ile uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/b03957e3e564174aa888186a103f2e34.jpg"
-  - name: "Hue"
-    categories:
-      - PS Vita
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=DuDgPcVuY2k"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürümlere uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/654c5f18cf116cab7b4f54ffb2b263eb.webp"
-  - name: "I Am The Hero"
-    categories:
-      - PS Vita
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=yvbqD8HKoA0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "VAsTER - rewold20"
-    compatible_version: "Son sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/40c96aecfca4955b9c192e6dcea235ac.png"
-  - name: "Ico"
-    categories:
-      - Playstation 3
-    video_url: "https://www.youtube.com/watch?v=DuTT90bYp9M"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "NPEA00279 EUR sürümü, 01.01 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/54c8077a3713597237f91535a6082b1f.jpg"
-  - name: "It Takes Two"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Sixth Sense"
-    testing: "Sixth Sense"
-    compatible_version: "v1.0.2 güncellemesi ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/84d8df6932e202152767f7579f32c613.png"
-  - name: "Journey to the Savage Planet"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "Truelegend"
-    compatible_version: "53207 güncellemesiyle uyumludur."
-    notes: "Hot Garbage DLC çevirisi dâhildir."
-    poster_url: "https://cdn2.steamgriddb.com/grid/2393f2ba6d1d4aa2c3fb82f8a7a751f3.png"
-  - name: "Katana Zero"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=M-mhwhye0u4"
-    description: ""
-    images: []
-    translator: "rewold20 - Kederli Lahmacun"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.0.5 STEAM güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/057b1cfba313958551a8afa2c3e75429.png"
-  - name: "Kirby and the Forgotten Land"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=7HqAvqv3Nck"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.0.0 olan oyunun ilk sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/fd5b431d065e37e793b3d8219735f3be.png"
-  - name: "Kirby's Dream Buffet"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=Hk5wn0kjlMk"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "1.0.0 olan oyunun ilk sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3866a1c0c762230d56d7cb9d746a3710.jpg"
-  - name: "Kona"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=inbbtvt4kW8"
-    description: ""
-    images: []
-    translator: "rewold20 - Kederli Lahmacun - ISKA"
-    testing: "rewold20 - Emrebbi - ISKA"
-    compatible_version: "10 February 2023 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/2096a1e3206c02898f4cb287fbeac1cd.png"
-  - name: "Link's Crossbow Training"
-    categories:
-      - Nintendo Wii
-    video_url: "https://www.youtube.com/watch?v=PM7EflDXe-s"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/a717f8e16462c3338626c696c6f4d745.png"
-  - name: "The Legend of Zelda: A Link Between Worlds"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=Bi8LIx3pzAw"
-    description: ""
-    images: []
-    translator: "rewold20 - Egehan"
-    testing: "rewold20"
-    compatible_version: "AVRUPA bölge uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/6e2376385359dc8bb6ee14e594e924d3.png"
-  - name: "Luigi's Mansion"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=C9OL5JFf93Q"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/ac7c433007ac68a863d12dd75b2d13eb.png"
-  - name: "Luigi's Mansion 2 HD"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=KKU6JoKtnS0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.0.0 olan oyunun ilk sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/33e18a78cf393b438a7d1a6e7f77f5ff.png"
-  - name: "Mario Kart 7"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/73c2aa11e36f2c92f68f08653503370c.png"
-  - name: "Mario vs. Donkey Kong"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=ODaHWIP2dnc"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "1.0.0 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/6d53d813891958a394978f48ae19ce15.png"
-  - name: "Mass Effect L.E"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Doğukan Kartal (evilhuman)"
-    testing: "Doğukan Kartal (evilhuman) - Ümit (Commander Cody) - ISKA"
-    compatible_version: ""
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/ca897e6a0038f36de238bd81b9ef17f9.png"
-  - name: "Metroid Dread"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA"
-    compatible_version: "v2.1.0 ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/63c07e376dcf5799fc02381033f7c121.png"
-  - name: "Metroid Fusion"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/755f12c05f69fc1dbd113cf9599fbfd4.png"
-  - name: "Metroid Prime Remastered"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA - Adol125"
-    compatible_version: "USA sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/691beaaaf5d82cda2376dc054ad92b3d.png"
-  - name: "Metroid: Samus Returns"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=s1s2Gplks04"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/e1c21364530057bc884be07f32491acc.png"
-  - name: "Metroid: Zero Mission"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA"
-    compatible_version: "USA sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/73e7fb4872d41443c1b08c4199329b9d.png"
-  - name: "Midnight Club: Street Racing"
-    categories:
-      - Playstation 2
-    video_url: "https://www.youtube.com/watch?v=UEGIlmnH23M"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "EU PAL sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/f121f07956cda55382d24a8de8470f27.png"
-  - name: "Mortal Shell: Complete Edition"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Rapid Çeviri"
-    testing: "Rapid Çeviri"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3f5e9fbee3aa69948976d168693797f5.jpg"
-  - name: "New Super Mario Bros. 2"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/655eb6e2c9d89d42fabc57d6086bd4ed.png"
-  - name: "New Super Mario Bros. U Deluxe"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7058a759bc5842ffe04c644b313da1ed.jpg"
-  - name: "Nocturne"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=l2ehqamKDtY"
-    description: ""
-    images: []
-    translator: "rewold20 - Dagon"
-    testing: "rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/48099d2a188c62e8833641e880f5eb2f.png"
-  - name: "Olija"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=408Wuqgqcqs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "7 November 2022 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/a787a15e8c29c3b6af24ee735960458a.png"
-  - name: "PAC-MAN WORLD Re-PAC"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=TJUBtS3lIDU"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "İlk sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/9f1bd2f5e30e36007c422f0995be6e21.jpg"
-  - name: "Paradise Lost"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Oğuzhan Okçu"
-    testing: "Oğuzhan Okçu"
-    compatible_version: "Steam sonsürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/babd5cdf2da7a8d543290a3e5bc26fee.png"
-  - name: "Pokémon Emerald"
-    categories:
-      - GBA
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Gökhan Perçem - Emirhan Yılmaz"
-    testing: "Gökhan Perçem"
-    compatible_version: "1.0 USA sürümüyle uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/052938e7b425df3acdd9dc4be44404ef.png"
-  - name: "Police Stories"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=_jJwx72z7zA"
-    description: ""
-    images: []
-    translator: "rewold20 - VAsTER"
-    testing: "rewold20 - VAsTER"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3c250a3c61526610cf532027d5ba6fc7.png"
-  - name: "Police Stories: The Academy"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=BwzvHqE0gII"
-    description: ""
-    images: []
-    translator: "rewold20 - VAsTER"
-    testing: "rewold20 - VAsTER"
-    compatible_version: "Son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3c250a3c61526610cf532027d5ba6fc7.png"
-  - name: "Prey"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=tPibHhtfjXI"
-    description: ""
-    images: []
-    translator: "rewold20 - Kederli Lahmacun - Ahmet Tüfekçi"
-    testing: "rewold20"
-    compatible_version: "Steam son sürüm ile uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/0f7f5d0f582470276370143a95d2906f.png"
-  - name: "Prey: Mooncrash"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=tPibHhtfjXI"
-    description: ""
-    images: []
-    translator: "rewold20 - Kederli Lahmacun"
-    testing: "rewold20"
-    compatible_version: "Steam son sürüme uyumludur"
-    notes: ""
-    poster_url: "https://github.com/rewold/railv2/blob/main/images/d37.jpg?raw=true"
-  - name: "Princess Peach: Showtime!"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Adol125 - rewold20"
-    testing: "ISKA - Adol125"
-    compatible_version: "İlk sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/9c7f56da5c50d82f6b2db7db1dcdf1b5.jpg"
-  - name: "Project Warlock"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Tkytaha"
-    testing: "ISKA - rewold20"
-    compatible_version: "1.0.7.11 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/6213c71929478b6062b5fe5946c43970.png"
-  - name: "Rain"
-    categories:
-      - Playstation 3
-    video_url: "https://www.youtube.com/watch?v=s8klAvD8P40"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - KarapathiaN"
-    compatible_version: "NPEA00394 EUR sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/d6f6b111d2dfad307512b69714cbf195.jpg"
-  - name: "Rayman Origins"
-    categories:
-      - Nintendo Wii
-      - PS Vita
-      - Nintendo 3DS
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=8JiJkH9CD5s"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "Son sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/97340a12cbc7ba7e072907aa669843f4.png"
-  - name: "Resident Evil 3"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Uğurcan - Pelin"
-    testing: "ISKA"
-    compatible_version: "Dx11, Rtx olmayan Steam güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/db009827adc73ea446fad31853556924.png"
-  - name: "Resident Evil: Revelations 3DS"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=0z15zqk_xOo"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "BASE AVRUPA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/52ec1c0cc952d63a8bda67ff969b6968.png"
-  - name: "Resident Evil: The Mercenaries 3D"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=CVp7wdwKqfQ"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/f5fadb9edfac5b9324c6db95b80eebbe.png"
-  - name: "Röki"
-    categories:
-      - Windows
-      - MacOS
-      - Linux
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "Truelegend"
-    compatible_version: "V3.3 GOG sürüm ve diğer son sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/8ab053a75808486aae23ad7d67c409bf.png"
-  - name: "Running on Magic"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=Bxwy6gx5LL0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: ""
-    compatible_version: "Resmi çeviridir."
-    notes: ""
-    poster_url: "https://github.com/rewold/railv2/blob/main/images/c40.jpg?raw=true"
-  - name: "Saints Row 2"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=qLfn-heVx_A"
-    description: ""
-    images: []
-    translator: "Oğuzhan Okçu"
-    testing: "ISKA"
-    compatible_version: "Son sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/3360fae0a6ef3bc502064f3d5d17c18b.png"
-  - name: "Silent Hill: Downpour"
-    categories:
-      - Playstation 3
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Çağ - M. Erdener - Thisrock"
-    testing: "Çağ - Ahmet Çelik"
-    compatible_version: "BLUS30565 sürümüyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7f996610ab63c3bc9590c1bd8e9a7d65.png"
-  - name: "Sniper Ghost Warrior Contracts"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Ömer Öz - rewold20"
-    testing: "Ömer Öz"
-    compatible_version: "1.08 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/08b427ae531af1f6735d0bb995f0157b.jpg"
-  - name: "Song of Horror: Complete Edition"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "Truelegend"
-    compatible_version: "1.22 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/74d50af4e52061806a5f4b358e1d5fcf.png"
-  - name: "Source of Madness"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=vvtkg4zEiKs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: ""
-    compatible_version: "Resmi çeviridir."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/22fb9185d7582a3eba695b8dfdbfe424.jpg"
-  - name: "Steamworld Dig"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=Ppobmqm8dSs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: ""
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/d49e9f66589606e19f8898a22db1396f.png"
-  - name: "Sunwards"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=N7PNXcw1p8s"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "İlk sürüme uyumludur."
-    notes: ""
-    poster_url: "https://github.com/rewold/railv2/blob/main/images/c18.jpg?raw=true"
-  - name: "Super Mario 3D World + Bowser’s Fury"
-    categories:
-      - Nintendo Switch
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Kıvılcım - Kerem Alp - Duygu"
-    testing: "Kıvılcım - Kerem Alp - Duygu"
-    compatible_version: "v1.1.0 güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/f68d0f2ede0595c4f3b7932f082c7375.png"
-  - name: "Super Mario Bros. Wii"
-    categories:
-      - Nintendo Wii
-    video_url: "https://www.youtube.com/watch?v=zHAOXgJhTOc"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "USA sürüm uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/990905356f57edd74c2232093b2f9241.png"
-  - name: "Super Mario Bros. Wonder"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=zYhuMGUi74U"
-    description: ""
-    images: []
-    translator: "rewold20 - Adol125 - YunusZ"
-    testing: "ISKA - rewold20 - Adol125"
-    compatible_version: "İlk sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/66da3b21fe18692332284c64e08b8e02.png"
-  - name: "Super Mario World"
-    categories:
-      - SNES
-    video_url: "https://www.youtube.com/watch?v=uvaqZD22xPY"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/2bf887cd37fa5ba4ce0ba9713013a4f7.png"
-  - name: "T.M.N.T: Out of the Shadows"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Oğuzhan Okçu"
-    testing: "Oğuzhan Okçu"
-    compatible_version: "1.0.10246 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/c723579a45101c08f6e4a185e0f2384b.png"
-  - name: "T.M.N.T: Shredder's Revenge"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=kFcLHLmUmE4"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "1.0.0.255 - 4 (Gamepass)~ 1.0.0.258 (Steam) güncellemesiyle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/49f106866e8a44e452a3103f336f3d26.png"
-  - name: "Tails of Iron"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=ODI-StMeVU0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "19 December 2023 tarihli, 1.22 güncellemesiyle uyumludur. Crimson Knight DLC'si çeviriye dâhildir."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/e106e0e434cc70b70cf076b828128c60.png"
-  - name: "The Evil Within 2"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "BOS Çeviri"
-    testing: "BOS Çeviri"
-    compatible_version: "Steam son sürümüyle uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/504bb3044bce81f954b53107f56afffe.jpg"
-  - name: "The Godfather II"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=NATT-QcAcqc"
-    description: ""
-    images: []
-    translator: "rewold20 - KederliLahmacun - Ahmet Tüfekçi - Tirana Shqiptar Alban"
-    testing: "rewold20 - Anıl523 - Emrebbi"
-    compatible_version: "Tüm sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/483bcbd004d3fb038047505aaab20b6d.png"
-  - name: "The Godfather The Game"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=QaBRm4qtEZg"
-    description: ""
-    images: []
-    translator: "rewold20 - Tirana Shqiptar Alban"
-    testing: "ISKA - rewold20"
-    compatible_version: "Tüm sürümlere uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/4117b927c510516edc14da73bb02840a.png"
-  - name: "The Last Faith"
-    categories:
-      - Nintendo Switch
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=xhz5F_VP6NY"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA"
-    compatible_version: "1.5.2 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/61bf6d7433466a2a29006bb2ab69048e.jpg"
-  - name: "The Legend of Zelda"
-    categories:
-      - NES
-    video_url: "https://www.youtube.com/watch?v=-jsIG2pQ2l0"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/e49cc7c344acaf1160fd6c2a0190f056.png"
-  - name: "The Legend of Zelda: A Link to the Past"
-    categories:
-      - SNES
-    video_url: "https://www.youtube.com/watch?v=CEAISTP7K7o"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/7edaadde50012f0860952123564eb1ba.jpg"
-  - name: "The Legend of Zelda: Ocarina of Time 3D"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=2qMOYvGva_M"
-    description: ""
-    images: []
-    translator: "Adol125"
-    testing: "ISKA"
-    compatible_version: "AVRUPA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/ab6fe89d793b5a3c4153692779cb0680.png"
-  - name: "The Legend of Zelda: The Minish Cap"
-    categories:
-      - GBA
-    video_url: "https://www.youtube.com/watch?v=yBoy17iAcOU"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20 - Adol125"
-    compatible_version: "USA sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/a687f78b9842c87225e74921765feb1b.png"
-  - name: "The Legend of Zelda: Tri Force Heroes"
-    categories:
-      - Nintendo 3DS
-    video_url: "https://www.youtube.com/watch?v=_naJpzNuXwk"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/aba25a9fda63263672f8e84b6d7a4c6e.png"
-  - name: "Those Who Remain"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "Truelegend"
-    testing: "Truelegend"
-    compatible_version: "1.0.12 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/31c0c3fb86ccf62dc36356a42754c2a3.png"
-  - name: "Thymesia"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=p8ZeiyeUZvQ"
-    description: ""
-    images: []
-    translator: "rewold20 - Adol125"
-    testing: "ISKA - rewold20"
-    compatible_version: "Patch Two ile uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/c8cd8bcf2de00ae75d21a7c170663bd0.png"
-  - name: "Tower Hunter: Erza's Trial"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=iw-O31FzISc"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "VAsTER - rewold20"
-    compatible_version: "Steam son sürümle uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/1f0519d9f3f0512dbe18c7a2290d152f.png"
-  - name: "Trepang2"
-    categories:
-      - Windows
-    video_url: ""
-    description: ""
-    images: []
-    translator: "YunusZ"
-    testing: "ISKA - rewold20 - YunusZ"
-    compatible_version: "v65613 sürümüyle uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/0340694bc6b497cd95ff13d42397d73c.png"
-  - name: "Turok"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=JUFzuQ7ICn4"
-    description: ""
-    images: []
-    translator: "VAsTER"
-    testing: "VAsTER"
-    compatible_version: "Steam ve GOG 2.0 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/248714de15f62bb7ec2e75a4db9fdc06.png"
-  - name: "ULTIMATE NES REMIX"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "AVRUPA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/6f9b6d61044b15a5576cc265488b7553.png"
-  - name: "Warhammer 40,000: Space Marine A.E."
-    categories:
-      - Windows
-    video_url: "https://youtu.be/8bEtDyrqsYs"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "Her sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png"
-  - name: "Yoshi's New Island"
-    categories:
-      - Nintendo 3DS
-    video_url: ""
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA BASE sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/734e63ce9524a5ca8fd722c29649c471.png"
-  - name: "Zelda II: The Adventure of Link"
-    categories:
-      - NES
-    video_url: "https://www.youtube.com/watch?v=M1FFXaelUY4"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "rewold20"
-    compatible_version: "USA sürüme uyumludur."
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/657b0ad0569f3ceae3427be2623753cc.png"
-  - name: "Zelda: Link's Awakening"
-    categories:
-      - Nintendo Switch
-    video_url: "https://www.youtube.com/watch?v=E_JbcMfWXlc"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "ISKA - rewold20"
-    compatible_version: "Son sürüme uyumludur"
-    notes: "Sponsor Çeviri"
-    poster_url: "https://cdn2.steamgriddb.com/grid/668b94139e401725c1749f87120369af.png"
-  - name: "Zorro The Chronicles"
-    categories:
-      - Windows
-    video_url: "https://www.youtube.com/watch?v=NQhA4RSleY4"
-    description: ""
-    images: []
-    translator: "rewold20"
-    testing: "VAsTER"
-    compatible_version: "1.0 sürüme uyumludur"
-    notes: ""
-    poster_url: "https://cdn2.steamgriddb.com/grid/67575362dc9d334e8f489e9ca40accb3.jpg"
+- name: 1-2-Switch
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/1-2-Switch.jpeg
+- name: 9 Years of Shadows
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: https://www.youtube.com/embed/LUfi0xz4m4A?si=EDYXeVbhXepbmtBy
+  translator: YunusZ
+  testing: ISKA - rewold20
+  compatible_version: 1.0.1 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/9%20Years%20of%20Shadows.jpeg
+- name: A Hole New World
+  categories:
+  - Nintendo Switch
+  - PS Vita
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/A%20Hole%20New%20World.jpeg
+- name: Alex Kidd in Miracle World DX
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=8evmFwCEK9E
+  translator: rewold20
+  testing: ISKA
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Alex%20Kidd%20in%20Miracle%20World%20DX.jpeg
+- name: Ashen
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: ''
+  translator: Truelegend
+  testing: ISKA - Truelegend
+  compatible_version: 1.0.12.0 sürümüyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Ashen.jpeg
+- name: Axiom Verge
+  categories:
+  - Nintendo Switch
+  - PS Vita
+  video_url: https://www.youtube.com/watch?v=I6SJyFdirHs
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: v1.0 sürümüyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Axiom%20Verge.jpeg
+- name: 'Batman: Arkham Origins Blackgate'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=AiJr_QKYlO0
+  translator: T.S.
+  testing: rewold20
+  compatible_version: Son sürüm uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/f7ea6ec0a29aec939a8f7aee8b14ea62.png
+- name: Blasphemous
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=kkdTBdOkDew
+  translator: Truelegend - jepalion - rewold20
+  testing: ISKA - rewold20 - Truelegend
+  compatible_version: 1.0.7 sürüme uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous.jpeg
+- name: Blasphemous 2
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=oG5I13y98xY
+  translator: rewold20 - ISKA - Vahar'ai - Adol125 - YunusZ
+  testing: ISKA - rewold20
+  compatible_version: 1.1.0 - cs44446 sürümüne uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous%202.jpeg
+- name: BloodRayne
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=H2FpDSolLE8
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Steam ve GOG sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne.jpeg
+- name: BloodRayne 2
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=y2DlKmMZLjw
+  translator: rewold20 - KederliLahmacun
+  testing: rewold20
+  compatible_version: Steam son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202.jpeg
+- name: 'BloodRayne 2: Terminal Cut'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=JWTmehpm63c
+  translator: rewold20 - KederliLahmacun
+  testing: rewold20
+  compatible_version: ''
+  poster_url: https://cdn2.steamgriddb.com/grid/47f80ec38768a58181f0a42deb9cdd05.png
+- name: BloodRayne Betrayal
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=E3ljkSZzrEY
+  translator: rewold20
+  testing: kahraman523
+  compatible_version: 1.0 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Betrayal.jpeg
+- name: 'BloodRayne: ReVamped'
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=z7bKWtwzeEM
+  translator: rewold20
+  testing: rewold20
+  compatible_version: 1.0.2 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/7c789517487dc274755d148911c650e4.jpg
+- name: 'BloodRayne: Terminal Cut'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=GDHo5s_Sk8o
+  translator: rewold20
+  testing: rewold20
+  compatible_version: ''
+  poster_url: https://cdn2.steamgriddb.com/grid/8d3f7992bf5694173d7bf9014a2ddf81.jpg
+- name: Bloodhound
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=NW3vn4iaVW0
+  translator: rewold20
+  testing: ''
+  compatible_version: 17 July 2023 sürüme uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodhound.jpeg
+- name: 'Bloodstained: Ritual of the Night'
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: KederliLahmacun - Adol125 - ISKA
+  testing: ISKA - Adol125
+  compatible_version: 1.4 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/9012dbd23c4d2e33be5eccb0e5f72517.png
+- name: Bright Memory Infinite
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=wP1Ffl8zqpc
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 15 March 2022 sürümüne uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bright%20Memory%20Infinite.jpeg
+- name: 'Brothers: A Tale of Two Sons Remake'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=8ynkRIbIqQU
+  translator: rewold20
+  testing: rewold20
+  compatible_version: İlk sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/a20ab2bcc5046331b3e276d990e3b641.png
+- name: 'Bully: Scholarship Edition'
+  categories:
+  - Windows
+  video_url: ''
+  translator: Suqbs1
+  testing: _lexofrr - peglntron - ahmett555 - Uğur Fatih
+  compatible_version: Scholarship Edition v1.200 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/7ade52071e3d6841a7647a33ad49bf58.png
+- name: Carrion
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=HShAYBnJsk8
+  translator: rewold20
+  testing: ISKA - rewold20 - zartzurt456
+  compatible_version: 1.0.5
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Carrion.jpeg
+- name: Castle of Illusion
+  categories:
+  - Android
+  - Windows
+  video_url: https://www.youtube.com/watch?v=d14LXhMOXf0
+  translator: rewold20 - VAsTER
+  testing: ISKA - rewold20
+  compatible_version: 24 July 2014 sürümüne uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castle%20of%20Illusion.jpeg
+- name: 'Castlevania: Aria of Sorrow'
+  categories:
+  - GBA
+  video_url: https://www.youtube.com/watch?v=U6miBtUlL2U
+  translator: Adol125
+  testing: Adol125
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/efd71d7b0fd9e79cc8dfbd9f96564f5e.jpg
+- name: 'Captain Toad: Treasure Tracker'
+  categories:
+  - Nintendo 3DS
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=OvEbWIB6Xis
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Base sürüme uyumludur, çeviri beta aşamasındadır.
+  poster_url: https://cdn2.steamgriddb.com/grid/4de4fa124a71aae2b9fc4cef2bd4402a.png
+- name: Coffin Dodgers
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=OhCJu_5jWR8
+  translator: rewold20 - VAsTER
+  testing: rewold20 - VAsTER
+  compatible_version: v1.2.4 güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Coffin%20Dodgers.jpeg
+- name: Dead Rising 4
+  categories:
+  - Windows
+  video_url: ''
+  translator: Truelegend
+  testing: anil523 - Truelegend - Freeman1930
+  compatible_version: 31 January 2018 güncellemesiyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dead%20Rising%204.jpeg
+- name: 'Dead Space 3: Awakened'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=t2301VvweBg
+  translator: rewold20
+  testing: VAsTER
+  compatible_version: 25 January 2023 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/d0d075daa1a85251c2a07a0059f084d5.jpg
+- name: Death's Door
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Sixth Sense
+  testing: ISKA
+  compatible_version: v1.1.6 güncellemesi ile uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Death's%20Door.jpeg
+- name: Dolmen
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=w4Pqqj9-jXs
+  translator: rewold20 - ISKA
+  testing: ISKA
+  compatible_version: Steam son sürümü ile uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dolmen.jpeg
+- name: 'Donkey Kong Country: Tropical Freeze'
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Adol125
+  testing: ISKA - Adol125
+  compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/91270e97491a918496e6569c9fcff808.png
+- name: Doom (2016)
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=4bHn0I_JrE4
+  translator: rewold20 - Kederli Lahmacun - Mastertranslator
+  testing: rewold20 - Ömer Öz
+  compatible_version: Steam sürümüyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%20(2016).jpeg
+- name: Doom 64
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: Steam ve Epic Games'in 12 July 2022 güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%2064.jpeg
+- name: Dragon Warrior
+  categories:
+  - NES
+  video_url: https://www.youtube.com/watch?v=si_aWk_28ss
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürümüyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dragon%20Warrior.jpeg
+- name: 'ENDER MAGNOLIA: Bloom in the Mist'
+  categories:
+  - Windows
+  video_url: ''
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: Build 13889266 güncellemesiyle uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/6d9c90af1c12f5a88e4d5f216bbc1979.png
+- name: 'Ender Lilies: Quietus of the Knights'
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=kFWjh8qDyXY
+  translator: rewold20 - Adol125 - ISKA
+  testing: ISKA - rewold20 - Adol125
+  compatible_version: 1.1.6-13932 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/71852769eef911dc3ecb396251342962.png
+- name: Eternal Hope
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=_ESvYWz8JoQ
+  translator: rewold20
+  testing: rewold20
+  compatible_version: 1 April 2021 sürümüne uyumlu
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Eternal%20Hope.jpeg
+- name: Evergate
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=belLH95Xrt4
+  translator: rewold20
+  testing: rewold20
+  compatible_version: v08.08.2021 güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Evergate.jpeg
+- name: 'Fallout 3: GOTY'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=R6Y4RjfA-Yg
+  translator: Doom4627 - Afşin Bey - Rewold20 - Findukman
+  testing: Doom4627 - Rewold20
+  compatible_version: Epic ve Game Pass sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/838b5a042f1761ef0b5981585a0a7f38.png
+- name: Fe
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=2BFIzINIoW0
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 7 January 2021 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/bbafe3f11233ebe5cc35a50d4f65ff7b.png
+- name: Fez
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=bfmGPwsEcLU
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/45aea7db0f03fecc77f969bd296cdc62.png
+- name: Final Fantasy VII
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: Adol125 - Aybakh21 -Kaan Gedikli - Erol Utku Kara - *E4EN
+  testing: ' Adol125 - Vkopuzoglu - Pakrad Demir - byflash'
+  compatible_version: Steam son sürümü ile uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/fb038c3ed829a992d6d4cc3ce6654290.png
+- name: Freedom Fighters
+  categories:
+  - Windows
+  video_url: ''
+  translator: Ömer Öz
+  testing: Ömer Öz
+  compatible_version: Steam son sürümü ile uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/35eab188657a81304e2ea8ca8c8c5ad8.png
+- name: Ghosts 'n Goblins Resurrection
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=bU33VXo7iZs
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 1 June 2021 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/ef7acbc80cdf9125a69edeeeb21b9f03.png
+- name: Grapple Dog
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=7u_prTx9XTA
+  translator: 'rewold20 '
+  testing: 'rewold20 '
+  compatible_version: v2.0.1 sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/e8152ebebf0451cf8169155ae34e743d.png
+- name: Graveyard Keeper
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: NewFortuna - Sabri Devran - Truelegend
+  testing: Jesust Christ - Truelegend
+  compatible_version: v1.407 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/ffd068b53b93e3072487b75b7b7d4ca8.png
+- name: GRIS
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=9FPhxUTQ6BY
+  translator: Adol125
+  testing: rewold20 - ISKA
+  compatible_version: 7 March 2019 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/3bb8b73487500c1c7285480103be68e6.png
+- name: GTA Liberty City Stories
+  categories:
+  - Windows
+  video_url: ''
+  translator: elpdrno_046
+  testing: ISKA - elpdrno_046
+  compatible_version: Beta5Build 16Aug20 sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/6ba32142b6b23ecd32a4c0aff11c2c41.png
+- name: Haiku, the Robot
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=7baPj_T7qPE
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: v.1.1.5.2 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/053c7d566a83a7b24644f18ea2cc6f68.jpg
+- name: 'Hotline Miami 2: Wrong Number'
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Mastertranslator - rewold20
+  testing: Mastertranslator
+  compatible_version: Steam son sürüm ile uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/b03957e3e564174aa888186a103f2e34.jpg
+- name: Hue
+  categories:
+  - PS Vita
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=DuDgPcVuY2k
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürümlere uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/654c5f18cf116cab7b4f54ffb2b263eb.webp
+- name: I Am The Hero
+  categories:
+  - PS Vita
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=yvbqD8HKoA0
+  translator: rewold20
+  testing: VAsTER - rewold20
+  compatible_version: Son sürümlere uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/40c96aecfca4955b9c192e6dcea235ac.png
+- name: Ico
+  categories:
+  - Playstation 3
+  video_url: https://www.youtube.com/watch?v=DuTT90bYp9M
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: NPEA00279 EUR sürümü, 01.01 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/54c8077a3713597237f91535a6082b1f.jpg
+- name: It Takes Two
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Sixth Sense
+  testing: Sixth Sense
+  compatible_version: v1.0.2 güncellemesi ile uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/84d8df6932e202152767f7579f32c613.png
+- name: Journey to the Savage Planet
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: Truelegend
+  testing: Truelegend
+  compatible_version: 53207 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/2393f2ba6d1d4aa2c3fb82f8a7a751f3.png
+- name: Katana Zero
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=M-mhwhye0u4
+  translator: rewold20 - Kederli Lahmacun
+  testing: ISKA - rewold20
+  compatible_version: 1.0.5 STEAM güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/057b1cfba313958551a8afa2c3e75429.png
+- name: Kirby and the Forgotten Land
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=7HqAvqv3Nck
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/fd5b431d065e37e793b3d8219735f3be.png
+- name: Kirby's Dream Buffet
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=Hk5wn0kjlMk
+  translator: rewold20
+  testing: rewold20
+  compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/3866a1c0c762230d56d7cb9d746a3710.jpg
+- name: Kona
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=inbbtvt4kW8
+  translator: rewold20 - Kederli Lahmacun - ISKA
+  testing: rewold20 - Emrebbi - ISKA
+  compatible_version: 10 February 2023 güncellemesiyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/2096a1e3206c02898f4cb287fbeac1cd.png
+- name: Link's Crossbow Training
+  categories:
+  - Nintendo Wii
+  video_url: https://www.youtube.com/watch?v=PM7EflDXe-s
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/a717f8e16462c3338626c696c6f4d745.png
+- name: 'The Legend of Zelda: A Link Between Worlds'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=Bi8LIx3pzAw
+  translator: rewold20 - Egehan
+  testing: rewold20
+  compatible_version: AVRUPA bölge uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/6e2376385359dc8bb6ee14e594e924d3.png
+- name: Luigi's Mansion
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=C9OL5JFf93Q
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/ac7c433007ac68a863d12dd75b2d13eb.png
+- name: Luigi's Mansion 2 HD
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=KKU6JoKtnS0
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/33e18a78cf393b438a7d1a6e7f77f5ff.png
+- name: Mario Kart 7
+  categories:
+  - Nintendo 3DS
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/73c2aa11e36f2c92f68f08653503370c.png
+- name: Mario vs. Donkey Kong
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=ODaHWIP2dnc
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 1.0.0 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/6d53d813891958a394978f48ae19ce15.png
+- name: Mass Effect L.E
+  categories:
+  - Windows
+  video_url: ''
+  translator: Doğukan Kartal (evilhuman)
+  testing: Doğukan Kartal (evilhuman) - Ümit (Commander Cody) - ISKA
+  compatible_version: ''
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Mass%20Effect%20L.E.jpeg
+- name: Metroid Dread
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Adol125
+  testing: ISKA
+  compatible_version: v2.1.0 ile uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Dread.jpeg
+- name: Metroid Fusion
+  categories:
+  - GBA
+  video_url: ''
+  translator: Adol125
+  testing: ISKA
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Fusion.jpeg
+- name: Metroid Prime Remastered
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Adol125
+  testing: ISKA - Adol125
+  compatible_version: USA sürüme uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Prime%20Remastered.jpeg
+- name: 'Metroid: Samus Returns'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=s1s2Gplks04
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/e1c21364530057bc884be07f32491acc.png
+- name: 'Metroid: Zero Mission'
+  categories:
+  - GBA
+  video_url: ''
+  translator: Adol125
+  testing: ISKA
+  compatible_version: USA sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/73e7fb4872d41443c1b08c4199329b9d.png
+- name: 'Midnight Club: Street Racing'
+  categories:
+  - Playstation 2
+  video_url: https://www.youtube.com/watch?v=UEGIlmnH23M
+  translator: rewold20
+  testing: ISKA
+  compatible_version: EU PAL sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/f121f07956cda55382d24a8de8470f27.png
+- name: 'Mortal Shell: Complete Edition'
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Rapid Çeviri
+  testing: Rapid Çeviri
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/3f5e9fbee3aa69948976d168693797f5.jpg
+- name: New Super Mario Bros. 2
+  categories:
+  - Nintendo 3DS
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%202.jpeg
+- name: New Super Mario Bros. U Deluxe
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
+- name: Nocturne
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=l2ehqamKDtY
+  translator: rewold20 - Dagon
+  testing: rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Nocturne.jpeg
+- name: Olija
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=408Wuqgqcqs
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 7 November 2022 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Olija.jpeg
+- name: PAC-MAN WORLD Re-PAC
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=TJUBtS3lIDU
+  translator: rewold20
+  testing: ISKA
+  compatible_version: İlk sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/PAC-MAN%20WORLD%20Re-PAC.jpeg
+- name: Paradise Lost
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: Oğuzhan Okçu
+  testing: Oğuzhan Okçu
+  compatible_version: Steam sonsürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Paradise%20Lost.jpeg
+- name: Pokémon Emerald
+  categories:
+  - GBA
+  video_url: ''
+  translator: Gökhan Perçem - Emirhan Yılmaz
+  testing: Gökhan Perçem
+  compatible_version: 1.0 USA sürümüyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Pokémon
+    Emerald.jpeg
+- name: Police Stories
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=_jJwx72z7zA
+  translator: rewold20 - VAsTER
+  testing: rewold20 - VAsTER
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Police%20Stories.jpeg
+- name: 'Police Stories: The Academy'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=BwzvHqE0gII
+  translator: rewold20 - VAsTER
+  testing: rewold20 - VAsTER
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/3c250a3c61526610cf532027d5ba6fc7.png
+- name: Prey
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=tPibHhtfjXI
+  translator: rewold20 - Kederli Lahmacun - Ahmet Tüfekçi
+  testing: rewold20
+  compatible_version: Steam son sürüm ile uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Prey.jpeg
+- name: 'Prey: Mooncrash'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=tPibHhtfjXI
+  translator: rewold20 - Kederli Lahmacun
+  testing: rewold20
+  compatible_version: Steam son sürüme uyumludur
+  poster_url: https://github.com/rewold/railv2/blob/main/images/d37.jpg?raw=true
+- name: 'Princess Peach: Showtime!'
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Adol125 - rewold20
+  testing: ISKA - Adol125
+  compatible_version: İlk sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/9c7f56da5c50d82f6b2db7db1dcdf1b5.jpg
+- name: Project Warlock
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: ''
+  translator: Tkytaha
+  testing: ISKA - rewold20
+  compatible_version: 1.0.7.11 güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Project%20Warlock.jpeg
+- name: Rain
+  categories:
+  - Playstation 3
+  video_url: https://www.youtube.com/watch?v=s8klAvD8P40
+  translator: rewold20
+  testing: ISKA - KarapathiaN
+  compatible_version: NPEA00394 EUR sürümüyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rain.jpeg
+- name: Rayman Origins
+  categories:
+  - Nintendo Wii
+  - PS Vita
+  - Nintendo 3DS
+  - Windows
+  video_url: https://www.youtube.com/watch?v=8JiJkH9CD5s
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Son sürümlere uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rayman%20Origins.jpeg
+- name: Resident Evil 3
+  categories:
+  - Windows
+  video_url: ''
+  translator: Uğurcan - Pelin
+  testing: ISKA
+  compatible_version: Dx11, Rtx olmayan Steam güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Resident%20Evil%203.jpeg
+- name: 'Resident Evil: Revelations 3DS'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=0z15zqk_xOo
+  translator: rewold20
+  testing: rewold20
+  compatible_version: BASE AVRUPA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/52ec1c0cc952d63a8bda67ff969b6968.png
+- name: 'Resident Evil: The Mercenaries 3D'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=CVp7wdwKqfQ
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/f5fadb9edfac5b9324c6db95b80eebbe.png
+- name: Röki
+  categories:
+  - Windows
+  - MacOS
+  - Linux
+  - Nintendo Switch
+  video_url: ''
+  translator: Truelegend
+  testing: Truelegend
+  compatible_version: V3.3 GOG sürüm ve diğer son sürümlere uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Röki.jpeg
+- name: Running on Magic
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=Bxwy6gx5LL0
+  translator: rewold20
+  testing: ''
+  compatible_version: Resmi çeviridir.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Running%20on%20Magic.jpeg
+- name: Saints Row 2
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=qLfn-heVx_A
+  translator: Oğuzhan Okçu
+  testing: ISKA
+  compatible_version: Son sürümlere uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Saints%20Row%202.jpeg
+- name: 'Silent Hill: Downpour'
+  categories:
+  - Playstation 3
+  video_url: ''
+  translator: Çağ - M. Erdener - Thisrock
+  testing: Çağ - Ahmet Çelik
+  compatible_version: BLUS30565 sürümüyle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/7f996610ab63c3bc9590c1bd8e9a7d65.png
+- name: Sniper Ghost Warrior Contracts
+  categories:
+  - Windows
+  video_url: ''
+  translator: Ömer Öz - rewold20
+  testing: Ömer Öz
+  compatible_version: 1.08 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Sniper%20Ghost%20Warrior%20Contracts.jpeg
+- name: 'Song of Horror: Complete Edition'
+  categories:
+  - Windows
+  video_url: ''
+  translator: Truelegend
+  testing: Truelegend
+  compatible_version: 1.22 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/74d50af4e52061806a5f4b358e1d5fcf.png
+- name: Source of Madness
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=vvtkg4zEiKs
+  translator: rewold20
+  testing: ''
+  compatible_version: Resmi çeviridir.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Source%20of%20Madness.jpeg
+- name: Steamworld Dig
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=Ppobmqm8dSs
+  translator: rewold20
+  testing: rewold20
+  compatible_version: ''
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Steamworld%20Dig.jpeg
+- name: Sunwards
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=N7PNXcw1p8s
+  translator: rewold20
+  testing: rewold20
+  compatible_version: İlk sürüme uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Sunwards.jpeg
+- name: Super Mario 3D World + Bowser’s Fury
+  categories:
+  - Nintendo Switch
+  video_url: ''
+  translator: Kıvılcım - Kerem Alp - Duygu
+  testing: Kıvılcım - Kerem Alp - Duygu
+  compatible_version: v1.1.0 güncellemesiyle uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super Mario
+    3D World + Bowser’s Fury.jpeg
+- name: Super Mario Bros. Wii
+  categories:
+  - Nintendo Wii
+  video_url: https://www.youtube.com/watch?v=zHAOXgJhTOc
+  translator: rewold20
+  testing: ISKA
+  compatible_version: USA sürüm uyumludur.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wii.jpeg
+- name: Super Mario Bros. Wonder
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=zYhuMGUi74U
+  translator: rewold20 - Adol125 - YunusZ
+  testing: ISKA - rewold20 - Adol125
+  compatible_version: İlk sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wonder.jpeg
+- name: Super Mario World
+  categories:
+  - SNES
+  video_url: https://www.youtube.com/watch?v=uvaqZD22xPY
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20World.jpeg
+- name: 'T.M.N.T: Out of the Shadows'
+  categories:
+  - Windows
+  video_url: ''
+  translator: Oğuzhan Okçu
+  testing: Oğuzhan Okçu
+  compatible_version: 1.0.10246 sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/c723579a45101c08f6e4a185e0f2384b.png
+- name: 'T.M.N.T: Shredder''s Revenge'
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=kFcLHLmUmE4
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 1.0.0.255 - 4 (Gamepass)~ 1.0.0.258 (Steam) güncellemesiyle
+    uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/49f106866e8a44e452a3103f336f3d26.png
+- name: Tails of Iron
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=ODI-StMeVU0
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 19 December 2023 tarihli, 1.22 güncellemesiyle uyumludur. Crimson
+    Knight DLC'si çeviriye dâhildir.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Tails%20of%20Iron.jpeg
+- name: The Evil Within 2
+  categories:
+  - Windows
+  video_url: ''
+  translator: BOS Çeviri
+  testing: BOS Çeviri
+  compatible_version: Steam son sürümüyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Evil%20Within%202.jpeg
+- name: The Godfather II
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=NATT-QcAcqc
+  translator: rewold20 - KederliLahmacun - Ahmet Tüfekçi - Tirana Shqiptar Alban
+  testing: rewold20 - Anıl523 - Emrebbi
+  compatible_version: Tüm sürümlere uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20II.jpeg
+- name: The Godfather The Game
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=QaBRm4qtEZg
+  translator: rewold20 - Tirana Shqiptar Alban
+  testing: ISKA - rewold20
+  compatible_version: Tüm sürümlere uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20The%20Game.jpeg
+- name: The Last Faith
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=xhz5F_VP6NY
+  translator: rewold20
+  testing: ISKA
+  compatible_version: 1.5.2 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Last%20Faith.jpeg
+- name: The Legend of Zelda
+  categories:
+  - NES
+  video_url: https://www.youtube.com/watch?v=-jsIG2pQ2l0
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Legend%20of%20Zelda.jpeg
+- name: 'The Legend of Zelda: A Link to the Past'
+  categories:
+  - SNES
+  video_url: https://www.youtube.com/watch?v=CEAISTP7K7o
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/7edaadde50012f0860952123564eb1ba.jpg
+- name: 'The Legend of Zelda: Ocarina of Time 3D'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=2qMOYvGva_M
+  translator: Adol125
+  testing: ISKA
+  compatible_version: AVRUPA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/ab6fe89d793b5a3c4153692779cb0680.png
+- name: 'The Legend of Zelda: The Minish Cap'
+  categories:
+  - GBA
+  video_url: https://www.youtube.com/watch?v=yBoy17iAcOU
+  translator: rewold20
+  testing: ISKA - rewold20 - Adol125
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/a687f78b9842c87225e74921765feb1b.png
+- name: 'The Legend of Zelda: Tri Force Heroes'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=_naJpzNuXwk
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/aba25a9fda63263672f8e84b6d7a4c6e.png
+- name: Those Who Remain
+  categories:
+  - Windows
+  video_url: ''
+  translator: Truelegend
+  testing: Truelegend
+  compatible_version: 1.0.12 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Those%20Who%20Remain.jpeg
+- name: Thymesia
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=p8ZeiyeUZvQ
+  translator: rewold20 - Adol125
+  testing: ISKA - rewold20
+  compatible_version: Patch Two ile uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Thymesia.jpeg
+- name: 'Tower Hunter: Erza''s Trial'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=iw-O31FzISc
+  translator: rewold20
+  testing: VAsTER - rewold20
+  compatible_version: Steam son sürümle uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/1f0519d9f3f0512dbe18c7a2290d152f.png
+- name: Trepang2
+  categories:
+  - Windows
+  video_url: ''
+  translator: YunusZ
+  testing: ISKA - rewold20 - YunusZ
+  compatible_version: v65613 sürümüyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Trepang2.jpeg
+- name: Turok
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=JUFzuQ7ICn4
+  translator: VAsTER
+  testing: VAsTER
+  compatible_version: Steam ve GOG 2.0 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Turok.jpeg
+- name: ULTIMATE NES REMIX
+  categories:
+  - Nintendo 3DS
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: AVRUPA BASE sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ULTIMATE%20NES%20REMIX.jpeg
+- name: 'Warhammer 40,000: Space Marine A.E.'
+  categories:
+  - Windows
+  video_url: https://youtu.be/8bEtDyrqsYs
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: Her sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png
+- name: Yoshi's New Island
+  categories:
+  - Nintendo 3DS
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA BASE sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Yoshi's%20New%20Island.jpeg
+- name: 'Zelda II: The Adventure of Link'
+  categories:
+  - NES
+  video_url: https://www.youtube.com/watch?v=M1FFXaelUY4
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürüme uyumludur.
+  poster_url: https://cdn2.steamgriddb.com/grid/657b0ad0569f3ceae3427be2623753cc.png
+- name: 'Zelda: Link''s Awakening'
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=E_JbcMfWXlc
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: Son sürüme uyumludur
+  poster_url: https://cdn2.steamgriddb.com/grid/668b94139e401725c1749f87120369af.png
+- name: Zorro The Chronicles
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=NQhA4RSleY4
+  translator: rewold20
+  testing: VAsTER
+  compatible_version: 1.0 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Zorro%20The%20Chronicles.jpeg
