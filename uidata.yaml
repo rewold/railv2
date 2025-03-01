@@ -124,7 +124,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: 
-  poster_url:https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
 - name: Bloodhound
   categories:
   - Windows
