@@ -58,7 +58,7 @@ games:
   translator: T.S.
   testing: rewold20
   compatible_version: Son sürüm uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/f7ea6ec0a29aec939a8f7aee8b14ea62.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Batman%20Arkham%20Origins%20Blackgate.jpeg
 - name: Blasphemous
   categories:
   - Windows
@@ -99,8 +99,8 @@ games:
   video_url: https://www.youtube.com/watch?v=JWTmehpm63c
   translator: rewold20 - KederliLahmacun
   testing: rewold20
-  compatible_version: ''
-  poster_url: https://cdn2.steamgriddb.com/grid/47f80ec38768a58181f0a42deb9cdd05.png
+  compatible_version: Steam ve GOG sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202%20Terminal%20Cut.jpeg
 - name: BloodRayne Betrayal
   categories:
   - Windows
@@ -116,15 +116,15 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: 1.0.2 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/7c789517487dc274755d148911c650e4.jpg
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20ReVamped.jpeg
 - name: 'BloodRayne: Terminal Cut'
   categories:
   - Windows
   video_url: https://www.youtube.com/watch?v=GDHo5s_Sk8o
   translator: rewold20
   testing: rewold20
-  compatible_version: ''
-  poster_url: https://cdn2.steamgriddb.com/grid/8d3f7992bf5694173d7bf9014a2ddf81.jpg
+  compatible_version: 
+  poster_url:https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
 - name: Bloodhound
   categories:
   - Windows
@@ -141,7 +141,7 @@ games:
   translator: KederliLahmacun - Adol125 - ISKA
   testing: ISKA - Adol125
   compatible_version: 1.4 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/9012dbd23c4d2e33be5eccb0e5f72517.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodstained%20Ritual%20of%20the%20Night.jpeg
 - name: Bright Memory Infinite
   categories:
   - Nintendo Switch
@@ -158,7 +158,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: İlk sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/a20ab2bcc5046331b3e276d990e3b641.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Brothers%20A%20Tale%20of%20Two%20Sons%20Remake.jpeg
 - name: 'Bully: Scholarship Edition'
   categories:
   - Windows
@@ -166,7 +166,7 @@ games:
   translator: Suqbs1
   testing: _lexofrr - peglntron - ahmett555 - Uğur Fatih
   compatible_version: Scholarship Edition v1.200 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/7ade52071e3d6841a7647a33ad49bf58.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bully%20Scholarship%20Edition.jpeg
 - name: Carrion
   categories:
   - Nintendo Switch
@@ -192,7 +192,7 @@ games:
   translator: Adol125
   testing: Adol125
   compatible_version: USA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/efd71d7b0fd9e79cc8dfbd9f96564f5e.jpg
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castlevania%20Aria%20of%20Sorrow.jpeg
 - name: 'Captain Toad: Treasure Tracker'
   categories:
   - Nintendo 3DS
@@ -201,7 +201,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: Base sürüme uyumludur, çeviri beta aşamasındadır.
-  poster_url: https://cdn2.steamgriddb.com/grid/4de4fa124a71aae2b9fc4cef2bd4402a.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Captain%20Toad%20Treasure%20Tracker.jpeg
 - name: Coffin Dodgers
   categories:
   - Nintendo Switch
@@ -226,15 +226,15 @@ games:
   translator: rewold20
   testing: VAsTER
   compatible_version: 25 January 2023 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/d0d075daa1a85251c2a07a0059f084d5.jpg
-- name: Death's Door
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dead%20Space%203%20Awakened.jpeg
+- name: Deaths Door
   categories:
   - Nintendo Switch
   video_url: ''
   translator: Sixth Sense
   testing: ISKA
   compatible_version: v1.1.6 güncellemesi ile uyumludur.
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Death's%20Door.jpeg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Deaths%20Door.jpeg?raw=true
 - name: Dolmen
   categories:
   - Windows
@@ -250,7 +250,7 @@ games:
   translator: Adol125
   testing: ISKA - Adol125
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/91270e97491a918496e6569c9fcff808.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Donkey%20Kong%20Country%20Tropical%20Freeze.jpeg
 - name: Doom (2016)
   categories:
   - Windows
@@ -283,7 +283,7 @@ games:
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: Build 13889266 güncellemesiyle uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/6d9c90af1c12f5a88e4d5f216bbc1979.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ENDER%20MAGNOLIA%20Bloom%20in%20the%20Mist.jpeg
 - name: 'Ender Lilies: Quietus of the Knights'
   categories:
   - Nintendo Switch
@@ -292,7 +292,7 @@ games:
   translator: rewold20 - Adol125 - ISKA
   testing: ISKA - rewold20 - Adol125
   compatible_version: 1.1.6-13932 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/71852769eef911dc3ecb396251342962.png
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Ender%20Lilies%20Quietus%20of%20the%20Knights.jpeg
 - name: Eternal Hope
   categories:
   - Nintendo Switch
@@ -318,7 +318,7 @@ games:
   translator: Doom4627 - Afşin Bey - Rewold20 - Findukman
   testing: Doom4627 - Rewold20
   compatible_version: Epic ve Game Pass sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/838b5a042f1761ef0b5981585a0a7f38.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Fallout%203%20GOTY.jpeg?raw=true
 - name: Fe
   categories:
   - Nintendo Switch
@@ -327,7 +327,7 @@ games:
   translator: rewold20
   testing: ISKA
   compatible_version: 7 January 2021 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/bbafe3f11233ebe5cc35a50d4f65ff7b.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Fe.jpeg?raw=true
 - name: Fez
   categories:
   - Nintendo Switch
@@ -335,7 +335,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: Son sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/45aea7db0f03fecc77f969bd296cdc62.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Fez.jpeg?raw=true
 - name: Final Fantasy VII
   categories:
   - Nintendo Switch
@@ -344,7 +344,7 @@ games:
   translator: Adol125 - Aybakh21 -Kaan Gedikli - Erol Utku Kara - *E4EN
   testing: ' Adol125 - Vkopuzoglu - Pakrad Demir - byflash'
   compatible_version: Steam son sürümü ile uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/fb038c3ed829a992d6d4cc3ce6654290.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Final%20Fantasy%20VII.jpeg?raw=true
 - name: Freedom Fighters
   categories:
   - Windows
@@ -352,7 +352,7 @@ games:
   translator: Ömer Öz
   testing: Ömer Öz
   compatible_version: Steam son sürümü ile uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/35eab188657a81304e2ea8ca8c8c5ad8.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Freedom%20Fighters.jpeg?raw=true
 - name: Ghosts 'n Goblins Resurrection
   categories:
   - Windows
@@ -360,7 +360,7 @@ games:
   translator: rewold20
   testing: ISKA
   compatible_version: 1 June 2021 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/ef7acbc80cdf9125a69edeeeb21b9f03.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Ghosts%20'n%20Goblins%20Resurrection.jpeg?raw=true
 - name: Grapple Dog
   categories:
   - Nintendo Switch
@@ -369,7 +369,7 @@ games:
   translator: 'rewold20 '
   testing: 'rewold20 '
   compatible_version: v2.0.1 sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/e8152ebebf0451cf8169155ae34e743d.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Grapple%20Dog.jpeg?raw=true
 - name: Graveyard Keeper
   categories:
   - Nintendo Switch
@@ -378,7 +378,7 @@ games:
   translator: NewFortuna - Sabri Devran - Truelegend
   testing: Jesust Christ - Truelegend
   compatible_version: v1.407 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/ffd068b53b93e3072487b75b7b7d4ca8.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Graveyard%20Keeper.jpeg?raw=true
 - name: GRIS
   categories:
   - Nintendo Switch
@@ -387,7 +387,7 @@ games:
   translator: Adol125
   testing: rewold20 - ISKA
   compatible_version: 7 March 2019 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/3bb8b73487500c1c7285480103be68e6.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/GRIS.jpeg?raw=true
 - name: GTA Liberty City Stories
   categories:
   - Windows
@@ -395,7 +395,7 @@ games:
   translator: elpdrno_046
   testing: ISKA - elpdrno_046
   compatible_version: Beta5Build 16Aug20 sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/6ba32142b6b23ecd32a4c0aff11c2c41.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/GTA%20Liberty%20City%20Stories.jpeg?raw=true
 - name: Haiku, the Robot
   categories:
   - Nintendo Switch
@@ -404,7 +404,7 @@ games:
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: v.1.1.5.2 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/053c7d566a83a7b24644f18ea2cc6f68.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Haiku,%20the%20Robot.jpeg?raw=true
 - name: 'Hotline Miami 2: Wrong Number'
   categories:
   - Nintendo Switch
@@ -412,7 +412,7 @@ games:
   translator: Mastertranslator - rewold20
   testing: Mastertranslator
   compatible_version: Steam son sürüm ile uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/b03957e3e564174aa888186a103f2e34.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Hotline%20Miami%202%20Wrong%20Number.jpeg?raw=true
 - name: Hue
   categories:
   - PS Vita
@@ -422,7 +422,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: Son sürümlere uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/654c5f18cf116cab7b4f54ffb2b263eb.webp
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Hue.jpeg?raw=true
 - name: I Am The Hero
   categories:
   - PS Vita
@@ -432,7 +432,7 @@ games:
   translator: rewold20
   testing: VAsTER - rewold20
   compatible_version: Son sürümlere uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/40c96aecfca4955b9c192e6dcea235ac.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/I%20Am%20The%20Hero.jpeg?raw=true
 - name: Ico
   categories:
   - Playstation 3
@@ -440,7 +440,7 @@ games:
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: NPEA00279 EUR sürümü, 01.01 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/54c8077a3713597237f91535a6082b1f.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Ico.jpeg?raw=true
 - name: It Takes Two
   categories:
   - Nintendo Switch
@@ -448,7 +448,7 @@ games:
   translator: Sixth Sense
   testing: Sixth Sense
   compatible_version: v1.0.2 güncellemesi ile uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/84d8df6932e202152767f7579f32c613.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/It%20Takes%20Two.jpeg?raw=true
 - name: Journey to the Savage Planet
   categories:
   - Nintendo Switch
@@ -457,7 +457,7 @@ games:
   translator: Truelegend
   testing: Truelegend
   compatible_version: 53207 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/2393f2ba6d1d4aa2c3fb82f8a7a751f3.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Journey%20to%20the%20Savage%20Planet.jpeg?raw=true
 - name: Katana Zero
   categories:
   - Windows
@@ -465,7 +465,7 @@ games:
   translator: rewold20 - Kederli Lahmacun
   testing: ISKA - rewold20
   compatible_version: 1.0.5 STEAM güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/057b1cfba313958551a8afa2c3e75429.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Katana%20Zero.jpeg?raw=true
 - name: Kirby and the Forgotten Land
   categories:
   - Nintendo Switch
@@ -473,15 +473,15 @@ games:
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/fd5b431d065e37e793b3d8219735f3be.png
-- name: Kirby's Dream Buffet
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirby%20and%20the%20Forgotten%20Land.jpeg?raw=true
+- name: Kirbys Dream Buffet
   categories:
   - Nintendo Switch
   video_url: https://www.youtube.com/watch?v=Hk5wn0kjlMk
   translator: rewold20
   testing: rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/3866a1c0c762230d56d7cb9d746a3710.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirbys%20Dream%20Buffet.jpeg?raw=true
 - name: Kona
   categories:
   - Windows
@@ -489,15 +489,15 @@ games:
   translator: rewold20 - Kederli Lahmacun - ISKA
   testing: rewold20 - Emrebbi - ISKA
   compatible_version: 10 February 2023 güncellemesiyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/2096a1e3206c02898f4cb287fbeac1cd.png
-- name: Link's Crossbow Training
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Kona.jpeg?raw=true
+- name: Links Crossbow Training
   categories:
   - Nintendo Wii
   video_url: https://www.youtube.com/watch?v=PM7EflDXe-s
   translator: rewold20
   testing: rewold20
   compatible_version: USA sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/a717f8e16462c3338626c696c6f4d745.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Links%20Crossbow%20Training.jpeg?raw=true
 - name: 'The Legend of Zelda: A Link Between Worlds'
   categories:
   - Nintendo 3DS
@@ -505,23 +505,23 @@ games:
   translator: rewold20 - Egehan
   testing: rewold20
   compatible_version: AVRUPA bölge uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/6e2376385359dc8bb6ee14e594e924d3.png
-- name: Luigi's Mansion
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20Between%20Worlds.jpeg?raw=true
+- name: Luigi Mansion
   categories:
   - Nintendo 3DS
   video_url: https://www.youtube.com/watch?v=C9OL5JFf93Q
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/ac7c433007ac68a863d12dd75b2d13eb.png
-- name: Luigi's Mansion 2 HD
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion.jpeg?raw=true
+- name: Luigi Mansion 2 HD
   categories:
   - Nintendo Switch
   video_url: https://www.youtube.com/watch?v=KKU6JoKtnS0
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/33e18a78cf393b438a7d1a6e7f77f5ff.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion%202%20HD.jpeg?raw=true
 - name: Mario Kart 7
   categories:
   - Nintendo 3DS
@@ -529,7 +529,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/73c2aa11e36f2c92f68f08653503370c.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20Kart%207.jpeg?raw=true
 - name: Mario vs. Donkey Kong
   categories:
   - Nintendo Switch
@@ -537,7 +537,7 @@ games:
   translator: rewold20
   testing: ISKA
   compatible_version: 1.0.0 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/6d53d813891958a394978f48ae19ce15.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20vs.%20Donkey%20Kong.jpeg?raw=true
 - name: Mass Effect L.E
   categories:
   - Windows
@@ -577,7 +577,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: AVRUPA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/e1c21364530057bc884be07f32491acc.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Metroid%20Samus%20Returns.jpeg?raw=true
 - name: 'Metroid: Zero Mission'
   categories:
   - GBA
@@ -585,7 +585,7 @@ games:
   translator: Adol125
   testing: ISKA
   compatible_version: USA sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/73e7fb4872d41443c1b08c4199329b9d.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Metroid%20Zero%20Mission.jpeg?raw=true
 - name: 'Midnight Club: Street Racing'
   categories:
   - Playstation 2
@@ -593,7 +593,7 @@ games:
   translator: rewold20
   testing: ISKA
   compatible_version: EU PAL sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/f121f07956cda55382d24a8de8470f27.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Midnight%20Club%20Street%20Racing.jpeg?raw=true
 - name: 'Mortal Shell: Complete Edition'
   categories:
   - Nintendo Switch
@@ -601,7 +601,7 @@ games:
   translator: Rapid Çeviri
   testing: Rapid Çeviri
   compatible_version: Son sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/3f5e9fbee3aa69948976d168693797f5.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Mortal%20Shell%20Complete%20Edition.jpeg?raw=true
 - name: New Super Mario Bros. 2
   categories:
   - Nintendo 3DS
@@ -677,7 +677,7 @@ games:
   translator: rewold20 - VAsTER
   testing: rewold20 - VAsTER
   compatible_version: Son sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/3c250a3c61526610cf532027d5ba6fc7.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Police%20Stories%20The%20Academy.jpeg?raw=true
 - name: Prey
   categories:
   - Windows
@@ -701,7 +701,7 @@ games:
   translator: Adol125 - rewold20
   testing: ISKA - Adol125
   compatible_version: İlk sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/9c7f56da5c50d82f6b2db7db1dcdf1b5.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Princess%20Peach%20Showtime!.jpeg?raw=true
 - name: Project Warlock
   categories:
   - Nintendo Switch
@@ -745,7 +745,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: BASE AVRUPA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/52ec1c0cc952d63a8bda67ff969b6968.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20Revelations%203DS.jpeg?raw=true
 - name: 'Resident Evil: The Mercenaries 3D'
   categories:
   - Nintendo 3DS
@@ -753,7 +753,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/f5fadb9edfac5b9324c6db95b80eebbe.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20The%20Mercenaries%203D.jpeg?raw=true
 - name: Röki
   categories:
   - Windows
@@ -789,7 +789,7 @@ games:
   translator: Çağ - M. Erdener - Thisrock
   testing: Çağ - Ahmet Çelik
   compatible_version: BLUS30565 sürümüyle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/7f996610ab63c3bc9590c1bd8e9a7d65.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Silent%20Hill%20Downpour.jpeg?raw=true
 - name: Sniper Ghost Warrior Contracts
   categories:
   - Windows
@@ -805,7 +805,7 @@ games:
   translator: Truelegend
   testing: Truelegend
   compatible_version: 1.22 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/74d50af4e52061806a5f4b358e1d5fcf.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Song%20of%20Horror%20Complete%20Edition.jpeg?raw=true
 - name: Source of Madness
   categories:
   - Windows
@@ -870,8 +870,8 @@ games:
   translator: Oğuzhan Okçu
   testing: Oğuzhan Okçu
   compatible_version: 1.0.10246 sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/c723579a45101c08f6e4a185e0f2384b.png
-- name: 'T.M.N.T: Shredder''s Revenge'
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/T.M.N.T%20Out%20of%20the%20Shadows.jpeg?raw=true
+- name: 'T.M.N.T: Shredder Revenge'
   categories:
   - Nintendo Switch
   - Windows
@@ -880,7 +880,7 @@ games:
   testing: ISKA
   compatible_version: 1.0.0.255 - 4 (Gamepass)~ 1.0.0.258 (Steam) güncellemesiyle
     uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/49f106866e8a44e452a3103f336f3d26.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/T.M.N.T%20Shredder%20Revenge.jpeg?raw=true
 - name: Tails of Iron
   categories:
   - Nintendo Switch
@@ -889,7 +889,7 @@ games:
   translator: rewold20
   testing: ISKA
   compatible_version: 19 December 2023 tarihli, 1.22 güncellemesiyle uyumludur. Crimson
-    Knight DLC'si çeviriye dâhildir.
+    Knight DLCsi çeviriye dâhildir.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Tails%20of%20Iron.jpeg
 - name: The Evil Within 2
   categories:
@@ -939,7 +939,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: USA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/7edaadde50012f0860952123564eb1ba.jpg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past.jpeg?raw=true
 - name: 'The Legend of Zelda: Ocarina of Time 3D'
   categories:
   - Nintendo 3DS
@@ -947,7 +947,7 @@ games:
   translator: Adol125
   testing: ISKA
   compatible_version: AVRUPA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/ab6fe89d793b5a3c4153692779cb0680.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D.jpeg?raw=true
 - name: 'The Legend of Zelda: The Minish Cap'
   categories:
   - GBA
@@ -955,7 +955,7 @@ games:
   translator: rewold20
   testing: ISKA - rewold20 - Adol125
   compatible_version: USA sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/a687f78b9842c87225e74921765feb1b.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20The%20Minish%20Cap.jpeg?raw=true
 - name: 'The Legend of Zelda: Tri Force Heroes'
   categories:
   - Nintendo 3DS
@@ -963,7 +963,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/aba25a9fda63263672f8e84b6d7a4c6e.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Tri%20Force%20Heroes.jpeg?raw=true
 - name: Those Who Remain
   categories:
   - Windows
@@ -980,14 +980,14 @@ games:
   testing: ISKA - rewold20
   compatible_version: Patch Two ile uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Thymesia.jpeg
-- name: 'Tower Hunter: Erza''s Trial'
+- name: 'Tower Hunter: Erza Trial'
   categories:
   - Windows
   video_url: https://www.youtube.com/watch?v=iw-O31FzISc
   translator: rewold20
   testing: VAsTER - rewold20
   compatible_version: Steam son sürümle uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/1f0519d9f3f0512dbe18c7a2290d152f.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Tower%20Hunter%20Erza%20Trial.jpeg?raw=true
 - name: Trepang2
   categories:
   - Windows
@@ -1019,15 +1019,15 @@ games:
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: Her sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/36d84e693751820e0ebbc2cf3f1178b9.png
-- name: Yoshi's New Island
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Warhammer%2040,000%20Space%20Marine%20A.E..jpeg?raw=true
+- name: Yoshis New Island
   categories:
   - Nintendo 3DS
   video_url: ''
   translator: rewold20
   testing: rewold20
   compatible_version: USA BASE sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Yoshi's%20New%20Island.jpeg
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Yoshi%20New%20Island.jpeg?raw=true
 - name: 'Zelda II: The Adventure of Link'
   categories:
   - NES
@@ -1035,15 +1035,15 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: USA sürüme uyumludur.
-  poster_url: https://cdn2.steamgriddb.com/grid/657b0ad0569f3ceae3427be2623753cc.png
-- name: 'Zelda: Link''s Awakening'
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Zelda%20II%20The%20Adventure%20of%20Link.jpeg?raw=true
+- name: 'Zelda: Link Awakening'
   categories:
   - Nintendo Switch
   video_url: https://www.youtube.com/watch?v=E_JbcMfWXlc
   translator: rewold20
   testing: ISKA - rewold20
   compatible_version: Son sürüme uyumludur
-  poster_url: https://cdn2.steamgriddb.com/grid/668b94139e401725c1749f87120369af.png
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/Zelda%20Link%20Awakening.jpeg?raw=true
 - name: Zorro The Chronicles
   categories:
   - Windows
