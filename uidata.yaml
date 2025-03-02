@@ -29,6 +29,8 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/A%20Hole%20New%20World.jpeg
+  translation_type: "Ücretli"
+  purchase_url: ""
 
 - name: Alex Kidd in Miracle World DX
   categories:
@@ -71,6 +73,8 @@ games:
   testing: rewold20
   compatible_version: Son sürüm uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Batman%20Arkham%20Origins%20Blackgate.jpeg
+  translation_type: "Ücretli"
+  purchase_url: ""
 
 - name: Blasphemous
   categories:
@@ -443,7 +447,7 @@ games:
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Freedom%20Fighters.jpeg?raw=true
 
-- name: Ghosts 'n Goblins Resurrection
+- name: Ghosts Goblins Resurrection
   categories:
   - Windows
   video_url: https://www.youtube.com/watch?v=bU33VXo7iZs
@@ -505,7 +509,7 @@ games:
   compatible_version: v.1.1.5.2 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Haiku,%20the%20Robot.jpeg?raw=true
 
-- name: 'Hotline Miami 2: Wrong Number'
+- name: Hotline Miami 2 Wrong Number
   categories:
   - Nintendo Switch
   video_url: ''
@@ -631,6 +635,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA bölge uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20Between%20Worlds.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: Luigi Mansion
   categories:
@@ -651,6 +657,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion%202%20HD.jpeg?raw=true
+  translation_type: "Havuz"
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Mario Kart 7
   categories:
@@ -660,6 +668,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20Kart%207.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: Mario vs. Donkey Kong
   categories:
@@ -718,6 +728,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Metroid%20Samus%20Returns.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: 'Metroid: Zero Mission'
   categories:
@@ -754,6 +766,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%202.jpeg
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: New Super Mario Bros. U Deluxe
   categories:
@@ -922,6 +936,8 @@ games:
   testing: rewold20
   compatible_version: BASE AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20Revelations%203DS.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: 'Resident Evil: The Mercenaries 3D'
   categories:
@@ -931,6 +947,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20The%20Mercenaries%203D.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: Röki
   categories:
@@ -953,6 +971,8 @@ games:
   testing: ''
   compatible_version: Resmi çeviridir.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Running%20on%20Magic.jpeg
+  translation_type: "Ücretli"
+  purchase_url: "https://store.steampowered.com/app/1961260/Running_on_Magic/"
 
 - name: Saints Row 2
   categories:
@@ -1009,6 +1029,8 @@ games:
   testing: rewold20
   compatible_version: ''
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Steamworld%20Dig.jpeg
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: Sunwards
   categories:
@@ -1108,6 +1130,8 @@ games:
   testing: rewold20 - Anıl523 - Emrebbi
   compatible_version: Tüm sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20II.jpeg
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/10994756"
 
 - name: The Godfather The Game
   categories:
@@ -1180,6 +1204,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Tri%20Force%20Heroes.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: Those Who Remain
   categories:
@@ -1256,6 +1282,8 @@ games:
   testing: rewold20
   compatible_version: USA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Yoshi%20New%20Island.jpeg?raw=true
+  translation_type: "Ücretli"
+  purchase_url: "https://www.shopier.com/32389326"
 
 - name: 'Zelda II: The Adventure of Link'
   categories:
