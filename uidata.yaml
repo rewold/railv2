@@ -18,7 +18,7 @@ games:
   compatible_version: 1.0.1 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/9%20Years%20of%20Shadows.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: A Hole New World
   categories:
@@ -39,7 +39,7 @@ games:
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Alex%20Kidd%20in%20Miracle%20World%20DX.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Ashen
   categories:
@@ -61,7 +61,7 @@ games:
   compatible_version: v1.0 sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Axiom%20Verge.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Batman: Arkham Origins Blackgate'
   categories:
@@ -82,7 +82,7 @@ games:
   compatible_version: 1.0.7 sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Blasphemous 2
   categories:
@@ -94,7 +94,7 @@ games:
   compatible_version: 1.1.0 - cs44446 sürümüne uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous%202.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: BloodRayne
   categories:
@@ -114,7 +114,7 @@ games:
   compatible_version: Steam son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'BloodRayne 2: Terminal Cut'
   categories:
@@ -125,7 +125,7 @@ games:
   compatible_version: Steam ve GOG sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202%20Terminal%20Cut.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: BloodRayne Betrayal
   categories:
@@ -136,7 +136,7 @@ games:
   compatible_version: 1.0 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Betrayal.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'BloodRayne: ReVamped'
   categories:
@@ -156,7 +156,7 @@ games:
   compatible_version: 
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Bloodhound
   categories:
@@ -167,7 +167,7 @@ games:
   compatible_version: 17 July 2023 sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodhound.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Bloodstained: Ritual of the Night'
   categories:
@@ -179,7 +179,7 @@ games:
   compatible_version: 1.4 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodstained%20Ritual%20of%20the%20Night.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Bright Memory Infinite
   categories:
@@ -191,7 +191,7 @@ games:
   compatible_version: 15 March 2022 sürümüne uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bright%20Memory%20Infinite.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Brothers: A Tale of Two Sons Remake'
   categories:
@@ -202,7 +202,7 @@ games:
   compatible_version: İlk sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Brothers%20A%20Tale%20of%20Two%20Sons%20Remake.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Bully: Scholarship Edition'
   categories:
@@ -233,7 +233,7 @@ games:
   compatible_version: 24 July 2014 sürümüne uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castle%20of%20Illusion.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Castlevania: Aria of Sorrow'
   categories:
@@ -244,7 +244,7 @@ games:
   compatible_version: USA sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castlevania%20Aria%20of%20Sorrow.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Captain Toad: Treasure Tracker'
   categories:
@@ -256,7 +256,7 @@ games:
   compatible_version: Base sürüme uyumludur, çeviri beta aşamasındadır.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Captain%20Toad%20Treasure%20Tracker.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Coffin Dodgers
   categories:
@@ -286,7 +286,7 @@ games:
   compatible_version: 25 January 2023 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dead%20Space%203%20Awakened.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Deaths Door
   categories:
@@ -306,7 +306,7 @@ games:
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dolmen.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Donkey Kong Country: Tropical Freeze'
   categories:
@@ -317,7 +317,7 @@ games:
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Donkey%20Kong%20Country%20Tropical%20Freeze.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Doom (2016)
   categories:
@@ -328,7 +328,7 @@ games:
   compatible_version: Steam sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%20(2016).jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Doom 64
   categories:
@@ -340,7 +340,7 @@ games:
   compatible_version: Steam ve Epic Games'in 12 July 2022 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%2064.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Dragon Warrior
   categories:
@@ -360,7 +360,7 @@ games:
   compatible_version: Build 13889266 güncellemesiyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ENDER%20MAGNOLIA%20Bloom%20in%20the%20Mist.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Ender Lilies: Quietus of the Knights'
   categories:
@@ -372,7 +372,7 @@ games:
   compatible_version: 1.1.6-13932 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Ender%20Lilies%20Quietus%20of%20the%20Knights.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Eternal Hope
   categories:
@@ -432,7 +432,7 @@ games:
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Final%20Fantasy%20VII.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Freedom Fighters
   categories:
@@ -452,7 +452,7 @@ games:
   compatible_version: 1 June 2021 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Ghosts%20'n%20Goblins%20Resurrection.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Grapple Dog
   categories:
@@ -474,7 +474,7 @@ games:
   compatible_version: v1.407 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Graveyard%20Keeper.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: GRIS
   categories:
@@ -514,7 +514,7 @@ games:
   compatible_version: Steam son sürüm ile uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Hotline%20Miami%202%20Wrong%20Number.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Hue
   categories:
@@ -527,7 +527,7 @@ games:
   compatible_version: Son sürümlere uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Hue.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: I Am The Hero
   categories:
@@ -540,7 +540,7 @@ games:
   compatible_version: Son sürümlere uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/I%20Am%20The%20Hero.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Ico
   categories:
@@ -551,7 +551,7 @@ games:
   compatible_version: NPEA00279 EUR sürümü, 01.01 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Ico.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: It Takes Two
   categories:
@@ -590,7 +590,7 @@ games:
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirby%20and%20the%20Forgotten%20Land.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Kirbys Dream Buffet
   categories:
@@ -601,7 +601,7 @@ games:
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirbys%20Dream%20Buffet.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Kona
   categories:
@@ -612,7 +612,7 @@ games:
   compatible_version: 10 February 2023 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kona.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Links Crossbow Training
   categories:
@@ -641,7 +641,7 @@ games:
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Luigi Mansion 2 HD
   categories:
@@ -670,7 +670,7 @@ games:
   compatible_version: 1.0.0 sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20vs.%20Donkey%20Kong.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Mass Effect L.E
   categories:
@@ -708,7 +708,7 @@ games:
   compatible_version: USA sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Prime%20Remastered.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Metroid: Samus Returns'
   categories:
@@ -764,7 +764,7 @@ games:
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Nocturne
   categories:
@@ -804,7 +804,7 @@ games:
   compatible_version: Steam sonsürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Paradise%20Lost.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Pokémon Emerald
   categories:
@@ -844,7 +844,7 @@ games:
   compatible_version: Steam son sürüm ile uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Prey.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Prey: Mooncrash'
   categories:
@@ -855,7 +855,7 @@ games:
   compatible_version: Steam son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/images/d37.jpg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Princess Peach: Showtime!'
   categories:
@@ -866,7 +866,7 @@ games:
   compatible_version: İlk sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Princess%20Peach%20Showtime!.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Project Warlock
   categories:
@@ -878,7 +878,7 @@ games:
   compatible_version: 1.0.7.11 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Project%20Warlock.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Rain
   categories:
@@ -889,7 +889,7 @@ games:
   compatible_version: NPEA00394 EUR sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rain.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Rayman Origins
   categories:
@@ -912,7 +912,7 @@ games:
   compatible_version: Dx11, Rtx olmayan Steam güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Resident%20Evil%203.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Resident Evil: Revelations 3DS'
   categories:
@@ -963,7 +963,7 @@ games:
   compatible_version: Son sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Saints%20Row%202.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'Silent Hill: Downpour'
   categories:
@@ -1047,7 +1047,7 @@ games:
   compatible_version: İlk sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wonder.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Super Mario World
   categories:
@@ -1089,7 +1089,7 @@ games:
     Knight DLCsi çeviriye dâhildir.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Tails%20of%20Iron.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: The Evil Within 2
   categories:
@@ -1118,7 +1118,7 @@ games:
   compatible_version: Tüm sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20The%20Game.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: The Last Faith
   categories:
@@ -1130,7 +1130,7 @@ games:
   compatible_version: 1.5.2 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Last%20Faith.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: The Legend of Zelda
   categories:
@@ -1159,7 +1159,7 @@ games:
   compatible_version: AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'The Legend of Zelda: The Minish Cap'
   categories:
@@ -1170,7 +1170,7 @@ games:
   compatible_version: USA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20The%20Minish%20Cap.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: 'The Legend of Zelda: Tri Force Heroes'
   categories:
@@ -1208,7 +1208,7 @@ games:
   compatible_version: Steam son sürümle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Tower%20Hunter%20Erza%20Trial.jpeg?raw=true
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Trepang2
   categories:
@@ -1219,7 +1219,7 @@ games:
   compatible_version: v65613 sürümüyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Trepang2.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
 
 - name: Turok
   categories:
@@ -1284,4 +1284,4 @@ games:
   compatible_version: 1.0 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Zorro%20The%20Chronicles.jpeg
   translation_type: "Havuz"
-  pool_url: ""
+  pool_url: "https://www.shopier.com/s/product/28899360"
