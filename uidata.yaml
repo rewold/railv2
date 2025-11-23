@@ -7,7 +7,6 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/1-2-Switch.jpeg
-
 - name: 9 Years of Shadows
   categories:
   - Windows
@@ -17,9 +16,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.1 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/9%20Years%20of%20Shadows.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: A Hole New World
   categories:
   - Nintendo Switch
@@ -29,9 +27,7 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/A%20Hole%20New%20World.jpeg
-  translation_type: "Ücretli"
-  purchase_url: ""
-
+  translation_type: Ücretli
 - name: Alex Kidd in Miracle World DX
   categories:
   - Windows
@@ -40,9 +36,8 @@ games:
   testing: ISKA
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Alex%20Kidd%20in%20Miracle%20World%20DX.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Ashen
   categories:
   - Windows
@@ -52,7 +47,6 @@ games:
   testing: ISKA - Truelegend
   compatible_version: 1.0.12.0 sürümüyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Ashen.jpeg
-
 - name: Axiom Verge
   categories:
   - Nintendo Switch
@@ -62,9 +56,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: v1.0 sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Axiom%20Verge.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Batman: Arkham Origins Blackgate'
   categories:
   - Nintendo 3DS
@@ -73,9 +66,7 @@ games:
   testing: rewold20
   compatible_version: Son sürüm uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Batman%20Arkham%20Origins%20Blackgate.jpeg
-  translation_type: "Ücretli"
-  purchase_url: ""
-
+  translation_type: Ücretli
 - name: Blasphemous
   categories:
   - Windows
@@ -85,9 +76,8 @@ games:
   testing: ISKA - rewold20 - Truelegend
   compatible_version: 1.0.7 sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Blasphemous 2
   categories:
   - Windows
@@ -97,71 +87,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.1.0 - cs44446 sürümüne uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Blasphemous%202.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
-- name: BloodRayne
-  categories:
-  - Windows
-  video_url: https://www.youtube.com/watch?v=H2FpDSolLE8
-  translator: rewold20
-  testing: rewold20
-  compatible_version: Steam ve GOG sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne.jpeg
-
-- name: BloodRayne 2
-  categories:
-  - Windows
-  video_url: https://www.youtube.com/watch?v=y2DlKmMZLjw
-  translator: rewold20 - KederliLahmacun
-  testing: rewold20
-  compatible_version: Steam son sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
-- name: 'BloodRayne 2: Terminal Cut'
-  categories:
-  - Windows
-  video_url: https://www.youtube.com/watch?v=JWTmehpm63c
-  translator: rewold20 - KederliLahmacun
-  testing: rewold20
-  compatible_version: Steam ve GOG sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202%20Terminal%20Cut.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
-- name: BloodRayne Betrayal
-  categories:
-  - Windows
-  video_url: https://www.youtube.com/watch?v=E3ljkSZzrEY
-  translator: rewold20
-  testing: kahraman523
-  compatible_version: 1.0 sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Betrayal.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
-- name: 'BloodRayne: ReVamped'
-  categories:
-  - Nintendo Switch
-  video_url: https://www.youtube.com/watch?v=z7bKWtwzeEM
-  translator: rewold20
-  testing: rewold20
-  compatible_version: 1.0.2 sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20ReVamped.jpeg
-
-- name: 'BloodRayne: Terminal Cut'
-  categories:
-  - Windows
-  video_url: https://www.youtube.com/watch?v=GDHo5s_Sk8o
-  translator: rewold20
-  testing: rewold20
-  compatible_version: 
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Bloodhound
   categories:
   - Windows
@@ -170,9 +97,64 @@ games:
   testing: ''
   compatible_version: 17 July 2023 sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodhound.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: BloodRayne
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=H2FpDSolLE8
+  translator: rewold20
+  testing: rewold20
+  compatible_version: Steam ve GOG sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne.jpeg
+- name: BloodRayne 2
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=y2DlKmMZLjw
+  translator: rewold20 - KederliLahmacun
+  testing: rewold20
+  compatible_version: Steam son sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: 'BloodRayne 2: Terminal Cut'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=JWTmehpm63c
+  translator: rewold20 - KederliLahmacun
+  testing: rewold20
+  compatible_version: Steam ve GOG sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%202%20Terminal%20Cut.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: BloodRayne Betrayal
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=E3ljkSZzrEY
+  translator: rewold20
+  testing: kahraman523
+  compatible_version: 1.0 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Betrayal.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: 'BloodRayne: ReVamped'
+  categories:
+  - Nintendo Switch
+  video_url: https://www.youtube.com/watch?v=z7bKWtwzeEM
+  translator: rewold20
+  testing: rewold20
+  compatible_version: 1.0.2 sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20ReVamped.jpeg
+- name: 'BloodRayne: Terminal Cut'
+  categories:
+  - Windows
+  video_url: https://www.youtube.com/watch?v=GDHo5s_Sk8o
+  translator: rewold20
+  testing: rewold20
+  compatible_version: null
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/BloodRayne%20Terminal%20Cut.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Bloodstained: Ritual of the Night'
   categories:
   - Nintendo Switch
@@ -182,9 +164,8 @@ games:
   testing: ISKA - Adol125
   compatible_version: 1.4 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodstained%20Ritual%20of%20the%20Night.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Bright Memory Infinite
   categories:
   - Nintendo Switch
@@ -194,9 +175,8 @@ games:
   testing: ISKA
   compatible_version: 15 March 2022 sürümüne uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bright%20Memory%20Infinite.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Brothers: A Tale of Two Sons Remake'
   categories:
   - Windows
@@ -205,9 +185,8 @@ games:
   testing: rewold20
   compatible_version: İlk sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Brothers%20A%20Tale%20of%20Two%20Sons%20Remake.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Bully: Scholarship Edition'
   categories:
   - Windows
@@ -216,40 +195,6 @@ games:
   testing: _lexofrr - peglntron - ahmett555 - Uğur Fatih
   compatible_version: Scholarship Edition v1.200 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bully%20Scholarship%20Edition.jpeg
-
-- name: Carrion
-  categories:
-  - Nintendo Switch
-  - Windows
-  video_url: https://www.youtube.com/watch?v=HShAYBnJsk8
-  translator: rewold20
-  testing: ISKA - rewold20 - zartzurt456
-  compatible_version: 1.0.5
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Carrion.jpeg
-
-- name: Castle of Illusion
-  categories:
-  - Android
-  - Windows
-  video_url: https://www.youtube.com/watch?v=d14LXhMOXf0
-  translator: rewold20 - VAsTER
-  testing: ISKA - rewold20
-  compatible_version: 24 July 2014 sürümüne uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castle%20of%20Illusion.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
-- name: 'Castlevania: Aria of Sorrow'
-  categories:
-  - GBA
-  video_url: https://www.youtube.com/watch?v=U6miBtUlL2U
-  translator: Adol125
-  testing: Adol125
-  compatible_version: USA sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castlevania%20Aria%20of%20Sorrow.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
 - name: 'Captain Toad: Treasure Tracker'
   categories:
   - Nintendo 3DS
@@ -259,9 +204,38 @@ games:
   testing: rewold20
   compatible_version: Base sürüme uyumludur, çeviri beta aşamasındadır.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Captain%20Toad%20Treasure%20Tracker.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: Carrion
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=HShAYBnJsk8
+  translator: rewold20
+  testing: ISKA - rewold20 - zartzurt456
+  compatible_version: 1.0.5
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Carrion.jpeg
+- name: Castle of Illusion
+  categories:
+  - Android
+  - Windows
+  video_url: https://www.youtube.com/watch?v=d14LXhMOXf0
+  translator: rewold20 - VAsTER
+  testing: ISKA - rewold20
+  compatible_version: 24 July 2014 sürümüne uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castle%20of%20Illusion.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: 'Castlevania: Aria of Sorrow'
+  categories:
+  - GBA
+  video_url: https://www.youtube.com/watch?v=U6miBtUlL2U
+  translator: Adol125
+  testing: Adol125
+  compatible_version: USA sürüme uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Castlevania%20Aria%20of%20Sorrow.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Coffin Dodgers
   categories:
   - Nintendo Switch
@@ -271,7 +245,6 @@ games:
   testing: rewold20 - VAsTER
   compatible_version: v1.2.4 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Coffin%20Dodgers.jpeg
-
 - name: Dead Rising 4
   categories:
   - Windows
@@ -280,7 +253,6 @@ games:
   testing: anil523 - Truelegend - Freeman1930
   compatible_version: 31 January 2018 güncellemesiyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dead%20Rising%204.jpeg
-
 - name: 'Dead Space 3: Awakened'
   categories:
   - Windows
@@ -289,9 +261,8 @@ games:
   testing: VAsTER
   compatible_version: 25 January 2023 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dead%20Space%203%20Awakened.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Deaths Door
   categories:
   - Nintendo Switch
@@ -300,7 +271,6 @@ games:
   testing: ISKA
   compatible_version: v1.1.6 güncellemesi ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Deaths%20Door.jpeg?raw=true
-
 - name: Dolmen
   categories:
   - Windows
@@ -309,9 +279,8 @@ games:
   testing: ISKA
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dolmen.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Donkey Kong Country: Tropical Freeze'
   categories:
   - Nintendo Switch
@@ -320,9 +289,8 @@ games:
   testing: ISKA - Adol125
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Donkey%20Kong%20Country%20Tropical%20Freeze.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Doom (2016)
   categories:
   - Windows
@@ -331,9 +299,8 @@ games:
   testing: rewold20 - Ömer Öz
   compatible_version: Steam sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%20(2016).jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Doom 64
   categories:
   - Nintendo Switch
@@ -343,9 +310,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: Steam ve Epic Games'in 12 July 2022 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Doom%2064.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Dragon Warrior
   categories:
   - NES
@@ -354,18 +320,6 @@ games:
   testing: rewold20
   compatible_version: USA sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Dragon%20Warrior.jpeg
-
-- name: 'ENDER MAGNOLIA: Bloom in the Mist'
-  categories:
-  - Windows
-  video_url: ''
-  translator: rewold20
-  testing: ISKA - rewold20
-  compatible_version: Build 13889266 güncellemesiyle uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ENDER%20MAGNOLIA%20Bloom%20in%20the%20Mist.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
 - name: 'Ender Lilies: Quietus of the Knights'
   categories:
   - Nintendo Switch
@@ -375,9 +329,18 @@ games:
   testing: ISKA - rewold20 - Adol125
   compatible_version: 1.1.6-13932 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Ender%20Lilies%20Quietus%20of%20the%20Knights.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: 'ENDER MAGNOLIA: Bloom in the Mist'
+  categories:
+  - Windows
+  video_url: ''
+  translator: rewold20
+  testing: ISKA - rewold20
+  compatible_version: Build 13889266 güncellemesiyle uyumludur
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ENDER%20MAGNOLIA%20Bloom%20in%20the%20Mist.jpeg
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Eternal Hope
   categories:
   - Nintendo Switch
@@ -387,7 +350,6 @@ games:
   testing: rewold20
   compatible_version: 1 April 2021 sürümüne uyumlu
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Eternal%20Hope.jpeg
-
 - name: Evergate
   categories:
   - Nintendo Switch
@@ -397,7 +359,6 @@ games:
   testing: rewold20
   compatible_version: v08.08.2021 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Evergate.jpeg
-
 - name: 'Fallout 3: GOTY'
   categories:
   - Windows
@@ -406,7 +367,6 @@ games:
   testing: Doom4627 - Rewold20
   compatible_version: Epic ve Game Pass sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Fallout%203%20GOTY.jpeg?raw=true
-
 - name: Fe
   categories:
   - Nintendo Switch
@@ -416,7 +376,6 @@ games:
   testing: ISKA
   compatible_version: 7 January 2021 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Fe.jpeg?raw=true
-
 - name: Fez
   categories:
   - Nintendo Switch
@@ -425,7 +384,6 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Fez.jpeg?raw=true
-
 - name: Final Fantasy VII
   categories:
   - Nintendo Switch
@@ -435,9 +393,8 @@ games:
   testing: ' Adol125 - Vkopuzoglu - Pakrad Demir - byflash'
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Final%20Fantasy%20VII.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Freedom Fighters
   categories:
   - Windows
@@ -446,7 +403,6 @@ games:
   testing: Ömer Öz
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Freedom%20Fighters.jpeg?raw=true
-
 - name: Ghosts Goblins Resurrection
   categories:
   - Windows
@@ -455,9 +411,8 @@ games:
   testing: ISKA
   compatible_version: 1 June 2021 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Ghosts%20'n%20Goblins%20Resurrection.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Grapple Dog
   categories:
   - Nintendo Switch
@@ -467,7 +422,6 @@ games:
   testing: 'rewold20 '
   compatible_version: v2.0.1 sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Grapple%20Dog.jpeg?raw=true
-
 - name: Graveyard Keeper
   categories:
   - Nintendo Switch
@@ -477,9 +431,8 @@ games:
   testing: Jesust Christ - Truelegend
   compatible_version: v1.407 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Graveyard%20Keeper.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: GRIS
   categories:
   - Nintendo Switch
@@ -489,7 +442,6 @@ games:
   testing: rewold20 - ISKA
   compatible_version: 7 March 2019 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/GRIS.jpeg?raw=true
-
 - name: GTA Liberty City Stories
   categories:
   - Windows
@@ -498,7 +450,6 @@ games:
   testing: ISKA - elpdrno_046
   compatible_version: Beta5Build 16Aug20 sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/GTA%20Liberty%20City%20Stories.jpeg?raw=true
-
 - name: Haiku, the Robot
   categories:
   - Nintendo Switch
@@ -508,7 +459,6 @@ games:
   testing: ISKA - rewold20
   compatible_version: v.1.1.5.2 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Haiku,%20the%20Robot.jpeg?raw=true
-
 - name: Hotline Miami 2 Wrong Number
   categories:
   - Nintendo Switch
@@ -517,9 +467,8 @@ games:
   testing: Mastertranslator
   compatible_version: Steam son sürüm ile uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Hotline%20Miami%202%20Wrong%20Number.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Hue
   categories:
   - PS Vita
@@ -530,9 +479,8 @@ games:
   testing: rewold20
   compatible_version: Son sürümlere uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Hue.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: I Am The Hero
   categories:
   - PS Vita
@@ -543,9 +491,8 @@ games:
   testing: VAsTER - rewold20
   compatible_version: Son sürümlere uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/I%20Am%20The%20Hero.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Ico
   categories:
   - Playstation 3
@@ -554,9 +501,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: NPEA00279 EUR sürümü, 01.01 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Ico.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: It Takes Two
   categories:
   - Nintendo Switch
@@ -565,7 +511,6 @@ games:
   testing: Sixth Sense
   compatible_version: v1.0.2 güncellemesi ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/It%20Takes%20Two.jpeg?raw=true
-
 - name: Journey to the Savage Planet
   categories:
   - Nintendo Switch
@@ -575,7 +520,6 @@ games:
   testing: Truelegend
   compatible_version: 53207 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Journey%20to%20the%20Savage%20Planet.jpeg?raw=true
-
 - name: Katana Zero
   categories:
   - Windows
@@ -584,7 +528,6 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.5 STEAM güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Katana%20Zero.jpeg?raw=true
-
 - name: Kirby and the Forgotten Land
   categories:
   - Nintendo Switch
@@ -593,9 +536,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirby%20and%20the%20Forgotten%20Land.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Kirbys Dream Buffet
   categories:
   - Nintendo Switch
@@ -604,9 +546,8 @@ games:
   testing: rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kirbys%20Dream%20Buffet.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Kona
   categories:
   - Windows
@@ -615,9 +556,8 @@ games:
   testing: rewold20 - Emrebbi - ISKA
   compatible_version: 10 February 2023 güncellemesiyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Kona.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Links Crossbow Training
   categories:
   - Nintendo Wii
@@ -626,18 +566,6 @@ games:
   testing: rewold20
   compatible_version: USA sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Links%20Crossbow%20Training.jpeg?raw=true
-
-- name: 'The Legend of Zelda: A Link Between Worlds'
-  categories:
-  - Nintendo 3DS
-  video_url: https://www.youtube.com/watch?v=Bi8LIx3pzAw
-  translator: rewold20 - Egehan
-  testing: rewold20
-  compatible_version: AVRUPA bölge uyumludur.
-  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20Between%20Worlds.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
 - name: Luigi Mansion
   categories:
   - Nintendo 3DS
@@ -646,9 +574,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Luigi Mansion 2 HD
   categories:
   - Nintendo Switch
@@ -657,9 +584,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.0 olan oyunun ilk sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Luigi%20Mansion%202%20HD.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Mario Kart 7
   categories:
   - Nintendo 3DS
@@ -668,9 +594,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20Kart%207.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: Mario vs. Donkey Kong
   categories:
   - Nintendo Switch
@@ -679,9 +604,8 @@ games:
   testing: ISKA
   compatible_version: 1.0.0 sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Mario%20vs.%20Donkey%20Kong.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Mass Effect L.E
   categories:
   - Windows
@@ -690,7 +614,6 @@ games:
   testing: Doğukan Kartal (evilhuman) - Ümit (Commander Cody) - ISKA
   compatible_version: ''
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Mass%20Effect%20L.E.jpeg
-
 - name: Metroid Dread
   categories:
   - Nintendo Switch
@@ -699,7 +622,6 @@ games:
   testing: ISKA
   compatible_version: v2.1.0 ile uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Dread.jpeg
-
 - name: Metroid Fusion
   categories:
   - GBA
@@ -708,7 +630,6 @@ games:
   testing: ISKA
   compatible_version: USA sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Fusion.jpeg
-
 - name: Metroid Prime Remastered
   categories:
   - Nintendo Switch
@@ -717,9 +638,8 @@ games:
   testing: ISKA - Adol125
   compatible_version: USA sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Metroid%20Prime%20Remastered.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Metroid: Samus Returns'
   categories:
   - Nintendo 3DS
@@ -728,9 +648,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Metroid%20Samus%20Returns.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: 'Metroid: Zero Mission'
   categories:
   - GBA
@@ -739,7 +658,6 @@ games:
   testing: ISKA
   compatible_version: USA sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Metroid%20Zero%20Mission.jpeg?raw=true
-
 - name: 'Midnight Club: Street Racing'
   categories:
   - Playstation 2
@@ -748,7 +666,6 @@ games:
   testing: ISKA
   compatible_version: EU PAL sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Midnight%20Club%20Street%20Racing.jpeg?raw=true
-
 - name: 'Mortal Shell: Complete Edition'
   categories:
   - Nintendo Switch
@@ -757,7 +674,6 @@ games:
   testing: Rapid Çeviri
   compatible_version: Son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Mortal%20Shell%20Complete%20Edition.jpeg?raw=true
-
 - name: New Super Mario Bros. 2
   categories:
   - Nintendo 3DS
@@ -766,9 +682,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%202.jpeg
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: New Super Mario Bros. U Deluxe
   categories:
   - Nintendo Switch
@@ -777,9 +692,8 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Nocturne
   categories:
   - Windows
@@ -788,7 +702,6 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Nocturne.jpeg
-
 - name: Olija
   categories:
   - Nintendo Switch
@@ -798,7 +711,6 @@ games:
   testing: ISKA
   compatible_version: 7 November 2022 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Olija.jpeg
-
 - name: PAC-MAN WORLD Re-PAC
   categories:
   - Windows
@@ -807,7 +719,6 @@ games:
   testing: ISKA
   compatible_version: İlk sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/PAC-MAN%20WORLD%20Re-PAC.jpeg
-
 - name: Paradise Lost
   categories:
   - Nintendo Switch
@@ -817,9 +728,8 @@ games:
   testing: Oğuzhan Okçu
   compatible_version: Steam sonsürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Paradise%20Lost.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Pokémon Emerald
   categories:
   - GBA
@@ -829,7 +739,6 @@ games:
   compatible_version: 1.0 USA sürümüyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Pokémon
     Emerald.jpeg
-
 - name: Police Stories
   categories:
   - Nintendo Switch
@@ -839,7 +748,6 @@ games:
   testing: rewold20 - VAsTER
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Police%20Stories.jpeg
-
 - name: 'Police Stories: The Academy'
   categories:
   - Windows
@@ -848,7 +756,6 @@ games:
   testing: rewold20 - VAsTER
   compatible_version: Son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Police%20Stories%20The%20Academy.jpeg?raw=true
-
 - name: Prey
   categories:
   - Windows
@@ -857,9 +764,8 @@ games:
   testing: rewold20
   compatible_version: Steam son sürüm ile uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Prey.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Prey: Mooncrash'
   categories:
   - Windows
@@ -868,9 +774,8 @@ games:
   testing: rewold20
   compatible_version: Steam son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/images/d37.jpg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Princess Peach: Showtime!'
   categories:
   - Nintendo Switch
@@ -879,9 +784,8 @@ games:
   testing: ISKA - Adol125
   compatible_version: İlk sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Princess%20Peach%20Showtime!.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Project Warlock
   categories:
   - Nintendo Switch
@@ -891,9 +795,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: 1.0.7.11 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Project%20Warlock.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Rain
   categories:
   - Playstation 3
@@ -902,9 +805,8 @@ games:
   testing: ISKA - KarapathiaN
   compatible_version: NPEA00394 EUR sürümüyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rain.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Rayman Origins
   categories:
   - Nintendo Wii
@@ -916,7 +818,6 @@ games:
   testing: rewold20
   compatible_version: Son sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rayman%20Origins.jpeg
-
 - name: Resident Evil 3
   categories:
   - Windows
@@ -925,9 +826,8 @@ games:
   testing: ISKA
   compatible_version: Dx11, Rtx olmayan Steam güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Resident%20Evil%203.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Resident Evil: Revelations 3DS'
   categories:
   - Nintendo 3DS
@@ -936,9 +836,8 @@ games:
   testing: rewold20
   compatible_version: BASE AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20Revelations%203DS.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: 'Resident Evil: The Mercenaries 3D'
   categories:
   - Nintendo 3DS
@@ -947,9 +846,19 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20The%20Mercenaries%203D.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
+- name: Running on Magic
+  categories:
+  - Nintendo Switch
+  - Windows
+  video_url: https://www.youtube.com/watch?v=Bxwy6gx5LL0
+  translator: rewold20
+  testing: ''
+  compatible_version: Resmi çeviridir.
+  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Running%20on%20Magic.jpeg
+  translation_type: Ücretli
+  purchase_url: https://store.steampowered.com/app/1961260/Running_on_Magic/
 - name: Röki
   categories:
   - Windows
@@ -961,19 +870,6 @@ games:
   testing: Truelegend
   compatible_version: V3.3 GOG sürüm ve diğer son sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Röki.jpeg
-
-- name: Running on Magic
-  categories:
-  - Nintendo Switch
-  - Windows
-  video_url: https://www.youtube.com/watch?v=Bxwy6gx5LL0
-  translator: rewold20
-  testing: ''
-  compatible_version: Resmi çeviridir.
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Running%20on%20Magic.jpeg
-  translation_type: "Ücretli"
-  purchase_url: "https://store.steampowered.com/app/1961260/Running_on_Magic/"
-
 - name: Saints Row 2
   categories:
   - Windows
@@ -982,9 +878,8 @@ games:
   testing: ISKA
   compatible_version: Son sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Saints%20Row%202.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'Silent Hill: Downpour'
   categories:
   - Playstation 3
@@ -993,7 +888,6 @@ games:
   testing: Çağ - Ahmet Çelik
   compatible_version: BLUS30565 sürümüyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Silent%20Hill%20Downpour.jpeg?raw=true
-
 - name: Sniper Ghost Warrior Contracts
   categories:
   - Windows
@@ -1002,7 +896,6 @@ games:
   testing: Ömer Öz
   compatible_version: 1.08 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Sniper%20Ghost%20Warrior%20Contracts.jpeg
-
 - name: 'Song of Horror: Complete Edition'
   categories:
   - Windows
@@ -1011,7 +904,6 @@ games:
   testing: Truelegend
   compatible_version: 1.22 sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Song%20of%20Horror%20Complete%20Edition.jpeg?raw=true
-
 - name: Source of Madness
   categories:
   - Windows
@@ -1020,7 +912,6 @@ games:
   testing: ''
   compatible_version: Resmi çeviridir.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Source%20of%20Madness.jpeg
-
 - name: Steamworld Dig
   categories:
   - Nintendo 3DS
@@ -1029,9 +920,8 @@ games:
   testing: rewold20
   compatible_version: ''
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Steamworld%20Dig.jpeg
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: Sunwards
   categories:
   - Windows
@@ -1040,7 +930,6 @@ games:
   testing: rewold20
   compatible_version: İlk sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Sunwards.jpeg
-
 - name: Super Mario 3D World + Bowser’s Fury
   categories:
   - Nintendo Switch
@@ -1050,7 +939,6 @@ games:
   compatible_version: v1.1.0 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario
     3D World + Bowser’s Fury.jpeg
-
 - name: Super Mario Bros. Wii
   categories:
   - Nintendo Wii
@@ -1059,7 +947,6 @@ games:
   testing: ISKA
   compatible_version: USA sürüm uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wii.jpeg
-
 - name: Super Mario Bros. Wonder
   categories:
   - Nintendo Switch
@@ -1068,9 +955,8 @@ games:
   testing: ISKA - rewold20 - Adol125
   compatible_version: İlk sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wonder.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Super Mario World
   categories:
   - SNES
@@ -1079,7 +965,6 @@ games:
   testing: rewold20
   compatible_version: USA sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20World.jpeg
-
 - name: 'T.M.N.T: Out of the Shadows'
   categories:
   - Windows
@@ -1088,7 +973,6 @@ games:
   testing: Oğuzhan Okçu
   compatible_version: 1.0.10246 sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/T.M.N.T%20Out%20of%20the%20Shadows.jpeg?raw=true
-
 - name: 'T.M.N.T: Shredder Revenge'
   categories:
   - Nintendo Switch
@@ -1099,7 +983,6 @@ games:
   compatible_version: 1.0.0.255 - 4 (Gamepass)~ 1.0.0.258 (Steam) güncellemesiyle
     uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/T.M.N.T%20Shredder%20Revenge.jpeg?raw=true
-
 - name: Tails of Iron
   categories:
   - Nintendo Switch
@@ -1110,9 +993,8 @@ games:
   compatible_version: 19 December 2023 tarihli, 1.22 güncellemesiyle uyumludur. Crimson
     Knight DLCsi çeviriye dâhildir.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Tails%20of%20Iron.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: The Evil Within 2
   categories:
   - Windows
@@ -1121,7 +1003,6 @@ games:
   testing: BOS Çeviri
   compatible_version: Steam son sürümüyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Evil%20Within%202.jpeg
-
 - name: The Godfather II
   categories:
   - Windows
@@ -1130,9 +1011,8 @@ games:
   testing: rewold20 - Anıl523 - Emrebbi
   compatible_version: Tüm sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20II.jpeg
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/10994756"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/10994756
 - name: The Godfather The Game
   categories:
   - Windows
@@ -1141,9 +1021,8 @@ games:
   testing: ISKA - rewold20
   compatible_version: Tüm sürümlere uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Godfather%20The%20Game.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: The Last Faith
   categories:
   - Nintendo Switch
@@ -1153,9 +1032,8 @@ games:
   testing: ISKA
   compatible_version: 1.5.2 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Last%20Faith.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: The Legend of Zelda
   categories:
   - NES
@@ -1164,7 +1042,16 @@ games:
   testing: rewold20
   compatible_version: USA sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/The%20Legend%20of%20Zelda.jpeg
-
+- name: 'The Legend of Zelda: A Link Between Worlds'
+  categories:
+  - Nintendo 3DS
+  video_url: https://www.youtube.com/watch?v=Bi8LIx3pzAw
+  translator: rewold20 - Egehan
+  testing: rewold20
+  compatible_version: AVRUPA bölge uyumludur.
+  poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20Between%20Worlds.jpeg?raw=true
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: 'The Legend of Zelda: A Link to the Past'
   categories:
   - SNES
@@ -1173,7 +1060,6 @@ games:
   testing: rewold20
   compatible_version: USA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past.jpeg?raw=true
-
 - name: 'The Legend of Zelda: Ocarina of Time 3D'
   categories:
   - Nintendo 3DS
@@ -1182,9 +1068,16 @@ games:
   testing: ISKA
   compatible_version: AVRUPA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
+- name: 'The Legend of Zelda: Oracle of Seasons'
+  categories: []
+  video_url: https://www.youtube.com/watch?v=4Xt1zptMdgY
+  translator: rewold20
+  testing: rewold20
+  compatible_version: USA sürümüne uyumludur
+  poster_url: https://cdn2.steamgriddb.com/thumb/70e2362d3156f50ac259f8c8cd9c5b22.jpg
+  translation_type: Ücretli
 - name: 'The Legend of Zelda: The Minish Cap'
   categories:
   - GBA
@@ -1193,9 +1086,8 @@ games:
   testing: ISKA - rewold20 - Adol125
   compatible_version: USA sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20The%20Minish%20Cap.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: 'The Legend of Zelda: Tri Force Heroes'
   categories:
   - Nintendo 3DS
@@ -1204,9 +1096,8 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/The%20Legend%20of%20Zelda%20Tri%20Force%20Heroes.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: Those Who Remain
   categories:
   - Windows
@@ -1215,7 +1106,6 @@ games:
   testing: Truelegend
   compatible_version: 1.0.12 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Those%20Who%20Remain.jpeg
-
 - name: Thymesia
   categories:
   - Windows
@@ -1224,7 +1114,6 @@ games:
   testing: ISKA - rewold20
   compatible_version: Patch Two ile uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Thymesia.jpeg
-
 - name: 'Tower Hunter: Erza Trial'
   categories:
   - Windows
@@ -1233,9 +1122,8 @@ games:
   testing: VAsTER - rewold20
   compatible_version: Steam son sürümle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Tower%20Hunter%20Erza%20Trial.jpeg?raw=true
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Trepang2
   categories:
   - Windows
@@ -1244,9 +1132,8 @@ games:
   testing: ISKA - rewold20 - YunusZ
   compatible_version: v65613 sürümüyle uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Trepang2.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
-
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
 - name: Turok
   categories:
   - Windows
@@ -1255,7 +1142,6 @@ games:
   testing: VAsTER
   compatible_version: Steam ve GOG 2.0 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Turok.jpeg
-
 - name: ULTIMATE NES REMIX
   categories:
   - Nintendo 3DS
@@ -1264,7 +1150,6 @@ games:
   testing: rewold20
   compatible_version: AVRUPA BASE sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/ULTIMATE%20NES%20REMIX.jpeg
-
 - name: 'Warhammer 40,000: Space Marine A.E.'
   categories:
   - Windows
@@ -1273,7 +1158,6 @@ games:
   testing: ISKA - rewold20
   compatible_version: Her sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Warhammer%2040,000%20Space%20Marine%20A.E..jpeg?raw=true
-
 - name: Yoshis New Island
   categories:
   - Nintendo 3DS
@@ -1282,9 +1166,8 @@ games:
   testing: rewold20
   compatible_version: USA BASE sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Yoshi%20New%20Island.jpeg?raw=true
-  translation_type: "Ücretli"
-  purchase_url: "https://www.shopier.com/32389326"
-
+  translation_type: Ücretli
+  purchase_url: https://www.shopier.com/32389326
 - name: 'Zelda II: The Adventure of Link'
   categories:
   - NES
@@ -1293,7 +1176,6 @@ games:
   testing: rewold20
   compatible_version: USA sürüme uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Zelda%20II%20The%20Adventure%20of%20Link.jpeg?raw=true
-
 - name: 'Zelda: Link Awakening'
   categories:
   - Nintendo Switch
@@ -1302,7 +1184,6 @@ games:
   testing: ISKA - rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Zelda%20Link%20Awakening.jpeg?raw=true
-
 - name: Zorro The Chronicles
   categories:
   - Windows
@@ -1311,5 +1192,5 @@ games:
   testing: VAsTER
   compatible_version: 1.0 sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Zorro%20The%20Chronicles.jpeg
-  translation_type: "Havuz"
-  pool_url: "https://www.shopier.com/s/product/28899360"
+  translation_type: Havuz
+  pool_url: https://www.shopier.com/s/product/28899360
