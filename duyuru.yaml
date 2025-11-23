@@ -1,26 +1,47 @@
 announcements:
-  - title: "Warhammer 40k Duyurusu"
-    message: |
-      Herkese selamlar! 2. Sponsor çevirimiz olan Warhammer 40,000 Space Marine söz verdiğimiz üzere bugün Launcher'da yerini almıştır.
+- title: Warhammer 40k Duyurusu
+  message: 'Herkese selamlar! 2. Sponsor çevirimiz olan Warhammer 40,000 Space Marine
+    söz verdiğimiz üzere bugün Launcher''da yerini almıştır.
 
-      Eğer sizin de çevrilmesini istediğiniz bir oyun varsa bizimle iletişime geçebilirsiniz.
 
-      Yama Notları:
-      - Çeviri Steam'de Anniversary Edition sürüme; Amazon'daysa temel sürüme uyumludur. Malum sürümde denenmemiştir.
-      - Çeviri oyunun 1920*1080 çözünürlüğe uyumludur. Aşağı ya da yukarı çözünürlükte font bozulacağından dolayı oyun deneyiminizi olumsuz yönde etkileyecektir.
-      - Çevirinin nasıl kurulacağı ve hangi ayar yapılması gerektiği Launcher'da yazılıdır. Oradaki yönergeleri takip edin.
-      - Çoklu oyuncu bölümü çevrilse de mod yüklü olduğu için kapalı olacaktır. (Çoklu oyuncu çeviri yerleri bu nedenle test edilememiştir.)
-    date: "2025-01-25"
-    author: "rewold20"
-    id: "Warhammer 40k Duyurusu"  # Eklenen: title'a eşit, kodun beklediği şekilde
-    priority: "info"  # Eklenen: varsayılan, kartta mavi border için
-    category: "Genel"  # Eklenen: varsayılan, meta bilgide gösterilir
+    Düzenleme kanıtı.
 
-  - title: "Yeni Özellik: Hızlı Çeviri"
-    message: "Yeni eklenen 'Hızlı Çeviri' özelliği sayesinde, metinlerinizi anında çevirebilirsiniz."
-    date: "2025-01-26"
-    author: "rewold20"
-    id: "Yeni Özellik: Hızlı Çeviri"  # Eklenen: title'a eşit
-    priority: "info"  # Eklenen: varsayılan
-    category: "Genel"  # Eklenen: varsayılan
 
+    Eğer sizin de çevrilmesini istediğiniz bir oyun varsa bizimle iletişime geçebilirsiniz.
+
+
+    Yama Notları:
+
+    - Çeviri Steam''de Anniversary Edition sürüme; Amazon''daysa temel sürüme uyumludur.
+    Malum sürümde denenmemiştir.
+
+    - Çeviri oyunun 1920*1080 çözünürlüğe uyumludur. Aşağı ya da yukarı çözünürlükte
+    font bozulacağından dolayı oyun deneyiminizi olumsuz yönde etkileyecektir.
+
+    - Çevirinin nasıl kurulacağı ve hangi ayar yapılması gerektiği Launcher''da yazılıdır.
+    Oradaki yönergeleri takip edin.
+
+    - Çoklu oyuncu bölümü çevrilse de mod yüklü olduğu için kapalı olacaktır. (Çoklu
+    oyuncu çeviri yerleri bu nedenle test edilememiştir.)
+
+    '
+  date: '2025-01-25'
+  author: rewold20
+  id: Warhammer 40k Duyurusu
+  priority: info
+  category: Genel
+- title: 'Yeni Özellik: Hızlı Çeviri'
+  message: Yeni eklenen 'Hızlı Çeviri' özelliği sayesinde, metinlerinizi anında çevirebilirsiniz.
+  date: '2025-01-26'
+  author: rewold20
+  id: 'Yeni Özellik: Hızlı Çeviri'
+  priority: info
+  category: Genel
+- title: RewAdIs Launcher V2 yayınlandı!
+  message: Herkese selamlar! Nihayet Launcher'ımız sil baştan yapılarak yeni özelliklerle
+    siz kullanıcıların beğenisine sunulmuştur.
+  date: '2025-11-23'
+  author: rewold20
+  id: RewAdIs Launcher V2 yayınlandı!
+  priority: info
+  category: Genel
