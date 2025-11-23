@@ -1071,7 +1071,8 @@ games:
   translation_type: Havuz
   pool_url: https://www.shopier.com/s/product/28899360
 - name: 'The Legend of Zelda: Oracle of Seasons'
-  categories: []
+  categories:
+  - GBC
   video_url: https://www.youtube.com/watch?v=4Xt1zptMdgY
   translator: rewold20
   testing: rewold20
