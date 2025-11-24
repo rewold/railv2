@@ -312,7 +312,6 @@ games:
 - name: Röki
   downloads:
     Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
-    Linux: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki_tr.7z
     MacOS: https://github.com/rewold/railv2/raw/refs/heads/main/setups/roki/roki_macos.7z
 - name: Saints Row 2
   downloads:
