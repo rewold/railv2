@@ -1,7 +1,6 @@
 games:
 - name: 1-2-Switch
   downloads:
-    Windows: https://github.com/rewold/railv2/raw/refs/heads/main/switch/1_2_switch/1_2_switch.7z
     Nintendo Switch: https://github.com/rewold/railv2/raw/refs/heads/main/switch/1_2_switch/1_2_switch.7z
 - name: 9 Years of Shadows
   downloads:
