@@ -4,9 +4,6 @@ announcements:
     söz verdiğimiz üzere bugün Launcher''da yerini almıştır.
 
 
-    Düzenleme kanıtı.
-
-
     Eğer sizin de çevrilmesini istediğiniz bir oyun varsa bizimle iletişime geçebilirsiniz.
 
 
@@ -30,17 +27,10 @@ announcements:
   id: Warhammer 40k Duyurusu
   priority: info
   category: Genel
-- title: 'Yeni Özellik: Hızlı Çeviri'
-  message: Yeni eklenen 'Hızlı Çeviri' özelliği sayesinde, metinlerinizi anında çevirebilirsiniz.
-  date: '2025-01-26'
-  author: rewold20
-  id: 'Yeni Özellik: Hızlı Çeviri'
-  priority: info
-  category: Genel
 - title: RewAdIs Launcher V2 yayınlandı!
   message: Herkese selamlar! Nihayet Launcher'ımız sil baştan yapılarak yeni özelliklerle
     siz kullanıcıların beğenisine sunulmuştur.
-  date: '2025-11-23'
+  date: '2025-11-29'
   author: rewold20
   id: RewAdIs Launcher V2 yayınlandı!
   priority: info
