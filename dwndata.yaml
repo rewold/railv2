@@ -16,7 +16,7 @@ games:
     Windows: https://example.com/alex_kidd_miracle_world_dx_windows.zip
 - name: Ashen
   downloads:
-    Windows: https://example.com/ashen_windows.zip
+    Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/Ashen/Ashen_win.7z
     Nintendo Switch: https://example.com/ashen_switch.zip
 - name: Axiom Verge
   downloads:
