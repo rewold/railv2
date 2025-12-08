@@ -17,7 +17,7 @@ games:
 - name: Ashen
   downloads:
     Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/Ashen/Ashen_win.7z
-    Nintendo Switch: https://example.com/ashen_switch.zip
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Ashen/Ashen_macos.7z
 - name: Axiom Verge
   downloads:
     Nintendo Switch: https://example.com/axiom_verge_switch.zip
