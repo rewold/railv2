@@ -42,7 +42,7 @@ games:
   categories:
   - Windows
   - Nintendo Switch
-  video_url: ''
+  video_url: https://youtu.be/ckYYx9TsoRY
   translator: Truelegend
   testing: ISKA - Truelegend
   compatible_version: 1.0.12.0 sürümüyle uyumludur
@@ -865,7 +865,7 @@ games:
   - MacOS
   - Linux
   - Nintendo Switch
-  video_url: ''
+  video_url: https://youtu.be/BrzeIqqRdx4
   translator: Truelegend
   testing: Truelegend
   compatible_version: V3.3 GOG sürüm ve diğer son sürümlere uyumludur
