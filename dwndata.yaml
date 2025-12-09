@@ -37,7 +37,7 @@ games:
     Windows: https://example.com/bloodhound_windows.zip
 - name: BloodRayne
   downloads:
-    Windows: https://example.com/bloodrayne_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne/BloodRayne_win.7z
 - name: BloodRayne 2
   downloads:
     Windows: https://example.com/bloodrayne_2_windows.zip
