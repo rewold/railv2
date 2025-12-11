@@ -49,7 +49,7 @@ games:
     Windows: https://example.com/bloodrayne_betrayal_windows.zip
 - name: 'BloodRayne: ReVamped'
   downloads:
-    Nintendo Switch: https://example.com/bloodrayne_revamped_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne_ReVamped/BloodRayne_ReVamped_win.7z
 - name: 'BloodRayne: Terminal Cut'
   downloads:
     Windows: https://example.com/bloodrayne_terminal_cut_windows.zip
