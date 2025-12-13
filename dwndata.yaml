@@ -50,6 +50,7 @@ games:
 - name: 'BloodRayne: ReVamped'
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne_ReVamped/BloodRayne_ReVamped_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne_ReVamped/BloodRayne_ReVamped_macos.7z
 - name: 'BloodRayne: Terminal Cut'
   downloads:
     Windows: https://example.com/bloodrayne_terminal_cut_windows.zip
