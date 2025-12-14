@@ -74,8 +74,7 @@ games:
     Nintendo 3DS: https://example.com/captain_toad_treasure_tracker_3ds.zip
 - name: Carrion
   downloads:
-    Nintendo Switch: https://example.com/carrion_switch.zip
-    Windows: https://example.com/carrion_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Carrion/Carrion_win.7z
 - name: Castle of Illusion
   downloads:
     Windows: https://example.com/castle_of_illusion_windows.zip
