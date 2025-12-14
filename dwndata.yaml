@@ -67,7 +67,7 @@ games:
     Windows: https://example.com/brothers_tale_two_sons_remake_windows.zip
 - name: 'Bully: Scholarship Edition'
   downloads:
-    Windows: https://example.com/bully_scholarship_edition_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Bully_Scholarship_Edition/Bully_Scholarship_Edition_win.7z
 - name: 'Captain Toad: Treasure Tracker'
   downloads:
     Nintendo Switch: https://example.com/captain_toad_treasure_tracker_switch.zip
