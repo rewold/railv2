@@ -75,6 +75,7 @@ games:
 - name: Carrion
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Carrion/Carrion_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Carrion/Carrion_macos.7z
 - name: Castle of Illusion
   downloads:
     Windows: https://example.com/castle_of_illusion_windows.zip
