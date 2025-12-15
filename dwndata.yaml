@@ -86,6 +86,7 @@ games:
 - name: Coffin Dodgers
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Coffin_Dodgers/Coffin_Dodgers_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Coffin_Dodgers/Coffin_Dodgers_macos.7z
 - name: Dead Rising 4
   downloads:
     Windows: https://example.com/dead_rising_4_windows.zip
