@@ -85,8 +85,7 @@ games:
     GBA: https://example.com/castlevania_aria_of_sorrow_gba.zip
 - name: Coffin Dodgers
   downloads:
-    Nintendo Switch: https://example.com/coffin_dodgers_switch.zip
-    Windows: https://example.com/coffin_dodgers_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Coffin_Dodgers/Coffin_Dodgers_win.7z
 - name: Dead Rising 4
   downloads:
     Windows: https://example.com/dead_rising_4_windows.zip
