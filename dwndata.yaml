@@ -95,7 +95,7 @@ games:
     Windows: https://example.com/dead_space_3_awakened_windows.zip
 - name: Death's Door
   downloads:
-    Nintendo Switch: https://example.com/deaths_door_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Deaths_Door/Deaths_Door_win.7z.001
 - name: Dolmen
   downloads:
     Windows: https://example.com/dolmen_windows.zip
