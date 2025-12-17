@@ -93,7 +93,7 @@ games:
 - name: 'Dead Space 3: Awakened'
   downloads:
     Windows: https://example.com/dead_space_3_awakened_windows.zip
-- name: Death's Door
+- name: Deaths Door
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Deaths_Door/Deaths_Door_win.7z.001
 - name: Dolmen
