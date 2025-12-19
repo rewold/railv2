@@ -267,7 +267,6 @@ games:
   pool_url: https://www.shopier.com/s/product/28899360
 - name: Deaths Door
   categories:
-  - Windows
   - Nintendo Switch
   video_url: ''
   translator: Sixth Sense
