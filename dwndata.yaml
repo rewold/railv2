@@ -96,6 +96,7 @@ games:
 - name: Deaths Door
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Deaths_Door/Deaths_Door_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Deaths_Door/Deaths_Door_macos.7z
 - name: Dolmen
   downloads:
     Windows: https://example.com/dolmen_windows.zip
