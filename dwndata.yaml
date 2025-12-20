@@ -112,7 +112,7 @@ games:
     Windows: https://example.com/doom_64_windows.zip
 - name: Dragon Warrior
   downloads:
-    NES: https://example.com/dragon_warrior_nes.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Dragon_Warrior/Dragon_Warrior_win.7z
 - name: 'Ender Lilies: Quietus of the Knights'
   downloads:
     Nintendo Switch: https://example.com/ender_lilies_quietus_switch.zip
