@@ -113,6 +113,7 @@ games:
 - name: Dragon Warrior
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Dragon_Warrior/Dragon_Warrior_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Dragon_Warrior/Dragon_Warrior_macos.7z
 - name: 'Ender Lilies: Quietus of the Knights'
   downloads:
     Nintendo Switch: https://example.com/ender_lilies_quietus_switch.zip
