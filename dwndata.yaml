@@ -123,8 +123,7 @@ games:
     Windows: https://example.com/ender_magnolia_bloom_windows.zip
 - name: Eternal Hope
   downloads:
-    Nintendo Switch: https://example.com/eternal_hope_switch.zip
-    Windows: https://example.com/eternal_hope_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Eternal_Hope/Eternal_Hope_win.7z
 - name: Evergate
   downloads:
     Nintendo Switch: https://example.com/evergate_switch.zip
