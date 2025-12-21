@@ -128,6 +128,7 @@ games:
 - name: Evergate
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_macos.7z
 - name: 'Fallout 3: GOTY'
   downloads:
     Windows: https://example.com/fallout_3_goty_windows.zip
