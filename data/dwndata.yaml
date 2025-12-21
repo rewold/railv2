@@ -127,8 +127,8 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Eternal_Hope/Eternal_Hope_macos.7z.001
 - name: Evergate
   downloads:
-    Nintendo Switch: https://example.com/evergate_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_macos.7z
 - name: 'Fallout 3: GOTY'
   downloads:
     Windows: https://example.com/fallout_3_goty_windows.zip
