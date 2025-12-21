@@ -128,7 +128,7 @@ games:
 - name: Evergate
   downloads:
     Nintendo Switch: https://example.com/evergate_switch.zip
-    Windows: https://example.com/evergate_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_win.7z
 - name: 'Fallout 3: GOTY'
   downloads:
     Windows: https://example.com/fallout_3_goty_windows.zip
