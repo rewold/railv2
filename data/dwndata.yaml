@@ -131,7 +131,7 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Evergate/Evergate_macos.7z
 - name: 'Fallout 3: GOTY'
   downloads:
-    Windows: https://example.com/fallout_3_goty_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fallout_3_GOTY/Fallout_3_GOTY_win.7z
 - name: Fe
   downloads:
     Nintendo Switch: https://example.com/fe_switch.zip
