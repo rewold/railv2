@@ -134,8 +134,7 @@ games:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fallout_3_GOTY/Fallout_3_GOTY_win.7z
 - name: Fe
   downloads:
-    Nintendo Switch: https://example.com/fe_switch.zip
-    Windows: https://example.com/fe_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_win.7z
 - name: Fez
   downloads:
     Nintendo Switch: https://example.com/fez_switch.zip
