@@ -135,6 +135,7 @@ games:
 - name: Fe
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_macos.7z
 - name: Fez
   downloads:
     Nintendo Switch: https://example.com/fez_switch.zip
