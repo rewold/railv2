@@ -145,7 +145,7 @@ games:
     Windows: https://example.com/final_fantasy_vii_windows.zip
 - name: Freedom Fighters
   downloads:
-    Windows: https://example.com/freedom_fighters_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Freedom_Fighters/Freedom_Fighters_win.7z
 - name: Ghosts 'n Goblins Resurrection
   downloads:
     Windows: https://example.com/ghosts_n_goblins_resurrection_windows.zip
