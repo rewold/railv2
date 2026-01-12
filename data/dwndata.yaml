@@ -152,7 +152,7 @@ games:
 - name: Grapple Dog
   downloads:
     Nintendo Switch: https://example.com/grapple_dog_switch.zip
-    Windows: https://example.com/grapple_dog_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Grapple_Dog/Grapple_Dog_win.7z
 - name: Graveyard Keeper
   downloads:
     Nintendo Switch: https://example.com/graveyard_keeper_switch.zip
