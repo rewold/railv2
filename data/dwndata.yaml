@@ -139,6 +139,7 @@ games:
 - name: Fez
   downloads:
     Nintendo Switch: https://example.com/fez_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_win.7z.001
 - name: Final Fantasy VII
   downloads:
     Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
@@ -151,7 +152,6 @@ games:
     Windows: https://example.com/ghosts_n_goblins_resurrection_windows.zip
 - name: Grapple Dog
   downloads:
-    Nintendo Switch: https://example.com/grapple_dog_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Grapple_Dog/Grapple_Dog_win.7z
 - name: Graveyard Keeper
   downloads:
