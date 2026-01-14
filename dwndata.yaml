@@ -138,7 +138,7 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_macos.7z
 - name: Fez
   downloads:
-    Nintendo Switch: https://example.com/fez_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_win.7z.001
 - name: Final Fantasy VII
   downloads:
     Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
