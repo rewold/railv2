@@ -161,7 +161,7 @@ games:
 - name: GRIS
   downloads:
     Nintendo Switch: https://example.com/gris_switch.zip
-    Windows: https://example.com/gris_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/GRIS/GRIS_win.7z
 - name: 'GTA: Liberty City Stories'
   downloads:
     Windows: https://example.com/gta_liberty_city_stories_windows.zip
