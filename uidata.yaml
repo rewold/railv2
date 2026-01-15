@@ -367,7 +367,7 @@ games:
   video_url: https://www.youtube.com/watch?v=R6Y4RjfA-Yg
   translator: Doom4627 - Afşin Bey - Rewold20 - Findukman
   testing: Doom4627 - Rewold20
-  compatible_version: Epic ve Game Pass sürümüyle uyumludur.
+  compatible_version: Epic-GOG-Steam sürümleriyle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Fallout%203%20GOTY.jpeg?raw=true
 - name: Fe
   categories:
@@ -381,9 +381,11 @@ games:
 - name: Fez
   categories:
   - Nintendo Switch
+  - Windows
+  - MacOS
   video_url: https://www.youtube.com/watch?v=bfmGPwsEcLU
   translator: rewold20
-  testing: rewold20
+  testing: VAsTER
   compatible_version: Son sürüme uyumludur
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Fez.jpeg?raw=true
 - name: Final Fantasy VII
