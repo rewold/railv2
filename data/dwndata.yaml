@@ -139,7 +139,7 @@ games:
 - name: Fez
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/
-    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_macos.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/
 - name: Final Fantasy VII
   downloads:
     Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
@@ -153,6 +153,7 @@ games:
 - name: Grapple Dog
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Grapple_Dog/Grapple_Dog_win.7z
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Grapple_Dog/Grapple_Dog_macos.7z
 - name: Graveyard Keeper
   downloads:
     Nintendo Switch: https://example.com/graveyard_keeper_switch.zip
