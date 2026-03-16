@@ -1,27 +1,93 @@
 categories:
-  Horror:
-  - 'Dead Space 3: Awakened'
-  - Resident Evil 3
-  - 'Resident Evil: Revelations 3DS'
-  - 'Resident Evil: The Mercenaries 3D'
-  - 'Silent Hill: Downpour'
-  - 'Song of Horror: Complete Edition'
-  - The Evil Within 2
-  - Those Who Remain
-  Action/Adventure:
+  Action:
+  - 1-2-Switch
+  - 9 Years of Shadows
+  - A Hole New World
+  - Alex Kidd in Miracle World DX
+  - Ashen
+  - Axiom Verge
   - 'Batman: Arkham Origins Blackgate'
+  - Blasphemous
+  - Blasphemous 2
+  - BloodRayne
+  - BloodRayne 2
+  - 'BloodRayne 2: Terminal Cut'
+  - BloodRayne Betrayal
+  - 'BloodRayne: ReVamped'
+  - 'BloodRayne: Terminal Cut'
+  - Bloodhound
+  - 'Bloodstained: Ritual of the Night'
+  - Bright Memory Infinite
+  - 'Brothers: A Tale of Two Sons Remake'
+  - 'Bully: Scholarship Edition'
+  - 'Captain Toad: Treasure Tracker'
+  - Carrion
+  - 'Castlevania: Aria of Sorrow'
+  - Coffin Dodgers
+  - Dead Rising 4
+  - 'Dead Space 3: Awakened'
+  - Deaths Door
+  - 'Donkey Kong Country: Tropical Freeze'
+  - Doom (2016)
+  - Doom 64
+  - 'ENDER MAGNOLIA: Bloom in the Mist'
+  - 'Ender Lilies: Quietus of the Knights'
+  - Evergate
+  - Fe
+  - Final Fantasy VII
+  - Freedom Fighters
+  - GRIS
+  - GTA Liberty City Stories
+  - Ghosts Goblins Resurrection
+  - Grapple Dog
+  - Graveyard Keeper
+  - Haiku, the Robot
+  - Hotline Miami 2 Wrong Number
+  - Ico
+  - It Takes Two
+  - Journey to the Savage Planet
+  - Katana Zero
+  - Kirbys Dream Buffet
+  - Kona
+  - Links Crossbow Training
+  - Luigi Mansion
+  - Luigi Mansion 2 HD
+  - Mass Effect L.E
+  - Metroid Fusion
+  - Metroid Prime Remastered
+  - 'Metroid: Samus Returns'
+  - 'Metroid: Zero Mission'
+  - 'Mortal Shell: Complete Edition'
+  - New Super Mario Bros. 2
+  - New Super Mario Bros. U Deluxe
+  - Olija
+  - PAC-MAN WORLD Re-PAC
+  - Police Stories
+  - 'Police Stories: The Academy'
+  - Prey
+  - 'Prey: Mooncrash'
+  - 'Princess Peach: Showtime!'
+  - Project Warlock
+  - Rain
   - Rayman Origins
+  - Resident Evil 3
+  - 'Resident Evil: The Mercenaries 3D'
+  - Running on Magic
   - Saints Row 2
+  - Sniper Ghost Warrior Contracts
+  - 'Song of Horror: Complete Edition'
+  - Source of Madness
+  - Steamworld Dig
+  - Sunwards
+  - Super Mario 3D World + Bowser’s Fury
+  - Super Mario Bros. Wii
+  - Super Mario Bros. Wonder
+  - Super Mario World
   - 'T.M.N.T: Out of the Shadows'
   - 'T.M.N.T: Shredder Revenge'
-  - The Godfather II
-  - The Godfather The Game
-  - Zorro The Chronicles
-  RPG:
-  - 'Fallout 3: GOTY'
-  - Final Fantasy VII
-  - Mass Effect L.E
   - Tails of Iron
+  - The Evil Within 2
+  - The Godfather II
   - The Last Faith
   - The Legend of Zelda
   - 'The Legend of Zelda: A Link Between Worlds'
@@ -30,32 +96,84 @@ categories:
   - 'The Legend of Zelda: Oracle of Seasons'
   - 'The Legend of Zelda: The Minish Cap'
   - 'The Legend of Zelda: Tri Force Heroes'
+  - Those Who Remain
+  - Thymesia
+  - 'Tower Hunter: Erza Trial'
+  - Trepang2
+  - Turok
+  - ULTIMATE NES REMIX
+  - Yoshis New Island
   - 'Zelda II: The Adventure of Link'
   - 'Zelda: Link Awakening'
-  Racing:
-  - 'Midnight Club: Street Racing'
-  Sport: []
-  Fighting: []
-  Stealth: []
-  Nintendo:
-  - 'Donkey Kong Country: Tropical Freeze'
+  - Zorro The Chronicles
+  Adventure:
+  - 9 Years of Shadows
+  - A Hole New World
+  - Alex Kidd in Miracle World DX
+  - Ashen
+  - Axiom Verge
+  - 'Batman: Arkham Origins Blackgate'
+  - Blasphemous
+  - Blasphemous 2
+  - BloodRayne
+  - BloodRayne 2
+  - 'BloodRayne 2: Terminal Cut'
+  - 'BloodRayne: ReVamped'
+  - 'BloodRayne: Terminal Cut'
+  - 'Bloodstained: Ritual of the Night'
+  - Bright Memory Infinite
+  - 'Brothers: A Tale of Two Sons Remake'
+  - 'Bully: Scholarship Edition'
+  - Carrion
+  - 'Castlevania: Aria of Sorrow'
+  - Dead Rising 4
+  - Deaths Door
+  - Dragon Warrior
+  - 'ENDER MAGNOLIA: Bloom in the Mist'
+  - 'Ender Lilies: Quietus of the Knights'
+  - Eternal Hope
+  - Evergate
+  - Fe
+  - Final Fantasy VII
+  - GRIS
+  - GTA Liberty City Stories
+  - Ghosts Goblins Resurrection
+  - Grapple Dog
+  - Graveyard Keeper
+  - Ico
+  - It Takes Two
+  - Journey to the Savage Planet
+  - Katana Zero
   - Kirby and the Forgotten Land
-  - Kirbys Dream Buffet
-  - Mario Kart 7
-  - Mario vs. Donkey Kong
-  - Metroid Dread
+  - Kona
+  - Luigi Mansion
+  - Luigi Mansion 2 HD
   - Metroid Fusion
   - Metroid Prime Remastered
   - 'Metroid: Samus Returns'
   - 'Metroid: Zero Mission'
+  - 'Mortal Shell: Complete Edition'
   - New Super Mario Bros. 2
-  - New Super Mario Bros. U Deluxe
-  - 'Resident Evil: Revelations 3DS'
+  - Olija
+  - PAC-MAN WORLD Re-PAC
+  - Pokémon Emerald
+  - Prey
+  - 'Prey: Mooncrash'
+  - 'Princess Peach: Showtime!'
+  - Rayman Origins
+  - Resident Evil 3
+  - 'Resident Evil: The Mercenaries 3D'
+  - Running on Magic
+  - Saints Row 2
+  - 'Silent Hill: Downpour'
+  - 'Song of Horror: Complete Edition'
   - Source of Madness
+  - Sunwards
   - Super Mario 3D World + Bowser’s Fury
-  - Super Mario Bros. Wii
-  - Super Mario Bros. Wonder
-  - Super Mario World
+  - Tails of Iron
+  - The Evil Within 2
+  - The Godfather II
+  - The Last Faith
   - The Legend of Zelda
   - 'The Legend of Zelda: A Link Between Worlds'
   - 'The Legend of Zelda: A Link to the Past'
@@ -63,19 +181,147 @@ categories:
   - 'The Legend of Zelda: Oracle of Seasons'
   - 'The Legend of Zelda: The Minish Cap'
   - 'The Legend of Zelda: Tri Force Heroes'
+  - Thymesia
+  - 'Tower Hunter: Erza Trial'
+  - Turok
+  - Yoshis New Island
+  - 'Zelda II: The Adventure of Link'
+  - 'Zelda: Link Awakening'
+  - Zorro The Chronicles
+  Arcade:
+  - 1-2-Switch
+  - A Hole New World
+  - Alex Kidd in Miracle World DX
+  - Grapple Dog
+  - Hotline Miami 2 Wrong Number
+  - Katana Zero
+  - Mario Kart 7
+  - Olija
+  - PAC-MAN WORLD Re-PAC
+  - Police Stories
+  - 'T.M.N.T: Shredder Revenge'
+  - ULTIMATE NES REMIX
+  Business:
+  - Graveyard Keeper
+  Comedy:
+  - Alex Kidd in Miracle World DX
+  - 'Bully: Scholarship Edition'
+  - Coffin Dodgers
+  - Dead Rising 4
+  - GTA Liberty City Stories
+  - Luigi Mansion 2 HD
+  - Mario vs. Donkey Kong
+  - Rain
+  - Rayman Origins
+  - Saints Row 2
+  - Super Mario Bros. Wonder
+  - 'T.M.N.T: Out of the Shadows'
+  Drama:
+  - 'Brothers: A Tale of Two Sons Remake'
+  - GRIS
+  - Ico
+  - The Godfather II
+  Fantasy:
+  - 9 Years of Shadows
+  - Alex Kidd in Miracle World DX
+  - Ashen
+  - Blasphemous
+  - Blasphemous 2
+  - BloodRayne Betrayal
+  - 'Bloodstained: Ritual of the Night'
+  - 'Brothers: A Tale of Two Sons Remake'
+  - 'Castlevania: Aria of Sorrow'
+  - Deaths Door
+  - Dragon Warrior
+  - 'Ender Lilies: Quietus of the Knights'
+  - Fe
+  - Final Fantasy VII
+  - Freedom Fighters
+  - GRIS
+  - Graveyard Keeper
+  - Ico
+  - Links Crossbow Training
+  - 'Mortal Shell: Complete Edition'
+  - Olija
+  - PAC-MAN WORLD Re-PAC
+  - 'Princess Peach: Showtime!'
+  - Project Warlock
+  - Rain
+  - Rayman Origins
+  - Source of Madness
+  - Sunwards
+  - Super Mario Bros. Wonder
+  - Super Mario World
+  - 'T.M.N.T: Out of the Shadows'
+  - The Last Faith
+  - The Legend of Zelda
+  - 'The Legend of Zelda: A Link Between Worlds'
+  - 'The Legend of Zelda: A Link to the Past'
+  - 'The Legend of Zelda: Ocarina of Time 3D'
+  - 'The Legend of Zelda: Oracle of Seasons'
+  - 'The Legend of Zelda: The Minish Cap'
+  - 'The Legend of Zelda: Tri Force Heroes'
+  - Thymesia
+  - 'Tower Hunter: Erza Trial'
+  - Turok
   - ULTIMATE NES REMIX
   - Yoshis New Island
   - 'Zelda II: The Adventure of Link'
   - 'Zelda: Link Awakening'
-  Shooter:
+  Fighting:
+  - 'BloodRayne 2: Terminal Cut'
+  - Sunwards
+  - The Last Faith
+  - Zorro The Chronicles
+  Hack and slash/Beat 'em up:
+  - 'Batman: Arkham Origins Blackgate'
+  - Blasphemous
+  - Blasphemous 2
+  - BloodRayne
+  - BloodRayne 2
+  - 'BloodRayne 2: Terminal Cut'
+  - BloodRayne Betrayal
+  - 'BloodRayne: ReVamped'
+  - 'BloodRayne: Terminal Cut'
+  - Bright Memory Infinite
+  - Dead Rising 4
+  - Deaths Door
+  - Olija
+  - 'Princess Peach: Showtime!'
+  - Sunwards
+  - 'T.M.N.T: Shredder Revenge'
+  - The Last Faith
+  - Thymesia
+  Historical:
+  - Freedom Fighters
+  - Rain
+  - 'The Legend of Zelda: A Link Between Worlds'
+  Horror:
+  - BloodRayne
+  - BloodRayne 2
+  - 'BloodRayne 2: Terminal Cut'
+  - BloodRayne Betrayal
+  - 'BloodRayne: ReVamped'
+  - 'BloodRayne: Terminal Cut'
+  - 'Bloodstained: Ritual of the Night'
+  - Carrion
+  - 'Castlevania: Aria of Sorrow'
+  - Dead Rising 4
   - Doom (2016)
   - Doom 64
-  - Sniper Ghost Warrior Contracts
+  - Luigi Mansion 2 HD
+  - Prey
+  - 'Prey: Mooncrash'
+  - Project Warlock
+  - Resident Evil 3
+  - 'Resident Evil: The Mercenaries 3D'
+  - 'Silent Hill: Downpour'
+  - 'Song of Horror: Complete Edition'
+  - Source of Madness
+  - The Evil Within 2
+  - The Last Faith
   - Trepang2
-  - Turok
-  Simulator: []
-  Other:
-  - 1-2-Switch
+  Indie:
   - 9 Years of Shadows
   - A Hole New World
   - Alex Kidd in Miracle World DX
@@ -84,66 +330,265 @@ categories:
   - Blasphemous
   - Blasphemous 2
   - Bloodhound
-  - BloodRayne
-  - BloodRayne 2
-  - 'BloodRayne 2: Terminal Cut'
-  - BloodRayne Betrayal
-  - 'BloodRayne: ReVamped'
-  - 'BloodRayne: Terminal Cut'
-  - 'Bloodstained: Ritual of the Night'
   - Bright Memory Infinite
-  - 'Brothers: A Tale of Two Sons Remake'
-  - 'Bully: Scholarship Edition'
-  - 'Captain Toad: Treasure Tracker'
   - Carrion
-  - Castle of Illusion
-  - 'Castlevania: Aria of Sorrow'
   - Coffin Dodgers
-  - Dead Rising 4
   - Deaths Door
-  - Dolmen
-  - Dragon Warrior
-  - 'Ender Lilies: Quietus of the Knights'
   - 'ENDER MAGNOLIA: Bloom in the Mist'
+  - 'Ender Lilies: Quietus of the Knights'
   - Eternal Hope
   - Evergate
-  - Fe
-  - Fez
-  - Freedom Fighters
-  - Ghosts Goblins Resurrection
+  - GRIS
   - Grapple Dog
   - Graveyard Keeper
-  - GRIS
-  - GTA Liberty City Stories
   - Haiku, the Robot
   - Hotline Miami 2 Wrong Number
-  - Hue
-  - I Am The Hero
-  - Ico
-  - It Takes Two
-  - Journey to the Savage Planet
   - Katana Zero
   - Kona
-  - Links Crossbow Training
-  - Luigi Mansion
-  - Luigi Mansion 2 HD
   - 'Mortal Shell: Complete Edition'
-  - Nocturne
   - Olija
-  - PAC-MAN WORLD Re-PAC
-  - Paradise Lost
-  - Pokémon Emerald
   - Police Stories
   - 'Police Stories: The Academy'
-  - Prey
-  - 'Prey: Mooncrash'
-  - 'Princess Peach: Showtime!'
   - Project Warlock
   - Rain
   - Running on Magic
+  - Sunwards
+  - 'T.M.N.T: Shredder Revenge'
+  - The Last Faith
+  - Those Who Remain
+  - 'Tower Hunter: Erza Trial'
+  - Trepang2
+  Kids:
+  - Grapple Dog
+  - Rayman Origins
+  - Zorro The Chronicles
+  Music:
+  - Fe
+  Mystery:
+  - Graveyard Keeper
+  - Kona
+  - 'Song of Horror: Complete Edition'
+  - Source of Madness
+  - The Last Faith
+  Open world:
+  - Ashen
+  - 'Bully: Scholarship Edition'
+  - Dead Rising 4
+  - GTA Liberty City Stories
+  - 'Metroid: Zero Mission'
+  - 'Mortal Shell: Complete Edition'
+  - Saints Row 2
+  - 'The Legend of Zelda: A Link Between Worlds'
+  Party:
+  - 1-2-Switch
+  - Kirbys Dream Buffet
+  - Mario Kart 7
+  Platform:
+  - 9 Years of Shadows
+  - A Hole New World
+  - Alex Kidd in Miracle World DX
+  - Axiom Verge
+  - Blasphemous
+  - Blasphemous 2
+  - BloodRayne Betrayal
+  - 'BloodRayne: ReVamped'
+  - 'Bloodstained: Ritual of the Night'
+  - 'Captain Toad: Treasure Tracker'
+  - Carrion
+  - 'Castlevania: Aria of Sorrow'
+  - 'Donkey Kong Country: Tropical Freeze'
+  - 'ENDER MAGNOLIA: Bloom in the Mist'
+  - 'Ender Lilies: Quietus of the Knights'
+  - Eternal Hope
+  - Evergate
+  - GRIS
+  - Ghosts Goblins Resurrection
+  - Grapple Dog
+  - Haiku, the Robot
+  - Ico
+  - It Takes Two
+  - Katana Zero
+  - Kirby and the Forgotten Land
+  - Kirbys Dream Buffet
+  - Mario vs. Donkey Kong
+  - Metroid Fusion
+  - Metroid Prime Remastered
+  - 'Metroid: Samus Returns'
+  - 'Metroid: Zero Mission'
+  - New Super Mario Bros. 2
+  - New Super Mario Bros. U Deluxe
+  - Olija
+  - PAC-MAN WORLD Re-PAC
+  - Rayman Origins
+  - Running on Magic
+  - Source of Madness
+  - Steamworld Dig
+  - Super Mario 3D World + Bowser’s Fury
+  - Super Mario Bros. Wii
+  - Super Mario Bros. Wonder
+  - Super Mario World
+  - 'T.M.N.T: Out of the Shadows'
+  - The Last Faith
+  - 'Tower Hunter: Erza Trial'
+  - Turok
+  - ULTIMATE NES REMIX
+  - Yoshis New Island
+  - 'Zelda II: The Adventure of Link'
+  Puzzle:
+  - 'Brothers: A Tale of Two Sons Remake'
+  - 'Captain Toad: Treasure Tracker'
+  - Dolmen
+  - Eternal Hope
+  - Evergate
+  - GRIS
+  - Hue
+  - Ico
+  - It Takes Two
+  - Kona
+  - Luigi Mansion 2 HD
+  - Mario vs. Donkey Kong
+  - Metroid Fusion
+  - Pokémon Emerald
+  - Prey
   - Röki
   - Steamworld Dig
+  - 'The Legend of Zelda: A Link Between Worlds'
+  - 'The Legend of Zelda: A Link to the Past'
+  - 'The Legend of Zelda: Ocarina of Time 3D'
+  - 'The Legend of Zelda: Oracle of Seasons'
+  - 'The Legend of Zelda: The Minish Cap'
+  - 'The Legend of Zelda: Tri Force Heroes'
+  - 'Zelda: Link Awakening'
+  Racing:
+  - Coffin Dodgers
+  - GTA Liberty City Stories
+  - Kirbys Dream Buffet
+  - Mario Kart 7
+  - Saints Row 2
+  - The Godfather II
+  Role-playing (RPG):
+  - 9 Years of Shadows
+  - Ashen
+  - Blasphemous
+  - Blasphemous 2
+  - 'BloodRayne 2: Terminal Cut'
+  - 'BloodRayne: ReVamped'
+  - Bloodhound
+  - 'Bloodstained: Ritual of the Night'
+  - Deaths Door
+  - Dragon Warrior
+  - 'ENDER MAGNOLIA: Bloom in the Mist'
+  - 'Ender Lilies: Quietus of the Knights'
+  - Fe
+  - Final Fantasy VII
+  - Mass Effect L.E
+  - 'Mortal Shell: Complete Edition'
+  - Pokémon Emerald
+  - Prey
+  - Rain
+  - Source of Madness
   - Sunwards
+  - Tails of Iron
+  - The Evil Within 2
+  - The Last Faith
+  - The Legend of Zelda
+  - 'The Legend of Zelda: Oracle of Seasons'
   - Thymesia
   - 'Tower Hunter: Erza Trial'
-  - 'Warhammer 40,000: Space Marine A.E.'
+  - 'Zelda II: The Adventure of Link'
+  Romance:
+  - Eternal Hope
+  - Paradise Lost
+  Sandbox:
+  - 'Bully: Scholarship Edition'
+  - Dead Rising 4
+  - GTA Liberty City Stories
+  - Graveyard Keeper
+  - Saints Row 2
+  - 'The Legend of Zelda: A Link Between Worlds'
+  Science fiction:
+  - Axiom Verge
+  - Bloodhound
+  - Bright Memory Infinite
+  - Carrion
+  - Doom (2016)
+  - Doom 64
+  - Haiku, the Robot
+  - Mass Effect L.E
+  - Metroid Dread
+  - Metroid Fusion
+  - Metroid Prime Remastered
+  - 'Metroid: Samus Returns'
+  - 'Metroid: Zero Mission'
+  - Prey
+  - 'Prey: Mooncrash'
+  - 'T.M.N.T: Out of the Shadows'
+  - 'T.M.N.T: Shredder Revenge'
+  - Those Who Remain
+  - Trepang2
+  - ULTIMATE NES REMIX
+  Shooter:
+  - 'Batman: Arkham Origins Blackgate'
+  - 'BloodRayne 2: Terminal Cut'
+  - 'BloodRayne: ReVamped'
+  - 'BloodRayne: Terminal Cut'
+  - Bright Memory Infinite
+  - Dead Rising 4
+  - Doom (2016)
+  - Doom 64
+  - Freedom Fighters
+  - Hotline Miami 2 Wrong Number
+  - Journey to the Savage Planet
+  - Links Crossbow Training
+  - Metroid Fusion
+  - Metroid Prime Remastered
+  - 'Metroid: Samus Returns'
+  - 'Metroid: Zero Mission'
+  - Police Stories
+  - Prey
+  - 'Prey: Mooncrash'
+  - Project Warlock
+  - Resident Evil 3
+  - 'Resident Evil: The Mercenaries 3D'
+  - Saints Row 2
+  - Sniper Ghost Warrior Contracts
+  - The Evil Within 2
+  - The Godfather II
+  - Those Who Remain
+  - Trepang2
+  - Turok
+  Simulator:
+  - Freedom Fighters
+  - Graveyard Keeper
+  - Kona
+  - Nocturne
+  - Paradise Lost
+  - Police Stories
+  - 'Police Stories: The Academy'
+  Sport:
+  - I Am The Hero
+  Stealth:
+  - 'Batman: Arkham Origins Blackgate'
+  - 'Brothers: A Tale of Two Sons Remake'
+  - Police Stories
+  - Prey
+  - 'T.M.N.T: Out of the Shadows'
+  - The Evil Within 2
+  Strategy:
+  - Graveyard Keeper
+  - Katana Zero
+  - Police Stories
+  - 'Police Stories: The Academy'
+  Survival:
+  - Ashen
+  - Dead Rising 4
+  - Prey
+  - Resident Evil 3
+  - 'Silent Hill: Downpour'
+  - 'Song of Horror: Complete Edition'
+  - The Evil Within 2
+  Tactical:
+  - Freedom Fighters
+  - Police Stories
+  Thriller:
+  - BloodRayne Betrayal
