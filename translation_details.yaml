@@ -1,0 +1,601 @@
+games:
+  1-2-Switch:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  9 Years of Shadows:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  A Hole New World:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Alex Kidd in Miracle World DX:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Ashen:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Axiom Verge:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  'Batman: Arkham Origins Blackgate':
+    type: Ortak Çeviri
+    font: Yok
+    textures: Kaplama Yok
+    test: Yapılmadı
+  Blasphemous:
+    type: Ortak Çeviri
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Blasphemous 2:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  BloodRayne:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  BloodRayne 2:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'BloodRayne 2: Terminal Cut':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  BloodRayne Betrayal:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  'BloodRayne: ReVamped':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'BloodRayne: Terminal Cut':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Bloodhound:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  'Bloodstained: Ritual of the Night':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Bright Memory Infinite:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'Brothers: A Tale of Two Sons Remake':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  'Bully: Scholarship Edition':
+    type: Ortak Çeviri
+    font: Mevcut
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  'Captain Toad: Treasure Tracker':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Yapılmadı
+  Carrion:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Castle of Illusion:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  'Castlevania: Aria of Sorrow':
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  Coffin Dodgers:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Dead Rising 4:
+    type: Ortak Çeviri
+    font: Bilinmiyor
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  'Dead Space 3: Awakened':
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Deaths Door:
+    type: Bilinmiyor
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Bilinmiyor
+  Dolmen:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  'Donkey Kong Country: Tropical Freeze':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Doom (2016):
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Doom 64:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  Dragon Warrior:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  'ENDER MAGNOLIA: Bloom in the Mist':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  'Ender Lilies: Quietus of the Knights':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Eternal Hope:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Evergate:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  'Fallout 3: GOTY':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Fe:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Fez:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Final Fantasy VII:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Freedom Fighters:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  GRIS:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Bilinmiyor
+  GTA Liberty City Stories:
+    type: Bilinmiyor
+    font: Mevcut
+    textures: Bilinmiyor
+    test: Metin+Oyun İçi Test Yapıldı
+  Ghosts Goblins Resurrection:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Grapple Dog:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Graveyard Keeper:
+    type: Bilinmiyor
+    font: Mevcut
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  Haiku, the Robot:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Hotline Miami 2 Wrong Number:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Bilinmiyor
+  Hue:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  I Am The Hero:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Ico:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  It Takes Two:
+    type: Bilinmiyor
+    font: Bilinmiyor
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  Journey to the Savage Planet:
+    type: Bilinmiyor
+    font: Bilinmiyor
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  Katana Zero:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Kirby and the Forgotten Land:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Kirbys Dream Buffet:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Kona:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Links Crossbow Training:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  Luigi Mansion:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Luigi Mansion 2 HD:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Mario Kart 7:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  Mario vs. Donkey Kong:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Mass Effect L.E:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Metroid Dread:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Metroid Fusion:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  Metroid Prime Remastered:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'Metroid: Samus Returns':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  'Metroid: Zero Mission':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  'Midnight Club: Street Racing':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  New Super Mario Bros. 2:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  New Super Mario Bros. U Deluxe:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kısmen Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  Nocturne:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  Olija:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Yapılmadı
+  PAC-MAN WORLD Re-PAC:
+    type: İnsan Çevirisi
+    font: Kısıtlı
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Pokémon Emerald:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Bilinmiyor
+  Police Stories:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  'Police Stories: The Academy':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  Prey:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'Prey: Mooncrash':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'Princess Peach: Showtime!':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Project Warlock:
+    type: İnsan Çevirisi
+    font: Bilinmiyor
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  Rain:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Rayman Origins:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Resident Evil 3:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  'Resident Evil: Revelations 3DS':
+    type: Ortak Çeviri
+    font: Yok
+    textures: Çevrili Değil
+    test: Yapılmadı
+  'Resident Evil: The Mercenaries 3D':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  Running on Magic:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Röki:
+    type: Ortak Çeviri
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Saints Row 2:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Sniper Ghost Warrior Contracts:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  'Song of Horror: Complete Edition':
+    type: Bilinmiyor
+    font: Bilinmiyor
+    textures: Bilinmiyor
+    test: Bilinmiyor
+  Source of Madness:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Steamworld Dig:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kaplama Yok
+    test: Yapılmadı
+  Sunwards:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
+  Super Mario 3D World + Bowser’s Fury:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Super Mario Bros. Wii:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
+  Super Mario Bros. Wonder:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Super Mario World:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin Üzerinden Test Yapıldı
+  Tails of Iron:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  The Godfather II:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  The Godfather The Game:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  The Last Faith:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  The Legend of Zelda:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: A Link Between Worlds':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: A Link to the Past':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: Ocarina of Time 3D':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: Oracle of Seasons':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: The Minish Cap':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'The Legend of Zelda: Tri Force Heroes':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Thymesia:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  'Tower Hunter: Erza Trial':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Trepang2:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kaplama Yok
+    test: Metin+Oyun İçi Test Yapıldı
+  Turok:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  ULTIMATE NES REMIX:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Yapılmadı
+  'Warhammer 40,000: Space Marine A.E.':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Yoshis New Island:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Yapılmadı
+  'Zelda II: The Adventure of Link':
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin+Oyun İçi Test Yapıldı
+  'Zelda: Link Awakening':
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
+  Zorro The Chronicles:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
