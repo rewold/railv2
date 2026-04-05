@@ -171,8 +171,7 @@ games:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/GTA_Liberty_City_Stories/GTA_Liberty_City_Stories_win.7z.001
 - name: Haiku, the Robot
   downloads:
-    Nintendo Switch: https://example.com/haiku_the_robot_switch.zip
-    Windows: https://example.com/haiku_the_robot_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Haiku_the_Robot/Haiku_the_Robot_win.7z.001
 - name: 'Hotline Miami 2: Wrong Number'
   downloads:
     Nintendo Switch: https://example.com/hotline_miami_2_wrong_number_switch.zip
