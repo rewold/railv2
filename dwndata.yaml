@@ -172,6 +172,7 @@ games:
 - name: Haiku, the Robot
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Haiku_the_Robot/Haiku_the_Robot_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Haiku_the_Robot/Haiku_the_Robot_macos.7z.001
 - name: 'Hotline Miami 2: Wrong Number'
   downloads:
     Nintendo Switch: https://example.com/hotline_miami_2_wrong_number_switch.zip
