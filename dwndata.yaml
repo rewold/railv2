@@ -163,9 +163,12 @@ games:
     Nintendo Switch: https://example.com/gris_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/GRIS/GRIS_win.7z
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/GRIS/GRIS_macos.7z
+- name: GTA Liberty City Stories
+  downloads:
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/GTA_Liberty_City_Stories/GTA_Liberty_City_Stories_win.7z.001
 - name: 'GTA: Liberty City Stories'
   downloads:
-    Windows: https://example.com/gta_liberty_city_stories_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/GTA_Liberty_City_Stories/GTA_Liberty_City_Stories_win.7z.001
 - name: Haiku, the Robot
   downloads:
     Nintendo Switch: https://example.com/haiku_the_robot_switch.zip
