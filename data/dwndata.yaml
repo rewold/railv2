@@ -192,7 +192,7 @@ games:
 - name: It Takes Two
   downloads:
     Nintendo Switch: https://example.com/it_takes_two_switch.zip
-    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/It_Takes_Two/It_Takes_Two_macos.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/It_Takes_Two/It_Takes_Two_macos.7z
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/It_Takes_Two/It_Takes_Two_win.7z.001
 - name: Journey to the Savage Planet
   downloads:
