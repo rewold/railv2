@@ -196,7 +196,7 @@ games:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/It_Takes_Two/It_Takes_Two_win.7z.001
 - name: Journey to the Savage Planet
   downloads:
-    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Journey_to_the_Savage_Planet/Journey_to_the_Savage_Planet_win.7z
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Journey_to_the_Savage_Planet/Journey_to_the_Savage_Planet_win.7z.001
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Journey_to_the_Savage_Planet/Journey_to_the_Savage_Planet_macos.7z.001
 - name: Katana Zero
   downloads:
