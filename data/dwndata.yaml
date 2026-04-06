@@ -198,6 +198,7 @@ games:
   downloads:
     Nintendo Switch: https://example.com/journey_to_the_savage_planet_switch.zip
     Windows: https://example.com/journey_to_the_savage_planet_windows.zip
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Journey_to_the_Savage_Planet/Journey_to_the_Savage_Planet_macos.7z.001
 - name: Katana Zero
   downloads:
     Windows: https://example.com/katana_zero_windows.zip
