@@ -1,3 +1,10 @@
 pool:
   target: 3500
   current: 3169
+  covers:
+    '50': https://github.com/rewold/railv2/blob/main/posters/pool/Saints%20Row%202.png?raw=true
+    '60': https://github.com/rewold/railv2/blob/main/posters/pool/Hotline%20Miami%202%20Wrong%20Number.png?raw=true
+    '70': https://github.com/rewold/railv2/blob/main/posters/pool/Dolmen.png?raw=true
+    '80': https://github.com/rewold/railv2/blob/main/posters/pool/Dead%20Space%203%20Awakened.png?raw=true
+    '90': https://github.com/rewold/railv2/blob/main/posters/pool/Mario%20vs.%20Donkey%20Kong.png?raw=true
+    '100': https://github.com/rewold/railv2/blob/main/posters/pool/Prey.png?raw=true
