@@ -1,6 +1,6 @@
 pool:
-  target: 3500
-  current: 3169
+  target: 10000
+  current: 159
   covers:
     '50': https://github.com/rewold/railv2/blob/main/posters/pool/Saints%20Row%202.png?raw=true
     '60': https://github.com/rewold/railv2/blob/main/posters/pool/Hotline%20Miami%202%20Wrong%20Number.png?raw=true
