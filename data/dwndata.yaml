@@ -14,6 +14,7 @@ games:
 - name: Alex Kidd in Miracle World DX
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Alex_Kidd_in_Miracle_World_DX/Alex_Kidd_in_Miracle_World_DX_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Alex_Kidd_in_Miracle_World_DX/Alex_Kidd_in_Miracle_World_DX_macos.7z.001
 - name: Ashen
   downloads:
     Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/Ashen/Ashen_win.7z
