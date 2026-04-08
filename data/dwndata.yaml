@@ -262,6 +262,7 @@ games:
 - name: New Super Mario Bros. U Deluxe
   downloads:
     Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_win.7z.001
 - name: Nocturne
   downloads:
     Windows: https://example.com/nocturne_windows.zip
