@@ -35,7 +35,7 @@ games:
     Nintendo Switch: https://example.com/blasphemous_2_switch.zip
 - name: Bloodhound
   downloads:
-    Windows: https://example.com/bloodhound_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Bloodhound/Bloodhound_win.7z.001
 - name: BloodRayne
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne/BloodRayne_win.7z
