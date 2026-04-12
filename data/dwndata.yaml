@@ -405,6 +405,9 @@ games:
 - name: Thymesia
   downloads:
     Windows: https://example.com/thymesia_windows.zip
+- name: 'Tower Hunter: Erza Trial'
+  downloads:
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Tower_Hunter_Erza_Trial/Tower_Hunter_Erza_Trial_win.7z.001
 - name: 'Tower Hunter: Erza''s Trial'
   downloads:
     Windows: https://example.com/tower_hunter_erzas_trial_windows.zip
