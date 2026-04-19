@@ -139,8 +139,8 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_macos.7z
 - name: Fez
   downloads:
-    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/
-    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_macos.7z
 - name: Final Fantasy VII
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_win.7z.001
