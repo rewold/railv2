@@ -36,8 +36,6 @@ games:
   testing: ISKA
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Alex%20Kidd%20in%20Miracle%20World%20DX.jpeg
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: Ashen
   categories:
   - Windows
@@ -97,8 +95,6 @@ games:
   testing: ''
   compatible_version: 17 July 2023 sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Bloodhound.jpeg
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: BloodRayne
   categories:
   - Windows
@@ -185,8 +181,6 @@ games:
   testing: rewold20
   compatible_version: İlk sürüme uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Brothers%20A%20Tale%20of%20Two%20Sons%20Remake.jpeg
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: 'Bully: Scholarship Edition'
   categories:
   - Windows
@@ -383,6 +377,7 @@ games:
   - Nintendo Switch
   - Windows
   - MacOS
+  - PS Vita
   video_url: https://www.youtube.com/watch?v=bfmGPwsEcLU
   translator: rewold20
   testing: VAsTER
@@ -394,11 +389,9 @@ games:
   - Windows
   video_url: ''
   translator: Adol125 - Aybakh21 -Kaan Gedikli - Erol Utku Kara - *E4EN
-  testing: ' Adol125 - Vkopuzoglu - Pakrad Demir - byflash'
+  testing: Adol125 - Vkopuzoglu - Pakrad Demir - byflash
   compatible_version: Steam son sürümü ile uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Final%20Fantasy%20VII.jpeg?raw=true
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: Freedom Fighters
   categories:
   - Windows
@@ -696,8 +689,6 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: Nocturne
   categories:
   - Windows
@@ -1127,8 +1118,6 @@ games:
   testing: VAsTER - rewold20
   compatible_version: Steam son sürümle uyumludur.
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Tower%20Hunter%20Erza%20Trial.jpeg?raw=true
-  translation_type: Havuz
-  pool_url: https://www.shopier.com/RewAdIs/45959982
 - name: Trepang2
   categories:
   - Windows
