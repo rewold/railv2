@@ -65,7 +65,7 @@ games:
     Windows: https://example.com/bright_memory_infinite_windows.zip
 - name: 'Brothers: A Tale of Two Sons Remake'
   downloads:
-    Windows: https://example.com/brothers_tale_two_sons_remake_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Brothers_A_Tale_of_Two_Sons_Remake/Brothers_A_Tale_of_Two_Sons_Remake_win.7z.001
 - name: 'Bully: Scholarship Edition'
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Bully_Scholarship_Edition/Bully_Scholarship_Edition_win.7z
@@ -143,7 +143,6 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/
 - name: Final Fantasy VII
   downloads:
-    Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_win.7z.001
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_macos.7z.001
 - name: Freedom Fighters
