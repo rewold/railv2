@@ -13,7 +13,8 @@ games:
     Playstation Vita: https://example.com/a_hole_new_world_vita.zip
 - name: Alex Kidd in Miracle World DX
   downloads:
-    Windows: https://example.com/alex_kidd_miracle_world_dx_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Alex_Kidd_in_Miracle_World_DX/Alex_Kidd_in_Miracle_World_DX_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Alex_Kidd_in_Miracle_World_DX/Alex_Kidd_in_Miracle_World_DX_macos.7z.001
 - name: Ashen
   downloads:
     Windows: https://github.com/rewold/railv2/raw/refs/heads/main/setups/Ashen/Ashen_win.7z
@@ -34,7 +35,7 @@ games:
     Nintendo Switch: https://example.com/blasphemous_2_switch.zip
 - name: Bloodhound
   downloads:
-    Windows: https://example.com/bloodhound_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Bloodhound/Bloodhound_win.7z.001
 - name: BloodRayne
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/BloodRayne/BloodRayne_win.7z
@@ -142,8 +143,8 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/
 - name: Final Fantasy VII
   downloads:
-    Nintendo Switch: https://example.com/final_fantasy_vii_switch.zip
-    Windows: https://example.com/final_fantasy_vii_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_macos.7z.001
 - name: Freedom Fighters
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Freedom_Fighters/Freedom_Fighters_win.7z
@@ -261,6 +262,8 @@ games:
 - name: New Super Mario Bros. U Deluxe
   downloads:
     Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_macos.7z.001
 - name: Nocturne
   downloads:
     Windows: https://example.com/nocturne_windows.zip
@@ -402,6 +405,9 @@ games:
 - name: Thymesia
   downloads:
     Windows: https://example.com/thymesia_windows.zip
+- name: 'Tower Hunter: Erza Trial'
+  downloads:
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Tower_Hunter_Erza_Trial/Tower_Hunter_Erza_Trial_win.7z.001
 - name: 'Tower Hunter: Erza''s Trial'
   downloads:
     Windows: https://example.com/tower_hunter_erzas_trial_windows.zip
