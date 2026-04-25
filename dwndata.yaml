@@ -264,6 +264,10 @@ games:
     Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_win.7z.001
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_macos.7z.001
+- name: Nine Sols
+  downloads:
+    Nintendo Switch: https://www.youtube.com/watch?v=HRrGavA1sX8
+    Windows: https://www.youtube.com/watch?v=HRrGavA1sX8
 - name: Nocturne
   downloads:
     Windows: https://example.com/nocturne_windows.zip
@@ -304,6 +308,11 @@ games:
 - name: Rain
   downloads:
     Playstation 3: https://example.com/rain_ps3.zip
+- name: Rayman Legends
+  downloads:
+    Windows: https://www.youtube.com/watch?v=HRrGavA1sX8
+    Nintendo Switch: https://www.youtube.com/watch?v=HRrGavA1sX8
+    PS Vita: https://www.youtube.com/watch?v=HRrGavA1sX8
 - name: Rayman Origins
   downloads:
     Windows: https://example.com/rayman_origins_windows.zip
