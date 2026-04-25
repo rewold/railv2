@@ -689,6 +689,16 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
+- name: Nine Sols
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: ''
+  translator: rewold20
+  testing: VAsTER
+  compatible_version: '1.0'
+  poster_url: https://images.igdb.com/igdb/image/upload/t_cover_big/co4l2s.jpg
+  translation_type: Çevriliyor
 - name: Nocturne
   categories:
   - Windows
@@ -802,6 +812,17 @@ games:
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Rain.jpeg
   translation_type: Havuz
   pool_url: https://www.shopier.com/RewAdIs/45959982
+- name: Rayman Legends
+  categories:
+  - Windows
+  - Nintendo Switch
+  - PS Vita
+  video_url: ''
+  translator: rewold20
+  testing: ISKA - VAsTER
+  compatible_version: '1.0'
+  poster_url: https://images.igdb.com/igdb/image/upload/t_cover_big/co3ma8.jpg
+  translation_type: Çevriliyor
 - name: Rayman Origins
   categories:
   - Nintendo Wii
