@@ -696,9 +696,9 @@ games:
   video_url: ''
   translator: rewold20
   testing: VAsTER
-  compatible_version: '1.0'
+  compatible_version: ''
   poster_url: https://images.igdb.com/igdb/image/upload/t_cover_big/co4l2s.jpg
-  translation_type: Çevriliyor
+  translation_type: Testte
 - name: Nocturne
   categories:
   - Windows
