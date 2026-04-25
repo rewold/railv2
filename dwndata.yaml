@@ -319,6 +319,9 @@ games:
 - name: 'Resident Evil: The Mercenaries 3D'
   downloads:
     Nintendo 3DS: https://example.com/resident_evil_mercenaries_3d_3ds.zip
+- name: Rockstar Games Presents Table Tennis
+  downloads:
+    Nintendo Wii: https://raw.githubusercontent.com/
 - name: Running on Magic
   downloads:
     Nintendo Switch: https://example.com/running_on_magic_switch.zip
