@@ -434,6 +434,11 @@ games:
     font: Yok
     textures: Çevrili Değil
     test: Metin Üzerinden Test Yapıldı
+  Rockstar Games Presents Table Tennis:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Kaplama Yok
+    test: Metin Üzerinden Test Yapıldı
   Running on Magic:
     type: İnsan Çevirisi
     font: Mevcut
