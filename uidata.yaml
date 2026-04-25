@@ -843,6 +843,15 @@ games:
   poster_url: https://github.com/rewold/railv2/blob/main/posters/Resident%20Evil%20The%20Mercenaries%203D.jpeg?raw=true
   translation_type: Ücretli
   purchase_url: https://www.shopier.com/32389326
+- name: Rockstar Games Presents Table Tennis
+  categories:
+  - Nintendo Wii
+  video_url: ''
+  translator: rewold20
+  testing: VAsTER
+  compatible_version: '1.0'
+  poster_url: https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcq.jpg
+  translation_type: Testte
 - name: Running on Magic
   categories:
   - Nintendo Switch
