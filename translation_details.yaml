@@ -464,6 +464,11 @@ games:
     font: Mevcut
     textures: Çevrili
     test: Metin+Oyun İçi Test Yapıldı
+  Scott Pilgrim vs the world c:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Metin+Oyun İçi Test Yapıldı
   Sniper Ghost Warrior Contracts:
     type: İnsan Çevirisi
     font: Mevcut
