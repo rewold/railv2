@@ -905,6 +905,15 @@ games:
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Saints%20Row%202.jpeg
   translation_type: Havuz
   pool_url: https://www.shopier.com/RewAdIs/45959982
+- name: Scott Pilgrim vs the world c
+  categories:
+  - Windows
+  - Nintendo Switch
+  video_url: ''
+  translator: rewold20 - VAsTER
+  testing: VAsTER - rewold20
+  compatible_version: '1.0'
+  poster_url: https://images.igdb.com/igdb/image/upload/t_cover_big/co48zz.jpg
 - name: 'Silent Hill: Downpour'
   categories:
   - Playstation 3
