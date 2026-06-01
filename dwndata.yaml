@@ -344,6 +344,8 @@ games:
     Windows: https://example.com/saints_row_2_windows.zip
 - name: Scott Pilgrim vs the world c
   downloads: {}
+- name: 'Scott Pilgrim vs. The World™: The Game – Complete Edition'
+  downloads: {}
 - name: 'Silent Hill: Downpour'
   downloads:
     Playstation 3: https://example.com/silent_hill_downpour_ps3.zip
