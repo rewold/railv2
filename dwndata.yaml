@@ -345,6 +345,7 @@ games:
 - name: Scott Pilgrim The World The Game Complete Edition
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Scott_Pilgrim_The_World_The_Game_Complete_Edition/Scott_Pilgrim_The_World_The_Game_Complete_Edition_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Scott_Pilgrim_The_World_The_Game_Complete_Edition/Scott_Pilgrim_The_World_The_Game_Complete_Edition_macos.7z.001
 - name: 'Silent Hill: Downpour'
   downloads:
     Playstation 3: https://example.com/silent_hill_downpour_ps3.zip
