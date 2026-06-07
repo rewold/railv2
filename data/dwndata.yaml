@@ -344,7 +344,7 @@ games:
     Windows: https://example.com/saints_row_2_windows.zip
 - name: Scott Pilgrim The World The Game Complete Edition
   downloads:
-    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Scott_Pilgrim_The_World_The_Game_Complete_Edition/Scott_Pilgrim_The_World_The_Game_Complete_Edition_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Scott_Pilgrim_The_World_The_Game_Complete_Edition/Scott_Pilgrim_The_World_The_Game_Complete_Edition_macos.7z.001
 - name: Scott Pilgrim vs the world c
   downloads: {}
 - name: 'Scott Pilgrim vs. The World™: The Game – Complete Edition'
