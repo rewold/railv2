@@ -139,8 +139,8 @@ games:
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fe/Fe_macos.7z
 - name: Fez
   downloads:
-    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/
-    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_win.7z.001
+    MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/Fez/Fez_macos.7z
 - name: Final Fantasy VII
   downloads:
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Final_Fantasy_VII/Final_Fantasy_VII_win.7z.001
@@ -264,6 +264,10 @@ games:
     Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_win.7z.001
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_macos.7z.001
+- name: Nine Sols
+  downloads:
+    Windows: https://www.youtube.com/watch?v=HRrGavA1sX8
+    Nintendo Switch: https://www.youtube.com/watch?v=HRrGavA1sX8
 - name: Nocturne
   downloads:
     Windows: https://example.com/nocturne_windows.zip
@@ -304,6 +308,11 @@ games:
 - name: Rain
   downloads:
     Playstation 3: https://example.com/rain_ps3.zip
+- name: Rayman Legends
+  downloads:
+    Windows: https://www.youtube.com/watch?v=HRrGavA1sX8
+    Nintendo Switch: https://www.youtube.com/watch?v=HRrGavA1sX8
+    PS Vita: https://www.youtube.com/watch?v=HRrGavA1sX8
 - name: Rayman Origins
   downloads:
     Windows: https://example.com/rayman_origins_windows.zip
@@ -319,6 +328,9 @@ games:
 - name: 'Resident Evil: The Mercenaries 3D'
   downloads:
     Nintendo 3DS: https://example.com/resident_evil_mercenaries_3d_3ds.zip
+- name: Rockstar Games Presents Table Tennis
+  downloads:
+    Nintendo Wii: https://raw.githubusercontent.com/
 - name: Running on Magic
   downloads:
     Nintendo Switch: https://example.com/running_on_magic_switch.zip
@@ -330,6 +342,13 @@ games:
 - name: Saints Row 2
   downloads:
     Windows: https://example.com/saints_row_2_windows.zip
+- name: Scott Pilgrim The World The Game Complete Edition
+  downloads:
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Scott_Pilgrim_The_World_The_Game_Complete_Edition/Scott_Pilgrim_The_World_The_Game_Complete_Edition_win.7z.001
+- name: Scott Pilgrim vs the world c
+  downloads: {}
+- name: 'Scott Pilgrim vs. The World™: The Game – Complete Edition'
+  downloads: {}
 - name: 'Silent Hill: Downpour'
   downloads:
     Playstation 3: https://example.com/silent_hill_downpour_ps3.zip
