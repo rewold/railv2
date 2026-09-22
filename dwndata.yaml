@@ -231,7 +231,35 @@ games:
     Nintendo Switch: https://example.com/mario_vs_donkey_kong_switch.zip
 - name: Mass Effect L.E
   downloads:
-    Windows: https://example.com/mass_effect_le_windows.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Mass_Effect_LE/Mass_Effect_LE_win.7z.001
+  setup_manifest:
+    schema_version: 2
+    setup_runtime_version: 2.8.7
+    game_name: Mass Effect L.E
+    artifacts:
+      Windows:
+        url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Mass_Effect_LE/Mass_Effect_LE_win.7z.001
+        sha256: a3caddfbf659bb0561aa7af4720d4f2241b25cdb2fd4c2420ef80b9eed592fe5
+        size_bytes: 52636317
+        archive_format: 7z
+        entrypoint: Mass_Effect_LE.exe
+        entrypoint_sha256: 2635ece61a8c296056e215dd4e72a96089bb987ec761f8ae84615338bc766494
+        archive_password: '*utR^vp9T$4V$rcvbX7QSfbT+u-1I^BJ'
+        allowed_redirect_hosts: []
+        max_file_count: 11
+        max_uncompressed_size: 134217728
+        parts:
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Mass_Effect_LE/Mass_Effect_LE_win.7z.001
+          sha256: a976392f4b81a7acf8de471ebb2ada2070cc2376e3ffda0cad808ecd3373fd14
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Mass_Effect_LE/Mass_Effect_LE_win.7z.002
+          sha256: a896b9f458b581f720c86fcd8350460dd46ba13fc82731f409f5de00db31ca61
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Mass_Effect_LE/Mass_Effect_LE_win.7z.003
+          sha256: ed9ce28dc5a7a88d89adc9b0d8db51bf54330515ff81224ce57fe53309c2d483
+          size_bytes: 2304669
+    signing_key_id: release-ef3716a324dfe068
+    signature: Esgkn4R5A/cECI1BUJE3DA6L4p37R0ehbu4fsjI4zr5R0M5q1T0MqWSuOoyS5kgabukrcwUioLhYOyobLM08Bg==
 - name: Metroid Dread
   downloads:
     Nintendo Switch: https://example.com/metroid_dread_switch.zip
