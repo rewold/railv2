@@ -1,5 +1,10 @@
-minimum_version: "2.0.0"
-download_url_windows: ""
-download_url_macos: ""
-download_url_linux: ""
-message: ""
+schema_version: 2
+manifest_type: launcher-update
+minimum_version: 2.2.1
+download_url_windows: https://github.com/rewold/railv2/releases/download/v2.2.1/RewAdIs_Launcher.exe
+download_url_macos: ''
+download_url_linux: ''
+message: Güvenli setup doğrulaması ve Supabase yetki sertleştirmesi içeren zorunlu
+  güvenlik güncellemesi.
+signing_key_id: release-ef3716a324dfe068
+signature: CSoUhJmw9TC1vcxRijepYukLKdcBytlhI8V9LFKcFn1h9PLLDk3oTWpYUkZ6K2SeRhjmenj6Mx6MavMYJOKXBA==
