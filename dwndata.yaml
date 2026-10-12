@@ -214,6 +214,40 @@ games:
 - name: Link's Crossbow Training
   downloads:
     Nintendo Wii: https://example.com/links_crossbow_training_wii.zip
+- name: Links Crossbow Training
+  downloads:
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.001
+  setup_manifest:
+    schema_version: 2
+    setup_runtime_version: 2.8.10
+    game_name: Links Crossbow Training
+    artifacts:
+      Windows:
+        url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.001
+        sha256: 87047af887a14b08906f3759e56cc59ce69a3f66bcf68e3123c471856a9186af
+        size_bytes: 84223853
+        archive_format: 7z
+        entrypoint: Links_Crossbow_Training.exe
+        entrypoint_sha256: 2242e4b8f4c96e418c6e0a81efefe3030a4347c1167c8e0ba3b68887f1be31e9
+        archive_password: DZNRNeG44jSnt*PBmdje2qe!G!#kzgN8
+        allowed_redirect_hosts: []
+        max_file_count: 11
+        max_uncompressed_size: 154130085
+        parts:
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.001
+          sha256: 01ad6c4d5c0d41fbb6b4e86b3f52331d1ddb90ddcb083efd02057e3b3c488ddf
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.002
+          sha256: 7b6e8c50b4e80aed493e8f15f39612e59253c43266fe863050507e9495982161
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.003
+          sha256: be7d4e66a22e49da86ffd2450d5abd56a44e8c778a8217c6d35a3800c1dd260f
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Links_Crossbow_Training/Links_Crossbow_Training_win.7z.004
+          sha256: 57f84ea1d12eee844a1c23516fd823f444a207f798fac35f127968f7c7629f1f
+          size_bytes: 8726381
+    signing_key_id: release-ef3716a324dfe068
+    signature: 4iWCTbPoz7ClpapQ7WrfTQTFztOQok8vIDGoldoPPRurFWr7+89YhTA/764IVjOyr1LLlgaeEHVhM5/ODg4wCA==
 - name: 'LoZ: ALBW'
   downloads:
     Nintendo 3DS: https://example.com/loz_albw_3ds.zip
