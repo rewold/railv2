@@ -393,6 +393,38 @@ games:
 - name: Rockstar Games Presents Table Tennis
   downloads:
     Nintendo Wii: https://raw.githubusercontent.com/
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.001
+  setup_manifest:
+    schema_version: 2
+    setup_runtime_version: 2.8.10
+    game_name: Rockstar Games Presents Table Tennis
+    artifacts:
+      Windows:
+        url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.001
+        sha256: de16803160ec2b8e3caf1670b29142606fb7f2c8d9836984bf96f7f45040a002
+        size_bytes: 81575741
+        archive_format: 7z
+        entrypoint: Rockstar_Games_Presents_Table_Tennis.exe
+        entrypoint_sha256: e74dcb7b0d9235439195916af69a7b4d8a02f2df0072a44dad2187836699eeba
+        archive_password: s_#XV811urbETuIkw_qxO3Im60sTX*Sc
+        allowed_redirect_hosts: []
+        max_file_count: 11
+        max_uncompressed_size: 151497962
+        parts:
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.001
+          sha256: 646e583258b4296609e56e110646ba2f5c74f85dc55a9cbe684e593226efab08
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.002
+          sha256: 1677f31adb3a1bb0f7c0a82806e043f8d24dfd40f7450e668394d4afa1c609c2
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.003
+          sha256: 5c61366b46a9b84e54292377215c1ee9f4399adbb7385205fd2508b8ba9ff6aa
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/Rockstar_Games_Presents_Table_Tennis/Rockstar_Games_Presents_Table_Tennis_win.7z.004
+          sha256: 87617f89edac8ca41bb148e54d116d5fee32307f217485ad209692fa2001b609
+          size_bytes: 6078269
+    signing_key_id: release-ef3716a324dfe068
+    signature: qotQIVZQuKmqrUWjB5w8Le99qHslQD8wTHAe7aJQa3bEddv8ERjLKc52i1hUxlVEDTGJABmQVGl78m4HC58QAA==
 - name: Running on Magic
   downloads:
     Nintendo Switch: https://example.com/running_on_magic_switch.zip
