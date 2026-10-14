@@ -6,7 +6,7 @@ games:
   translator: rewold20
   testing: rewold20
   compatible_version: Son sürüme uyumludur
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/1-2-Switch.jpeg
+  poster_url: https://images.igdb.com/igdb/image/upload/t_1080p/co21q3.jpg
 - name: 9 Years of Shadows
   categories:
   - Windows
@@ -610,7 +610,7 @@ games:
   translator: Doğukan Kartal (evilhuman)
   testing: Doğukan Kartal (evilhuman) - Ümit (Commander Cody) - ISKA
   compatible_version: ''
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Mass%20Effect%20L.E.jpeg
+  poster_url: https://images.igdb.com/igdb/image/upload/t_1080p/co2k5h.jpg
 - name: Metroid Dread
   categories:
   - Nintendo Switch
@@ -977,10 +977,12 @@ games:
 - name: Super Mario Bros. Wii
   categories:
   - Nintendo Wii
+  - Windows
+  - MacOS
   video_url: https://www.youtube.com/watch?v=zHAOXgJhTOc
   translator: rewold20
   testing: ISKA
-  compatible_version: USA sürüm uyumludur.
+  compatible_version: ''
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wii.jpeg
 - name: Super Mario Bros. Wonder
   categories:

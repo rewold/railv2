@@ -501,9 +501,9 @@ games:
     test: Metin+Oyun İçi Test Yapıldı
   Super Mario Bros. Wii:
     type: İnsan Çevirisi
-    font: Yok
-    textures: Çevrili Değil
-    test: Metin Üzerinden Test Yapıldı
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Oyun İçi Test Yapıldı
   Super Mario Bros. Wonder:
     type: İnsan Çevirisi
     font: Mevcut
