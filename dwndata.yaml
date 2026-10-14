@@ -326,6 +326,8 @@ games:
     Nintendo Switch: https://example.com/new_super_mario_bros_u_deluxe_switch.zip
     Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_win.7z.001
     MacOS: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_U_Deluxe/New_Super_Mario_Bros_U_Deluxe_macos.7z.001
+- name: Newer Super Mario Bros. Wii
+  downloads: {}
 - name: Nine Sols
   downloads:
     Windows: https://www.youtube.com/watch?v=HRrGavA1sX8

@@ -359,6 +359,11 @@ games:
     font: Kısıtlı
     textures: Kısmen Çevrili
     test: Metin Üzerinden Test Yapıldı
+  Newer Super Mario Bros. Wii:
+    type: İnsan Çevirisi
+    font: Yok
+    textures: Çevrili Değil
+    test: Metin Üzerinden Test Yapıldı
   Nine Sols:
     type: İnsan Çevirisi
     font: Mevcut

@@ -689,6 +689,16 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
+- name: Newer Super Mario Bros. Wii
+  categories:
+  - Nintendo Wii
+  - Windows
+  - MacOS
+  video_url: ''
+  translator: rewold20
+  testing: rewold20
+  compatible_version: ''
+  poster_url: https://images.igdb.com/igdb/image/upload/t_1080p/co6pgj.jpg
 - name: Nine Sols
   categories:
   - Windows
