@@ -359,6 +359,11 @@ games:
     font: Kısıtlı
     textures: Kısmen Çevrili
     test: Metin Üzerinden Test Yapıldı
+  New Super Mario Bros. Wii:
+    type: İnsan Çevirisi
+    font: Mevcut
+    textures: Kısmen Çevrili
+    test: Oyun İçi Test Yapıldı
   Newer Super Mario Bros. Wii:
     type: İnsan Çevirisi
     font: Yok
@@ -504,11 +509,6 @@ games:
     font: Mevcut
     textures: Çevrili
     test: Metin+Oyun İçi Test Yapıldı
-  Super Mario Bros. Wii:
-    type: İnsan Çevirisi
-    font: Mevcut
-    textures: Kısmen Çevrili
-    test: Oyun İçi Test Yapıldı
   Super Mario Bros. Wonder:
     type: İnsan Çevirisi
     font: Mevcut

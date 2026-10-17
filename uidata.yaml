@@ -689,6 +689,16 @@ games:
   testing: rewold20
   compatible_version: Son sürüme uyumludur
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/New%20Super%20Mario%20Bros.%20U%20Deluxe.jpeg
+- name: New Super Mario Bros. Wii
+  categories:
+  - Nintendo Wii
+  - Windows
+  - MacOS
+  video_url: https://www.youtube.com/watch?v=zHAOXgJhTOc
+  translator: rewold20
+  testing: ISKA
+  compatible_version: ''
+  poster_url: https://images.igdb.com/igdb/image/upload/t_1080p/co21tj.jpg
 - name: Newer Super Mario Bros. Wii
   categories:
   - Nintendo Wii
@@ -984,16 +994,6 @@ games:
   compatible_version: v1.1.0 güncellemesiyle uyumludur.
   poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario
     3D World + Bowser’s Fury.jpeg
-- name: Super Mario Bros. Wii
-  categories:
-  - Nintendo Wii
-  - Windows
-  - MacOS
-  video_url: https://www.youtube.com/watch?v=zHAOXgJhTOc
-  translator: rewold20
-  testing: ISKA
-  compatible_version: ''
-  poster_url: https://raw.githubusercontent.com/rewold/railv2/main/posters/Super%20Mario%20Bros.%20Wii.jpeg
 - name: Super Mario Bros. Wonder
   categories:
   - Nintendo Switch
