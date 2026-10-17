@@ -329,6 +329,38 @@ games:
 - name: New Super Mario Bros. Wii
   downloads:
     Nintendo Wii: https://example.com/super_mario_bros_wii_wii.zip
+    Windows: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.001
+  setup_manifest:
+    schema_version: 2
+    setup_runtime_version: 2.8.10
+    game_name: New Super Mario Bros. Wii
+    artifacts:
+      Windows:
+        url: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.001
+        sha256: 213cec4208b39d579877940433cd061a9ab9d3448f6821ceb3c58968fcd510da
+        size_bytes: 81306413
+        archive_format: 7z
+        entrypoint: New_Super_Mario_Bros_Wii.exe
+        entrypoint_sha256: a7905102c643571f7aad839901f218d3aa0e9308a6175bc6f06688febac642b5
+        archive_password: Xd-7lM^Cp2IaYAfAstcvt7tnuZ1duomq
+        allowed_redirect_hosts: []
+        max_file_count: 11
+        max_uncompressed_size: 151177978
+        parts:
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.001
+          sha256: 90c3ebc585e5ca208b3ff30779c186d17b5ce037b06814137d850c7bf2ac0d87
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.002
+          sha256: 93f483981a871473a21dbc0fe0a41e17f6307342820b73c137fe807a49159e66
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.003
+          sha256: fba8658f647e4ef93ceb8e9f1c2d5df801b4765a123afdc7ad2a30f377a33420
+          size_bytes: 25165824
+        - url: https://raw.githubusercontent.com/rewold/railv2/main/setups/New_Super_Mario_Bros_Wii/New_Super_Mario_Bros_Wii_win.7z.004
+          sha256: 811256308c1f68f273b3184ced0c2731c4ec53928f4a216ca6528d56ef5145c3
+          size_bytes: 5808941
+    signing_key_id: release-ef3716a324dfe068
+    signature: N4Co9b5u3zEs2KxqsCsf5ui+3pp6LF7tSvBTWkROzlNc1w/SfifQ8NhmYP469fI9+eKdD1jqON8NmegcWCxWBw==
 - name: Newer Super Mario Bros. Wii
   downloads: {}
 - name: Nine Sols
